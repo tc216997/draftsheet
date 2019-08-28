@@ -17,7 +17,7 @@ function UndraftedPositions(props) {
           fields={fields}
           players={props.players}
           draft={(p) => props.draft(p)}
-          size={25}
+          size={20}
           position='RB'
         />
       </div>
@@ -28,7 +28,7 @@ function UndraftedPositions(props) {
           fields={fields}
           players={props.players}
           draft={(p) => props.draft(p)}
-          size={25}
+          size={20}
           position='WR'
         />
       </div>
