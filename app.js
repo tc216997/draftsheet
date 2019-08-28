@@ -35,18 +35,18 @@ request.get(url, (error, response, html) => {
           }
         })
         // find adp
-        if (fileName === 'sleeper.csv') {
+        if (file === 'sleeper.csv') {
           sleeperAdp.map(player => {
             let v = fuzzy(player.name, obj.name)*100;
             if (v > 75) {
-              obj.adp = parseInt(player.adp);
+              obj.adp = parseInt(player.rank);
             }  
           });
         } else {
           yahooAdp.map(player => {
             let v = fuzzy(player.name, obj.name)*100;
             if (v > 75) {
-              obj.adp = parseInt(player.adp);
+              obj.adp = parseInt(player.rank);
             }
           });
         }
@@ -81,8 +81,8 @@ request.get(url, (error, response, html) => {
       })
       .on('end', () => {
         rankings.sort((a, b) => {
-          //return a.adp - b.adp || a.tier - b.tier || b.meanValue - a.meanValue || a.vona - b.vona 
-          return a.tier - b.tier || b.meanValue - a.meanValue || a.vona - b.vona
+          return a.adp - b.adp || a.tier - b.tier || b.meanValue - a.meanValue || a.vona - b.vona 
+          //return a.tier - b.tier || b.meanValue - a.meanValue || a.vona - b.vona
         })
         
         let count = 1;
