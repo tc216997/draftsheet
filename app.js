@@ -44,7 +44,6 @@ request.get(url, (error, response, html) => {
             let v = fuzzy(a, b)*100
             if (v > 75) {
               obj.adp = parseInt(player.rank);
-              console.log(obj.name, player.name, v)
             }         
           });
         } else {
@@ -89,8 +88,8 @@ request.get(url, (error, response, html) => {
       .on('end', () => {
         let sorted = rankings.sort((a, b) => {
           //return a.adp - b.adp || a.tier - b.tier || b.meanValue - a.meanValue || a.vona - b.vona 
-          return a.tier - b.tier || b.meanValue - a.meanValue || a.vona - b.vona
-
+          //return a.tier - b.tier || b.meanValue - a.meanValue || a.vona - b.vona
+          return b.meanValue - a.meanValue || a.tier - b.tier || a.vona - b.vona
         })
         
         let count = 1;
