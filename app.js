@@ -67,22 +67,6 @@ request.get(url, (error, response, html) => {
         obj.meanValue = data['Mean Value']
         obj.highValue = data['High Value']
         obj.ps = parseFloat(data['PS']*100).toFixed(2)
-        if (obj.position === 'RB') {
-          obj.dropoff = (parseFloat(obj.meanValue) - rbDropoff).toFixed(0);
-          rbDropoff = parseFloat(data['PS']*100)
-        }
-        if (obj.position === 'WR') {
-          obj.dropoff = (parseFloat(obj.ps) - wrDropoff).toFixed(0);
-          wrDropoff = parseFloat(data['PS']*100)          
-        }
-        if (obj.position === 'TE') {
-          obj.dropoff = (parseFloat(obj.ps) - teDropoff).toFixed(0);
-          teDropoff = parseFloat(data['PS']*100)          
-        }
-        if (obj.position === 'QB') {
-          obj.dropoff = (parseFloat(obj.ps) - qbDropoff).toFixed(0);
-          qbDropoff = parseFloat(data['PS']*100)          
-        }
         rankings.push(obj)
       })
       .on('end', () => {
