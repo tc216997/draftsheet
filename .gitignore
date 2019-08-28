@@ -18,6 +18,8 @@ yarn-error.log*
 
 sleeperadp.csv
 yahooadp.csv
+yahoo.csv
+sleeper.csv
 helper.js
 app.js
 sleeperadp.json
