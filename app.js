@@ -72,7 +72,7 @@ request.get(url, (error, response, html) => {
       .on('end', () => {
         let sorted = rankings.sort((a, b) => {
           //return a.adp - b.adp || a.tier - b.tier || b.meanValue - a.meanValue || a.vona - b.vona 
-        return a.tier - b.tier || b.meanValue - a.meanValue || b.ps - a.ps
+          return a.tier - b.tier || b.meanValue - a.meanValue || b.ps - a.ps 
           //return b.meanValue - a.meanValue || b.ps - a.ps
         })
         
