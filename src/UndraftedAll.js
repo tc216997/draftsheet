@@ -4,7 +4,7 @@ import Undrafted from './Undrafted'
 
 function UndraftedAll(props) {
   return (
-    <div className='col-md-6 col-sm-12 col-xs-12'>
+    <div className='col-md-4 col-sm-12 col-xs-12'>
 
       <div className="aid-title hidden-xs">
         <i className="fa fa-sort-amount-asc"></i> Overall Rankings

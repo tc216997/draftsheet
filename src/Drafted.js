@@ -7,7 +7,7 @@ function Drafted(props) {
   players = players.sort((a, b) => b.drafted - a.drafted);
 
   return (
-    <div className='col-md-12 col-sm-12 col-xs-12'>
+    <div className='col-md-2 col-sm-12 col-xs-12'>
       <div className='aid-title hidden-xs'>
         <i className='fa fa-history'></i> Draft History
       </div>
