@@ -80,7 +80,7 @@ request.get(url, (error, response, html) => {
         let newRankings = []
         sorted.map(obj => {
           let newObj = obj;
-          if (newObj.adp !== "N/A" && newObj.adp <= 50) {
+          if (newObj.adp !== "N/A") {
             const adp = newObj.adp
             const draftRound = Math.floor((adp - 1) / 12) + 1;
             // Get the number of picks at the start of the round
