@@ -42,7 +42,6 @@ class PlayerTable extends PureComponent {
   }
 
   columns(player) {
-    console.log(player)
     return this.props.fields.map((f, i) => {
       if (f === 'tier') {
         return <td key={i}>Tier {player[f]}</td>

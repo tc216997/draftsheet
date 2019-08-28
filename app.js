@@ -81,8 +81,8 @@ request.get(url, (error, response, html) => {
       })
       .on('end', () => {
         rankings.sort((a, b) => {
-          return a.adp - b.adp || a.tier - b.tier || b.meanValue - a.meanValue || a.vona - b.vona 
-          //return a.tier - b.tier || b.meanValue - a.meanValue || a.dropoff - b.dropoff 
+          //return a.adp - b.adp || a.tier - b.tier || b.meanValue - a.meanValue || a.vona - b.vona 
+          return a.tier - b.tier || b.meanValue - a.meanValue || a.vona - b.vona
         })
         
         let count = 1;
