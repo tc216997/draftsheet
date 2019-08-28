@@ -6,6 +6,7 @@
   "devDependencies": {
     "react-scripts": "^3.1.1"
   },
+  "main":"server.js",
   "engines": {
     "npm": "6.4.1",
     "node": "8.16.1"
