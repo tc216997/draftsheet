@@ -80,6 +80,15 @@ request.get(url, (error, response, html) => {
         let newRankings = []
         sorted.map(obj => {
           let newObj = obj;
+          if (newObj.adp !== "N/A" && newObj.adp <= 50) {
+            const adp = newObj.adp
+            const draftRound = Math.floor((adp - 1) / 12) + 1;
+            // Get the number of picks at the start of the round
+            const numberOfPicksSoFar = (draftRound - 1) * 12;
+            // Subtract to get how far along in the round is the pick
+            const roundPick = adp - numberOfPicksSoFar;
+            newObj.adp = `${draftRound}.${roundPick}`
+          }
           newObj.rank = count;
           newObj.vona = (obj.meanValue - vona).toFixed(2);
           vona = obj.meanValue;
