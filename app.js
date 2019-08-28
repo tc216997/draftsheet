@@ -28,7 +28,9 @@ request.get(url, (error, response, html) => {
         obj.adp = "N/A"
         // find boris tier
         boris.map(player => {
-          let v = fuzzy(player.name, obj.name)*100
+          let a = player.name.replace(/[^a-zA-Z]+/g, '')
+          let b = obj.name.replace(/[^a-zA-Z]+/g, '')
+          let v = fuzzy(a, b)*100
           if (v > 75) {
             // set new tier
             obj.tier = player.tier
@@ -37,14 +39,19 @@ request.get(url, (error, response, html) => {
         // find adp
         if (file === 'sleeper.csv') {
           sleeperAdp.map(player => {
-            let v = fuzzy(player.name, obj.name)*100;
+            let a = player.name.replace(/[^a-zA-Z]+/g, '')
+            let b = obj.name.replace(/[^a-zA-Z]+/g, '')
+            let v = fuzzy(a, b)*100
             if (v > 75) {
               obj.adp = parseInt(player.rank);
-            }  
+              console.log(obj.name, player.name, v)
+            }         
           });
         } else {
           yahooAdp.map(player => {
-            let v = fuzzy(player.name, obj.name)*100;
+            let a = player.name.replace(/[^a-zA-Z]+/g, '')
+            let b = obj.name.replace(/[^a-zA-Z]+/g, '')
+            let v = fuzzy(a, b)*100
             if (v > 75) {
               obj.adp = parseInt(player.rank);
             }
@@ -80,20 +87,25 @@ request.get(url, (error, response, html) => {
         rankings.push(obj)
       })
       .on('end', () => {
-        rankings.sort((a, b) => {
-          return a.adp - b.adp || a.tier - b.tier || b.meanValue - a.meanValue || a.vona - b.vona 
-          //return a.tier - b.tier || b.meanValue - a.meanValue || a.vona - b.vona
+        let sorted = rankings.sort((a, b) => {
+          //return a.adp - b.adp || a.tier - b.tier || b.meanValue - a.meanValue || a.vona - b.vona 
+          return a.tier - b.tier || b.meanValue - a.meanValue || a.vona - b.vona
+
         })
         
         let count = 1;
-        rankings.map(obj => {
-          obj.rank = count;
-          obj.vona = (obj.meanValue - vona).toFixed(2);
+        let newRankings = []
+        sorted.map(obj => {
+          let newObj = obj;
+          newObj.rank = count;
+          newObj.vona = (obj.meanValue - vona).toFixed(2);
           vona = obj.meanValue;
           count++;
+          newRankings.push(newObj)
         })
+        
 
-        fs.writeFile(`./src/${file.split('.')[0]}.json`, JSON.stringify(rankings, null, 2), (err) => {
+        fs.writeFile(`./src/${file.split('.')[0]}.json`, JSON.stringify(newRankings, null, 2), (err) => {
           if (err) {
             console.log(err)
           } else {
