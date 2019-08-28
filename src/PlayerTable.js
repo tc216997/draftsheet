@@ -45,7 +45,10 @@ class PlayerTable extends PureComponent {
     return this.props.fields.map((f, i) => {
       if (f === 'tier') {
         return <td key={i}>Tier {player[f]}</td>
-      } else {
+      } else if (f === 'name') {
+        return <td key={i}><strong>{player[f]}</strong></td>
+      } 
+      else {
         return <td key={i}>{player[f]}</td>
       }
     });
