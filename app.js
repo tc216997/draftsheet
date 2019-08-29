@@ -23,9 +23,10 @@ request.get(url, (error, response, html) => {
         let obj = {}
         obj.position = data.Position;
         obj.name = data.Name
-        obj.rank = data.Rank
+        obj.rank = ''
         obj.tier = data['ECR Tier']
         obj.adp = "N/A"
+        obj.pickNumber = 'N/A'
         // find boris tier
         boris.map(player => {
           let a = player.name.replace(/[^a-zA-Z]+/g, '')
@@ -58,7 +59,7 @@ request.get(url, (error, response, html) => {
         }
         obj.team = data['Team']
         obj.bye = data.Bye
-        obj.erc = data['ECR']
+        obj.ecr = data['ECR']
         obj.valueTier = data['Value Tier']
         obj.top12 = data.Elite
         obj.top24 = data.Start
@@ -66,38 +67,42 @@ request.get(url, (error, response, html) => {
         obj.lowValue = data['Low Value']
         obj.meanValue = data['Mean Value']
         obj.highValue = data['High Value']
+        obj.stddev = parseFloat(data['StdDev']).toFixed(2)
         obj.ps = parseFloat(data['PS']*100).toFixed(2)
+        if (obj.adp !== "N/A") {
+          const adp = obj.adp
+          const draftRound = Math.floor((adp - 1) / 12) + 1;
+          // Get the number of picks at the start of the round
+          const numberOfPicksSoFar = (draftRound - 1) * 12;
+          // Subtract to get how far along in the round is the pick
+          const roundPick = adp - numberOfPicksSoFar;
+          obj.pickNumber = `${draftRound}.${roundPick}`
+        }        
         rankings.push(obj)
       })
       .on('end', () => {
+        /*
         let sorted = rankings.sort((a, b) => {
           //return a.adp - b.adp || a.tier - b.tier || b.meanValue - a.meanValue || a.vona - b.vona 
-          return a.tier - b.tier || b.meanValue - a.meanValue || b.ps - a.ps 
+          //return a.tier - b.tier || b.meanValue - a.meanValue || b.ps - a.ps 
           //return b.meanValue - a.meanValue || b.ps - a.ps
+          //return a.adp - b.adp || a.tier - b.tier || b.meanValue - a.meanValue || b.ps - a.ps
+          //return  b.meanValue - a.meanValue || a.tier - b.tier || b.played - a.played  || b.top12 - a.top12 || b.top24 - a.top24 
         })
         
         let count = 1;
         let newRankings = []
-        sorted.map(obj => {
+        sorted.map((obj, index) => {
           let newObj = obj;
-          if (newObj.adp !== "N/A") {
-            const adp = newObj.adp
-            const draftRound = Math.floor((adp - 1) / 12) + 1;
-            // Get the number of picks at the start of the round
-            const numberOfPicksSoFar = (draftRound - 1) * 12;
-            // Subtract to get how far along in the round is the pick
-            const roundPick = adp - numberOfPicksSoFar;
-            newObj.adp = `${draftRound}.${roundPick}`
-          }
           newObj.rank = count;
           newObj.vona = (obj.meanValue - vona).toFixed(2);
           vona = obj.meanValue;
           count++;
           newRankings.push(newObj)
         })
-        
+        */
 
-        fs.writeFile(`./src/${file.split('.')[0]}.json`, JSON.stringify(newRankings, null, 2), (err) => {
+        fs.writeFile(`./src/${file.split('.')[0]}.json`, JSON.stringify(rankings, null, 2), (err) => {
           if (err) {
             console.log(err)
           } else {
