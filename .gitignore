@@ -15,7 +15,14 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-bappy.csv
-discord.csv
+app.js
+helper.js
+playerstats.csv
+sleeper.csv
 sleeperadp.csv
-yahooadp.csv
+team.csv
+yahoo.csv
+playerstats.json
+sleeperadp.json
+yahooadp.json
+*.csv
