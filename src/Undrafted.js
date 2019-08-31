@@ -10,12 +10,8 @@ function Undrafted(props) {
   }
 
   players = players.sort((a, b) => {
-    //return a.adp - b.adp || a.tier - b.tier || b.meanValue - a.meanValue || a.vona - b.vona 
-    //return a.tier - b.tier || b.teamFp - a.teamFp || b.meanValue - a.meanValue || b.top12 - a.top12 || b.top24 - a.top24 || b.played - a.played
-    //return b.meanValue - a.meanValue || b.ps - a.ps
-    //return a.adp - b.adp || a.tier - b.tier || b.meanValue - a.meanValue || b.ps - a.ps
-    //return (a.tier - b.tier || a.position_value - b.position_value || b.top12 - a.top12 || b.top24 - a.top24 || b.played - a.played || b.yds_per_week - a.yds_per_week)
-    return  a.tier - b.tier ||  b.meanValue - a.meanValue || b.top12 - a.top12 || b.top24 - a.top24 || b.played - a.played || b.yds_per_week - a.yds_per_week
+    return a.tier - b.tier || b.teamFp - a.teamFp || b.meanValue - a.meanValue || b.top12 - a.top12 || b.top24 - a.top24 || b.played - a.played
+    //return  a.tier - b.tier ||  b.played - a.played || b.touches - a.touches || b.total_yards - a.total_yards
   });
 
   for (let i = 0; i < players.length; i++) {

@@ -9,6 +9,7 @@ let fileName = ['sleeper.csv', 'yahoo.csv']
 let sleeperAdp = require('./sleeperadp.json')
 let yahooAdp = require('./yahooadp.json')
 const teamRanking = require('./team.json')
+const playerStats = require('./playerstats.json')
 
 
 request.get(url, (error, response, html) => {
@@ -25,8 +26,17 @@ request.get(url, (error, response, html) => {
         obj.name = data.Name
         obj.rank = ''
         obj.tier = data['ECR Tier']
-        obj.adp = "N/A"
-        obj.pickNumber = 'N/A'
+        obj.adp = '#N/A'
+        obj.pickNumber = '#N/A'
+        obj.age = '#N/A'
+        obj.target = '#N/A'
+        obj.rec = '#N/A'
+        obj.touch = '#N/A'
+        obj.yards_per_touch = '#N/A'
+        obj.total_yards = '#N/A'
+        obj.touches = '#N/A'
+        obj.share_of_team_yards = '#N/A'
+        obj.tds = '#N/A'
         obj.team = data['Team']
         // find boris tier
         boris.map(player => {
@@ -39,6 +49,25 @@ request.get(url, (error, response, html) => {
             obj.rank = player.rank
           }
         })
+        playerStats.map(player => {
+          let a = player.name.replace(/[^a-zA-Z]+/g, '')
+          let b = obj.name.replace(/[^a-zA-Z]+/g, '')
+          let v = fuzzy(a, b)*100
+          if (v > 75) {
+            obj.age = player.age
+            obj.target = player.target
+            obj.rec = player.rec
+            obj.touches = player.touches
+            obj.yards_per_touch = player.yards_per_touch
+            obj.total_yards = player.total_yards
+            obj.tds = player.tds
+            teamRanking.map(x => {
+              if (x.team === obj.team) {
+                obj.share_of_team_yards = parseFloat((player.total_yards / x.total_yards * 100).toFixed(1)) + '%'
+              }
+            })
+          }
+        })        
         // attach team ranking
         teamRanking.map(fo => {
           if (fo.team === obj.team) {
@@ -53,8 +82,6 @@ request.get(url, (error, response, html) => {
               obj.yds_per_week = fo.yds_per_week
               obj.pts_per_week = fo.pts_per_week 
               obj.fp_per_week = fo.fp_per_week
-              //obj.teamFp = fo.yds_per_drive * fo.drives / 10 + fo.pts_per_drive * fo.drives
-              //obj.team_fp_per_week =  `${((fo.yds_per_drive * fo.drives / 10 + fo.pts_per_drive * fo.drives)/16).toFixed(2)}(${obj.nflAverage})`
             } else {
               obj.line_rank = fo.pass_rank
               obj.yds_per_drive = fo.yds_per_drive;
@@ -65,9 +92,7 @@ request.get(url, (error, response, html) => {
               obj.plays_rank = fo.passing_plays_rank
               obj.yds_per_week = fo.yds_per_week
               obj.pts_per_week = fo.pts_per_week 
-              obj.fp_per_week = fo.fp_per_week
-              //obj.teamFp = fo.yds_per_drive * fo.drives / 10 + fo.pts_per_drive * fo.drives
-              //obj.team_fp_per_week = `${((fo.yds_per_drive * fo.drives / 10 + fo.pts_per_drive * fo.drives)/16).toFixed(2)}(${obj.nflAverage})`     
+              obj.fp_per_week = fo.fp_per_week     
             }
           }
         });

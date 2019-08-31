@@ -4,7 +4,9 @@ const fs = require('fs')
 const fuzzy = require('fuzzy-string-matching');
 let fileName = ['sleeperadp.csv', 'yahooadp.csv']
 let teamInfo = 'team.csv'
+let playerStats = 'playerstats.csv'
 let teamRankings = [];
+let scrimmageStats = []
 
 fileName.map((file,index) => {
   let rankings = []
@@ -45,10 +47,38 @@ fs.createReadStream(path.join(__dirname, teamInfo))
     obj.yds_per_week = parseFloat(data.yds_per_week)
     obj.pts_per_week = parseFloat(data.pts_per_week)
     obj.fp_per_week = parseFloat(data.fp_per_week)
+    obj.total_yards = parseInt(data.total_yds)
+    obj.rushing_yards = parseInt(data.rushing_yds)
+    obj.passing_yards = parseInt(data.passing_yds)
     teamRankings.push(obj)
   })
   .on('end', () => {
     fs.writeFile(`${teamInfo.split('.')[0]}.json`, JSON.stringify(teamRankings, null, 2), (err) => {
+      if (err) {
+        console.log(err)
+      } else {
+        console.log('done!')
+      }
+    })
+  });
+
+  fs.createReadStream(path.join(__dirname, playerStats))
+  .pipe(csv())
+  .on('data', (data)=> {
+    let obj = {}
+    obj.name = data.name.toLowerCase()
+    obj.team = data.team
+    obj.age = parseInt(data.age)
+    obj.target = parseInt(data.target)
+    obj.rec = parseInt(data.rec)
+    obj.touches = parseInt(data.touch)
+    obj.yards_per_touch = parseFloat(data['yds/touch'])
+    obj.total_yards = parseInt(data.scrimmage_yds)
+    obj.tds = parseInt(data.td)
+    scrimmageStats.push(obj)
+  })
+  .on('end', () => {
+    fs.writeFile(`${playerStats.split('.')[0]}.json`, JSON.stringify(scrimmageStats, null, 2), (err) => {
       if (err) {
         console.log(err)
       } else {
