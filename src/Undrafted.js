@@ -14,7 +14,7 @@ function Undrafted(props) {
     //return a.tier - b.tier || b.meanValue - a.meanValue || b.ps - a.ps 
     //return b.meanValue - a.meanValue || b.ps - a.ps
     //return a.adp - b.adp || a.tier - b.tier || b.meanValue - a.meanValue || b.ps - a.ps
-    return b.meanValue - a.meanValue
+    return a.tier - b.tier || b.meanValue - a.meanValue || b.top12 - a.top12 || b.top24 - a.top24 || b.played - a.played
   });
 
   for (let i = 0; i < players.length; i++) {

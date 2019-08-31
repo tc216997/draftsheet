@@ -1,0 +1,258 @@
+[
+  {
+    "rush_rank": 25,
+    "pass_rank": 26,
+    "drives": 181,
+    "team": "ARI",
+    "yds_per_drive": 21.18,
+    "pts_per_drive": 1.12
+  },
+  {
+    "rush_rank": 24,
+    "pass_rank": 14,
+    "drives": 165,
+    "team": "ATL",
+    "yds_per_drive": 37.97,
+    "pts_per_drive": 2.42
+  },
+  {
+    "rush_rank": 9,
+    "pass_rank": 8,
+    "drives": 174,
+    "team": "BAL",
+    "yds_per_drive": 34.16,
+    "pts_per_drive": 2.08
+  },
+  {
+    "rush_rank": 30,
+    "pass_rank": 23,
+    "drives": 191,
+    "team": "BUF",
+    "yds_per_drive": 25.12,
+    "pts_per_drive": 1.4
+  },
+  {
+    "rush_rank": 11,
+    "pass_rank": 10,
+    "drives": 166,
+    "team": "CAR",
+    "yds_per_drive": 35.83,
+    "pts_per_drive": 2.21
+  },
+  {
+    "rush_rank": 28,
+    "pass_rank": 7,
+    "drives": 173,
+    "team": "CHI",
+    "yds_per_drive": 33.08,
+    "pts_per_drive": 2.17
+  },
+  {
+    "rush_rank": 22,
+    "pass_rank": 19,
+    "drives": 164,
+    "team": "CIN",
+    "yds_per_drive": 29.97,
+    "pts_per_drive": 2.03
+  },
+  {
+    "rush_rank": 18,
+    "pass_rank": 16,
+    "drives": 195,
+    "team": "CLE",
+    "yds_per_drive": 30.31,
+    "pts_per_drive": 1.83
+  },
+  {
+    "rush_rank": 8,
+    "pass_rank": 28,
+    "drives": 161,
+    "team": "DAL",
+    "yds_per_drive": 33.35,
+    "pts_per_drive": 2.06
+  },
+  {
+    "rush_rank": 6,
+    "pass_rank": 11,
+    "drives": 180,
+    "team": "DEN",
+    "yds_per_drive": 30.54,
+    "pts_per_drive": 1.75
+  },
+  {
+    "rush_rank": 20,
+    "pass_rank": 12,
+    "drives": 168,
+    "team": "DET",
+    "yds_per_drive": 32.07,
+    "pts_per_drive": 1.85
+  },
+  {
+    "rush_rank": 7,
+    "pass_rank": 21,
+    "drives": 174,
+    "team": "GB",
+    "yds_per_drive": 33.87,
+    "pts_per_drive": 2.08
+  },
+  {
+    "rush_rank": 27,
+    "pass_rank": 32,
+    "drives": 179,
+    "team": "HOU",
+    "yds_per_drive": 32.7,
+    "pts_per_drive": 2.09
+  },
+  {
+    "rush_rank": 4,
+    "pass_rank": 2,
+    "drives": 176,
+    "team": "IND",
+    "yds_per_drive": 35.07,
+    "pts_per_drive": 2.46
+  },
+  {
+    "rush_rank": 21,
+    "pass_rank": 27,
+    "drives": 177,
+    "team": "JAX",
+    "yds_per_drive": 26.23,
+    "pts_per_drive": 1.24
+  },
+  {
+    "rush_rank": 16,
+    "pass_rank": 5,
+    "drives": 163,
+    "team": "KC",
+    "yds_per_drive": 41.53,
+    "pts_per_drive": 3.25
+  },
+  {
+    "rush_rank": 5,
+    "pass_rank": 13,
+    "drives": 167,
+    "team": "LAC",
+    "yds_per_drive": 34.84,
+    "pts_per_drive": 2.43
+  },
+  {
+    "rush_rank": 1,
+    "pass_rank": 6,
+    "drives": 175,
+    "team": "LAR",
+    "yds_per_drive": 38.99,
+    "pts_per_drive": 2.79
+  },
+  {
+    "rush_rank": 14,
+    "pass_rank": 31,
+    "drives": 176,
+    "team": "MIA",
+    "yds_per_drive": 25.73,
+    "pts_per_drive": 1.61
+  },
+  {
+    "rush_rank": 23,
+    "pass_rank": 9,
+    "drives": 185,
+    "team": "MIN",
+    "yds_per_drive": 29.34,
+    "pts_per_drive": 1.83
+  },
+  {
+    "rush_rank": 3,
+    "pass_rank": 1,
+    "drives": 176,
+    "team": "NE",
+    "yds_per_drive": 35.83,
+    "pts_per_drive": 2.32
+  },
+  {
+    "rush_rank": 2,
+    "pass_rank": 3,
+    "drives": 155,
+    "team": "NO",
+    "yds_per_drive": 39.89,
+    "pts_per_drive": 3.21
+  },
+  {
+    "rush_rank": 29,
+    "pass_rank": 20,
+    "drives": 172,
+    "team": "NYG",
+    "yds_per_drive": 32.81,
+    "pts_per_drive": 2.02
+  },
+  {
+    "rush_rank": 32,
+    "pass_rank": 18,
+    "drives": 192,
+    "team": "NYJ",
+    "yds_per_drive": 23.99,
+    "pts_per_drive": 1.55
+  },
+  {
+    "rush_rank": 13,
+    "pass_rank": 25,
+    "drives": 170,
+    "team": "OAK",
+    "yds_per_drive": 30.8,
+    "pts_per_drive": 1.62
+  },
+  {
+    "rush_rank": 19,
+    "pass_rank": 17,
+    "drives": 174,
+    "team": "PHI",
+    "yds_per_drive": 33.52,
+    "pts_per_drive": 2.11
+  },
+  {
+    "rush_rank": 15,
+    "pass_rank": 4,
+    "drives": 174,
+    "team": "PIT",
+    "yds_per_drive": 37.68,
+    "pts_per_drive": 2.32
+  },
+  {
+    "rush_rank": 12,
+    "pass_rank": 30,
+    "drives": 176,
+    "team": "SEA",
+    "yds_per_drive": 32.41,
+    "pts_per_drive": 2.36
+  },
+  {
+    "rush_rank": 10,
+    "pass_rank": 22,
+    "drives": 173,
+    "team": "SF",
+    "yds_per_drive": 33.73,
+    "pts_per_drive": 1.88
+  },
+  {
+    "rush_rank": 31,
+    "pass_rank": 15,
+    "drives": 179,
+    "team": "TB",
+    "yds_per_drive": 36.93,
+    "pts_per_drive": 2.17
+  },
+  {
+    "rush_rank": 17,
+    "pass_rank": 29,
+    "drives": 162,
+    "team": "TEN",
+    "yds_per_drive": 30.35,
+    "pts_per_drive": 1.79
+  },
+  {
+    "rush_rank": 26,
+    "pass_rank": 24,
+    "drives": 165,
+    "team": "WAS",
+    "yds_per_drive": 28.2,
+    "pts_per_drive": 1.66
+  }
+]
