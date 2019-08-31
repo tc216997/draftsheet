@@ -11,10 +11,10 @@ function Undrafted(props) {
 
   players = players.sort((a, b) => {
     //return a.adp - b.adp || a.tier - b.tier || b.meanValue - a.meanValue || a.vona - b.vona 
-    //return a.tier - b.tier || b.meanValue - a.meanValue || b.ps - a.ps 
+    //return a.tier - b.tier || b.teamFp - a.teamFp || b.meanValue - a.meanValue || b.top12 - a.top12 || b.top24 - a.top24 || b.played - a.played
     //return b.meanValue - a.meanValue || b.ps - a.ps
     //return a.adp - b.adp || a.tier - b.tier || b.meanValue - a.meanValue || b.ps - a.ps
-    return a.tier - b.tier || b.meanValue - a.meanValue || b.top12 - a.top12 || b.top24 - a.top24 || b.played - a.played
+    return a.tier - b.tier || b.meanValue - a.meanValue || b.top12 - a.top12 || b.top24 - a.top24 || b.played - a.played || b.teamFp - a.teamFp
   });
 
   for (let i = 0; i < players.length; i++) {

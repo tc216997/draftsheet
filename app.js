@@ -113,6 +113,11 @@ request.get(url, (error, response, html) => {
         rankings.push(obj)
       })
       .on('end', () => {
+        rankings.map(obj => {
+          if (obj.tier === '#N/A') {
+            obj.tier = 29;
+          }
+        })
         fs.writeFile(`./src/${file.split('.')[0]}.json`, JSON.stringify(rankings, null, 2), (err) => {
           if (err) {
             console.log(err)
