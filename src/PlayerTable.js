@@ -3,11 +3,9 @@ import React, { PureComponent } from 'react';
 class PlayerTable extends PureComponent {
   rows() {
     let players = this.props.players.slice();
-
     if (this.props.size) {
       players = players.slice(0, this.props.size);
     }
-
     return players.map((player, i) => {
       return (
         <tr key={i}
@@ -42,6 +40,9 @@ class PlayerTable extends PureComponent {
   }
 
   columns(player) {
+    console.log(this.props)
+    //this.props.fields === 8
+    //this
     return this.props.fields.map((f, i) => {
       if (f === 'tier') {
         return <td key={i}>Tier {player[f]}</td>
@@ -50,11 +51,23 @@ class PlayerTable extends PureComponent {
       } 
       else {
         return <td key={i}>{player[f]}</td>
-      }
+      }        
+
     });
   }
 
   render() {
+    //console.log(this.props.players.length)
+    //console.log(this.props.fields)
+    let headers = []
+    let fields = this.props.fields
+    for (let i = 0; i < fields; i++) {
+      let text = fields[i].toUpperCase()
+      let temp = (<th>{text}</th>)
+      console.log(temp)
+      headers.push(temp)
+    }
+
     return (
       <table className='table table-condensed table-hover table-striped'>
         <tbody>

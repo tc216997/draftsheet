@@ -22,6 +22,7 @@ class DraftBoard extends Component {
 
     componentDidMount() {
       this.getPlayers(this.state.format)
+
     }
 
     getPlayers(format) {
@@ -98,7 +99,7 @@ class DraftBoard extends Component {
       if (this.state.fetchError) {
         return (<div className='row'>error fetching rankings...</div>)
       }
-
+      
       return (
         <div className='row'>
           <UndraftedAll
