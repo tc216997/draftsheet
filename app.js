@@ -48,16 +48,26 @@ request.get(url, (error, response, html) => {
               obj.pts_per_drive = fo.pts_per_drive;
               obj.drives = fo.drives
               obj.nflAverage = ((32.31 * 174 / 10 + 2.04 * 174)/16).toFixed(2)
-              obj.teamFp = fo.yds_per_drive * fo.drives / 10 + fo.pts_per_drive * fo.drives
-              obj.team_fp_per_week =  `${((fo.yds_per_drive * fo.drives / 10 + fo.pts_per_drive * fo.drives)/16).toFixed(2)}(${obj.nflAverage})`
+              obj.plays = fo.rushing_plays
+              obj.plays_rank = fo.rushing_plays_rank
+              obj.yds_per_week = fo.yds_per_week
+              obj.pts_per_week = fo.pts_per_week 
+              obj.fp_per_week = fo.fp_per_week
+              //obj.teamFp = fo.yds_per_drive * fo.drives / 10 + fo.pts_per_drive * fo.drives
+              //obj.team_fp_per_week =  `${((fo.yds_per_drive * fo.drives / 10 + fo.pts_per_drive * fo.drives)/16).toFixed(2)}(${obj.nflAverage})`
             } else {
               obj.line_rank = fo.pass_rank
               obj.yds_per_drive = fo.yds_per_drive;
               obj.pts_per_drive = fo.pts_per_drive;
               obj.drives = fo.drives
               obj.nflAverage = ((32.31 * 174 / 10 + 2.04 * 174)/16).toFixed(2)
-              obj.teamFp = fo.yds_per_drive * fo.drives / 10 + fo.pts_per_drive * fo.drives
-              obj.team_fp_per_week = `${((fo.yds_per_drive * fo.drives / 10 + fo.pts_per_drive * fo.drives)/16).toFixed(2)}(${obj.nflAverage})`     
+              obj.plays = fo.passing_plays
+              obj.plays_rank = fo.passing_plays_rank
+              obj.yds_per_week = fo.yds_per_week
+              obj.pts_per_week = fo.pts_per_week 
+              obj.fp_per_week = fo.fp_per_week
+              //obj.teamFp = fo.yds_per_drive * fo.drives / 10 + fo.pts_per_drive * fo.drives
+              //obj.team_fp_per_week = `${((fo.yds_per_drive * fo.drives / 10 + fo.pts_per_drive * fo.drives)/16).toFixed(2)}(${obj.nflAverage})`     
             }
           }
         });

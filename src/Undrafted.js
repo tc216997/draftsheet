@@ -14,7 +14,8 @@ function Undrafted(props) {
     //return a.tier - b.tier || b.teamFp - a.teamFp || b.meanValue - a.meanValue || b.top12 - a.top12 || b.top24 - a.top24 || b.played - a.played
     //return b.meanValue - a.meanValue || b.ps - a.ps
     //return a.adp - b.adp || a.tier - b.tier || b.meanValue - a.meanValue || b.ps - a.ps
-    return a.tier - b.tier || b.meanValue - a.meanValue || b.top12 - a.top12 || b.top24 - a.top24 || b.played - a.played || b.teamFp - a.teamFp
+    //return (a.tier - b.tier || a.position_value - b.position_value || b.top12 - a.top12 || b.top24 - a.top24 || b.played - a.played || b.yds_per_week - a.yds_per_week)
+    return  a.tier - b.tier ||  b.meanValue - a.meanValue || b.top12 - a.top12 || b.top24 - a.top24 || b.played - a.played || b.yds_per_week - a.yds_per_week
   });
 
   for (let i = 0; i < players.length; i++) {
@@ -22,6 +23,7 @@ function Undrafted(props) {
       for (let j = 0; j < players.length; j++) {
         if (players[j].position === 'RB' && j > i) {
           players[i].vona = ((players[i].meanValue - players[j].meanValue)*-1).toFixed(2);
+          players[i].position_value = 1;
           break;
         }
       }
@@ -30,6 +32,7 @@ function Undrafted(props) {
       for (let j = 0; j < players.length; j++) {
         if (players[j].position === 'WR' && j > i) {
           players[i].vona = ((players[i].meanValue- players[j].meanValue)*-1).toFixed(2);
+          players[i].position_value = 2;
           break;
         }
       }      
@@ -38,6 +41,7 @@ function Undrafted(props) {
       for (let j = 0; j < players.length; j++) {
         if (players[j].position === 'TE' && j > i) {
           players[i].vona = ((players[i].meanValue - players[j].meanValue)*-1).toFixed(2);
+          players[i].position_value = 3;
           break;
         }
       }       
@@ -46,11 +50,12 @@ function Undrafted(props) {
       for (let j = 0; j < players.length; j++) {
         if (players[j].position === 'QB' && j > i) {
           players[i].vona = ((players[i].meanValue - players[j].meanValue)*-1).toFixed(2);
+          players[i].position_value = 3;
           break;
         }
       }       
     }
-  } 
+  }
 
 
   return (

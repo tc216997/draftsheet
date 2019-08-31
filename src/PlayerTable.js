@@ -57,7 +57,9 @@ class PlayerTable extends PureComponent {
   render() {
     return (
       <table className='table table-condensed table-hover table-striped'>
-        <tbody>{this.rows()}</tbody>
+        <tbody>
+          {this.rows()}
+        </tbody>
       </table>
     );
   }
