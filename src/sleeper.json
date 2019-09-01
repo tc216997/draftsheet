@@ -26,7 +26,7 @@
     "value": "11.4",
     "highValue": "13.6",
     "yards_per_week": 135.2,
-    "floor_per_week": "13.52",
+    "floor_per_week": "16.55",
     "stddev": "2.19",
     "ps": "93.00",
     "passing_yards": null,
@@ -36,10 +36,7 @@
     "drives": 172,
     "nflAverage": "57.32",
     "plays": 360,
-    "plays_rank": 26,
-    "yds_per_week": 25.229333333333333,
-    "pts_per_week": 21.72,
-    "fp_per_week": 59.56
+    "plays_rank": 26
   },
   {
     "position": "RB",
@@ -68,7 +65,7 @@
     "value": "9.7",
     "highValue": "11.8",
     "yards_per_week": 106.13333333333334,
-    "floor_per_week": "10.61",
+    "floor_per_week": "13.31",
     "stddev": "2.07",
     "ps": "81.00",
     "passing_yards": null,
@@ -78,10 +75,7 @@
     "drives": 155,
     "nflAverage": "57.32",
     "plays": 442,
-    "plays_rank": 7,
-    "yds_per_week": 25.829333333333334,
-    "pts_per_week": 31.1,
-    "fp_per_week": 69.84
+    "plays_rank": 7
   },
   {
     "position": "RB",
@@ -110,7 +104,7 @@
     "value": "9.7",
     "highValue": "12.7",
     "yards_per_week": 131,
-    "floor_per_week": "13.10",
+    "floor_per_week": "16.67",
     "stddev": "2.37",
     "ps": "87.00",
     "passing_yards": null,
@@ -120,10 +114,7 @@
     "drives": 166,
     "nflAverage": "57.32",
     "plays": 410,
-    "plays_rank": 14,
-    "yds_per_week": 25.862666666666666,
-    "pts_per_week": 22.93,
-    "fp_per_week": 61.72
+    "plays_rank": 14
   },
   {
     "position": "RB",
@@ -152,7 +143,7 @@
     "value": "9.3",
     "highValue": "11.6",
     "yards_per_week": 133.4,
-    "floor_per_week": "13.34",
+    "floor_per_week": "15.91",
     "stddev": "1.54",
     "ps": "75.00",
     "passing_yards": null,
@@ -162,10 +153,7 @@
     "drives": 161,
     "nflAverage": "57.32",
     "plays": 438,
-    "plays_rank": 8,
-    "yds_per_week": 24.366666666666667,
-    "pts_per_week": 20.73,
-    "fp_per_week": 57.28
+    "plays_rank": 8
   },
   {
     "position": "WR",
@@ -194,7 +182,7 @@
     "value": "8.8",
     "highValue": "12.9",
     "yards_per_week": 104.33333333333333,
-    "floor_per_week": "10.43",
+    "floor_per_week": "14.27",
     "stddev": "2.41",
     "ps": "94.00",
     "passing_yards": null,
@@ -204,10 +192,7 @@
     "drives": 179,
     "nflAverage": "57.32",
     "plays": 537,
-    "plays_rank": 25,
-    "yds_per_week": 386.63,
-    "pts_per_week": 23.38,
-    "fp_per_week": 62.04
+    "plays_rank": 25
   },
   {
     "position": "WR",
@@ -236,7 +221,7 @@
     "value": "8.4",
     "highValue": "12.1",
     "yards_per_week": 92.4,
-    "floor_per_week": "9.24",
+    "floor_per_week": "12.94",
     "stddev": "1.25",
     "ps": "83.00",
     "passing_yards": null,
@@ -246,10 +231,7 @@
     "drives": 174,
     "nflAverage": "57.32",
     "plays": 670,
-    "plays_rank": 3,
-    "yds_per_week": 393.5,
-    "pts_per_week": 22.62,
-    "fp_per_week": 61.97
+    "plays_rank": 3
   },
   {
     "position": "WR",
@@ -278,7 +260,7 @@
     "value": "8.4",
     "highValue": "12.1",
     "yards_per_week": 112.6,
-    "floor_per_week": "11.26",
+    "floor_per_week": "15.03",
     "stddev": "2.61",
     "ps": "89.00",
     "passing_yards": null,
@@ -288,10 +270,7 @@
     "drives": 165,
     "nflAverage": "57.32",
     "plays": 643,
-    "plays_rank": 5,
-    "yds_per_week": 407.63,
-    "pts_per_week": 24.96,
-    "fp_per_week": 65.72
+    "plays_rank": 5
   },
   {
     "position": "WR",
@@ -320,7 +299,7 @@
     "value": "7.8",
     "highValue": "13.2",
     "yards_per_week": 93.66666666666667,
-    "floor_per_week": "9.37",
+    "floor_per_week": "13.53",
     "stddev": "2.04",
     "ps": "78.00",
     "passing_yards": null,
@@ -330,10 +309,7 @@
     "drives": 155,
     "nflAverage": "57.32",
     "plays": 547,
-    "plays_rank": 23,
-    "yds_per_week": 387.44,
-    "pts_per_week": 31.1,
-    "fp_per_week": 69.84
+    "plays_rank": 23
   },
   {
     "position": "WR",
@@ -362,7 +338,7 @@
     "value": "7.6",
     "highValue": "11.7",
     "yards_per_week": 95.93333333333334,
-    "floor_per_week": "9.59",
+    "floor_per_week": "13.29",
     "stddev": "2.46",
     "ps": "73.00",
     "passing_yards": null,
@@ -372,10 +348,7 @@
     "drives": 174,
     "nflAverage": "57.32",
     "plays": 726,
-    "plays_rank": 1,
-    "yds_per_week": 413.69,
-    "pts_per_week": 25.23,
-    "fp_per_week": 66.6
+    "plays_rank": 1
   },
   {
     "position": "WR",
@@ -404,7 +377,7 @@
     "value": "7.4",
     "highValue": "9.4",
     "yards_per_week": 108.66666666666667,
-    "floor_per_week": "10.87",
+    "floor_per_week": "13.77",
     "stddev": "3.60",
     "ps": "69.00",
     "passing_yards": null,
@@ -414,10 +387,7 @@
     "drives": 163,
     "nflAverage": "57.32",
     "plays": 621,
-    "plays_rank": 9,
-    "yds_per_week": 436.31,
-    "pts_per_week": 33.11,
-    "fp_per_week": 76.74
+    "plays_rank": 9
   },
   {
     "position": "RB",
@@ -446,7 +416,7 @@
     "value": "7.3",
     "highValue": "9.5",
     "yards_per_week": 92.4,
-    "floor_per_week": "9.24",
+    "floor_per_week": "10.91",
     "stddev": "1.04",
     "ps": "71.00",
     "passing_yards": null,
@@ -456,10 +426,7 @@
     "drives": 181,
     "nflAverage": "57.32",
     "plays": 355,
-    "plays_rank": 28,
-    "yds_per_week": 17.608666666666668,
-    "pts_per_week": 12.67,
-    "fp_per_week": 39.08
+    "plays_rank": 28
   },
   {
     "position": "TE",
@@ -488,7 +455,7 @@
     "value": "7.3",
     "highValue": "8.5",
     "yards_per_week": 89.06666666666666,
-    "floor_per_week": "8.91",
+    "floor_per_week": "12.34",
     "stddev": "0.97",
     "ps": "74.00",
     "passing_yards": null,
@@ -498,10 +465,7 @@
     "drives": 163,
     "nflAverage": "57.32",
     "plays": 621,
-    "plays_rank": 9,
-    "yds_per_week": 436.31,
-    "pts_per_week": 33.11,
-    "fp_per_week": 76.74
+    "plays_rank": 9
   },
   {
     "position": "WR",
@@ -530,7 +494,7 @@
     "value": "7.2",
     "highValue": "10.4",
     "yards_per_week": 89.25,
-    "floor_per_week": "8.93",
+    "floor_per_week": "12.13",
     "stddev": "2.58",
     "ps": "64.00",
     "passing_yards": null,
@@ -540,10 +504,7 @@
     "drives": 195,
     "nflAverage": "57.32",
     "plays": 602,
-    "plays_rank": 12,
-    "yds_per_week": 384.63,
-    "pts_per_week": 22.3,
-    "fp_per_week": 60.77
+    "plays_rank": 12
   },
   {
     "position": "RB",
@@ -572,7 +533,7 @@
     "value": "6.9",
     "highValue": "8.3",
     "yards_per_week": 122.5,
-    "floor_per_week": "12.25",
+    "floor_per_week": "14.54",
     "stddev": "1.78",
     "ps": "62.00",
     "passing_yards": null,
@@ -582,10 +543,7 @@
     "drives": 174,
     "nflAverage": "57.32",
     "plays": 341,
-    "plays_rank": 31,
-    "yds_per_week": 34.47416666666667,
-    "pts_per_week": 25.23,
-    "fp_per_week": 66.6
+    "plays_rank": 31
   },
   {
     "position": "RB",
@@ -623,10 +581,7 @@
     "drives": 192,
     "nflAverage": "57.32",
     "plays": 404,
-    "plays_rank": 16,
-    "yds_per_week": null,
-    "pts_per_week": 18.6,
-    "fp_per_week": 50.01
+    "plays_rank": 16
   },
   {
     "position": "RB",
@@ -655,7 +610,7 @@
     "value": "6.3",
     "highValue": "7.8",
     "yards_per_week": 112.61538461538461,
-    "floor_per_week": "11.26",
+    "floor_per_week": "12.92",
     "stddev": "0.95",
     "ps": "55.00",
     "passing_yards": null,
@@ -665,10 +620,7 @@
     "drives": 164,
     "nflAverage": "57.32",
     "plays": 363,
-    "plays_rank": 24,
-    "yds_per_week": 25.245384615384616,
-    "pts_per_week": 20.81,
-    "fp_per_week": 53.63
+    "plays_rank": 24
   },
   {
     "position": "RB",
@@ -697,7 +649,7 @@
     "value": "6.3",
     "highValue": "8",
     "yards_per_week": 130.78571428571428,
-    "floor_per_week": "13.08",
+    "floor_per_week": "15.19",
     "stddev": "1.01",
     "ps": "51.00",
     "passing_yards": null,
@@ -707,10 +659,7 @@
     "drives": 175,
     "nflAverage": "57.32",
     "plays": 437,
-    "plays_rank": 9,
-    "yds_per_week": 31.075714285714287,
-    "pts_per_week": 30.52,
-    "fp_per_week": 74.02
+    "plays_rank": 9
   },
   {
     "position": "RB",
@@ -739,7 +688,7 @@
     "value": "6.3",
     "highValue": "7.8",
     "yards_per_week": 76.33333333333333,
-    "floor_per_week": "7.63",
+    "floor_per_week": "8.30",
     "stddev": "1.14",
     "ps": "58.00",
     "passing_yards": null,
@@ -749,10 +698,7 @@
     "drives": 195,
     "nflAverage": "57.32",
     "plays": 412,
-    "plays_rank": 13,
-    "yds_per_week": 25.642,
-    "pts_per_week": 22.3,
-    "fp_per_week": 60.77
+    "plays_rank": 13
   },
   {
     "position": "WR",
@@ -781,7 +727,7 @@
     "value": "6.3",
     "highValue": "10.2",
     "yards_per_week": 86.46666666666667,
-    "floor_per_week": "8.65",
+    "floor_per_week": "12.11",
     "stddev": "1.39",
     "ps": "60.00",
     "passing_yards": null,
@@ -791,10 +737,7 @@
     "drives": 170,
     "nflAverage": "57.32",
     "plays": 578,
-    "plays_rank": 17,
-    "yds_per_week": 355.31,
-    "pts_per_week": 17.21,
-    "fp_per_week": 52.74
+    "plays_rank": 17
   },
   {
     "position": "WR",
@@ -823,7 +766,7 @@
     "value": "6.2",
     "highValue": "8.5",
     "yards_per_week": 101.6,
-    "floor_per_week": "10.16",
+    "floor_per_week": "13.03",
     "stddev": "2.10",
     "ps": "56.00",
     "passing_yards": null,
@@ -833,10 +776,7 @@
     "drives": 179,
     "nflAverage": "57.32",
     "plays": 661,
-    "plays_rank": 4,
-    "yds_per_week": 430.06,
-    "pts_per_week": 24.28,
-    "fp_per_week": 67.28
+    "plays_rank": 4
   },
   {
     "position": "RB",
@@ -865,7 +805,7 @@
     "value": "6.2",
     "highValue": "7.7",
     "yards_per_week": 92,
-    "floor_per_week": "9.20",
+    "floor_per_week": "11.20",
     "stddev": "1.41",
     "ps": "47.00",
     "passing_yards": null,
@@ -875,10 +815,7 @@
     "drives": 185,
     "nflAverage": "57.32",
     "plays": 356,
-    "plays_rank": 27,
-    "yds_per_week": 36.194,
-    "pts_per_week": 21.16,
-    "fp_per_week": 57.35
+    "plays_rank": 27
   },
   {
     "position": "QB",
@@ -917,10 +854,7 @@
     "drives": 163,
     "nflAverage": "57.32",
     "plays": 621,
-    "plays_rank": 9,
-    "yds_per_week": 436.31,
-    "pts_per_week": 33.11,
-    "fp_per_week": 76.74
+    "plays_rank": 9
   },
   {
     "position": "WR",
@@ -949,7 +883,7 @@
     "value": "5.7",
     "highValue": "9.6",
     "yards_per_week": 84.73333333333333,
-    "floor_per_week": "8.47",
+    "floor_per_week": "11.71",
     "stddev": "2.48",
     "ps": "52.00",
     "passing_yards": null,
@@ -959,10 +893,7 @@
     "drives": 167,
     "nflAverage": "57.32",
     "plays": 494,
-    "plays_rank": 29,
-    "yds_per_week": 386.81,
-    "pts_per_week": 25.36,
-    "fp_per_week": 64.04
+    "plays_rank": 29
   },
   {
     "position": "WR",
@@ -991,7 +922,7 @@
     "value": "5.3",
     "highValue": "8.7",
     "yards_per_week": 93.53333333333333,
-    "floor_per_week": "9.35",
+    "floor_per_week": "13.12",
     "stddev": "1.11",
     "ps": "49.00",
     "passing_yards": null,
@@ -1001,10 +932,7 @@
     "drives": 185,
     "nflAverage": "57.32",
     "plays": 630,
-    "plays_rank": 6,
-    "yds_per_week": 361.94,
-    "pts_per_week": 21.16,
-    "fp_per_week": 57.35
+    "plays_rank": 6
   },
   {
     "position": "TE",
@@ -1033,7 +961,7 @@
     "value": "5.2",
     "highValue": "6.6",
     "yards_per_week": 92.46666666666667,
-    "floor_per_week": "9.25",
+    "floor_per_week": "12.18",
     "stddev": "0.86",
     "ps": "56.00",
     "passing_yards": null,
@@ -1043,10 +971,7 @@
     "drives": 173,
     "nflAverage": "57.32",
     "plays": 563,
-    "plays_rank": 20,
-    "yds_per_week": 384.31,
-    "pts_per_week": 20.33,
-    "fp_per_week": 58.76
+    "plays_rank": 20
   },
   {
     "position": "RB",
@@ -1075,7 +1000,7 @@
     "value": "5.1",
     "highValue": "6.5",
     "yards_per_week": 85.4,
-    "floor_per_week": "8.54",
+    "floor_per_week": "10.14",
     "stddev": "1.57",
     "ps": "44.00",
     "passing_yards": null,
@@ -1085,10 +1010,7 @@
     "drives": 168,
     "nflAverage": "57.32",
     "plays": 407,
-    "plays_rank": 15,
-    "yds_per_week": 34.4,
-    "pts_per_week": 19.43,
-    "fp_per_week": 53.83
+    "plays_rank": 15
   },
   {
     "position": "TE",
@@ -1117,7 +1039,7 @@
     "value": "5",
     "highValue": "6.7",
     "yards_per_week": 77.53333333333333,
-    "floor_per_week": "7.75",
+    "floor_per_week": "11.62",
     "stddev": "1.00",
     "ps": "39.00",
     "passing_yards": null,
@@ -1127,10 +1049,7 @@
     "drives": 174,
     "nflAverage": "57.32",
     "plays": 626,
-    "plays_rank": 8,
-    "yds_per_week": 380.88,
-    "pts_per_week": 22.95,
-    "fp_per_week": 61.03
+    "plays_rank": 8
   },
   {
     "position": "RB",
@@ -1159,7 +1078,7 @@
     "value": "5",
     "highValue": "7.3",
     "yards_per_week": 34.666666666666664,
-    "floor_per_week": "3.47",
+    "floor_per_week": "4.42",
     "stddev": "0.97",
     "ps": "41.00",
     "passing_yards": null,
@@ -1169,10 +1088,7 @@
     "drives": 163,
     "nflAverage": "57.32",
     "plays": 350,
-    "plays_rank": 29,
-    "yds_per_week": 36.35916666666667,
-    "pts_per_week": 33.11,
-    "fp_per_week": 76.74
+    "plays_rank": 29
   },
   {
     "position": "WR",
@@ -1201,7 +1117,7 @@
     "value": "4.9",
     "highValue": "8.3",
     "yards_per_week": 77.35714285714286,
-    "floor_per_week": "7.74",
+    "floor_per_week": "11.38",
     "stddev": "0.95",
     "ps": "46.00",
     "passing_yards": null,
@@ -1211,10 +1127,7 @@
     "drives": 185,
     "nflAverage": "57.32",
     "plays": 630,
-    "plays_rank": 6,
-    "yds_per_week": 361.94,
-    "pts_per_week": 21.16,
-    "fp_per_week": 57.35
+    "plays_rank": 6
   },
   {
     "position": "RB",
@@ -1243,7 +1156,7 @@
     "value": "4.8",
     "highValue": "6.6",
     "yards_per_week": 77.2,
-    "floor_per_week": "7.72",
+    "floor_per_week": "8.22",
     "stddev": "1.21",
     "ps": "38.00",
     "passing_yards": null,
@@ -1253,10 +1166,7 @@
     "drives": 162,
     "nflAverage": "57.32",
     "plays": 428,
-    "plays_rank": 10,
-    "yds_per_week": 22.008666666666667,
-    "pts_per_week": 18.12,
-    "fp_per_week": 51.14
+    "plays_rank": 10
   },
   {
     "position": "RB",
@@ -1285,7 +1195,7 @@
     "value": "4.7",
     "highValue": "5.9",
     "yards_per_week": 78,
-    "floor_per_week": "7.80",
+    "floor_per_week": "9.18",
     "stddev": "1.43",
     "ps": "35.00",
     "passing_yards": null,
@@ -1295,10 +1205,7 @@
     "drives": 177,
     "nflAverage": "57.32",
     "plays": 416,
-    "plays_rank": 11,
-    "yds_per_week": 40.26625,
-    "pts_per_week": 13.72,
-    "fp_per_week": 45.93
+    "plays_rank": 11
   },
   {
     "position": "RB",
@@ -1327,7 +1234,7 @@
     "value": "4.6",
     "highValue": "5.9",
     "yards_per_week": 77.83333333333333,
-    "floor_per_week": "7.78",
+    "floor_per_week": "8.87",
     "stddev": "0.96",
     "ps": "32.00",
     "passing_yards": null,
@@ -1337,10 +1244,7 @@
     "drives": 174,
     "nflAverage": "57.32",
     "plays": 334,
-    "plays_rank": 32,
-    "yds_per_week": 32.791666666666664,
-    "pts_per_week": 22.62,
-    "fp_per_week": 61.97
+    "plays_rank": 32
   },
   {
     "position": "WR",
@@ -1369,7 +1273,7 @@
     "value": "4.5",
     "highValue": "6",
     "yards_per_week": 73.21428571428571,
-    "floor_per_week": "7.32",
+    "floor_per_week": "10.00",
     "stddev": "2.45",
     "ps": "43.00",
     "passing_yards": null,
@@ -1379,10 +1283,7 @@
     "drives": 161,
     "nflAverage": "57.32",
     "plays": 563,
-    "plays_rank": 19,
-    "yds_per_week": 365.5,
-    "pts_per_week": 20.73,
-    "fp_per_week": 57.28
+    "plays_rank": 19
   },
   {
     "position": "WR",
@@ -1411,7 +1312,7 @@
     "value": "4.5",
     "highValue": "8.4",
     "yards_per_week": 87,
-    "floor_per_week": "8.70",
+    "floor_per_week": "12.06",
     "stddev": "1.30",
     "ps": "40.00",
     "passing_yards": null,
@@ -1421,10 +1322,7 @@
     "drives": 176,
     "nflAverage": "57.32",
     "plays": 600,
-    "plays_rank": 13,
-    "yds_per_week": 402.63,
-    "pts_per_week": 25.52,
-    "fp_per_week": 65.78
+    "plays_rank": 13
   },
   {
     "position": "RB",
@@ -1453,7 +1351,7 @@
     "value": "4.85",
     "highValue": "6.5",
     "yards_per_week": 101.07692307692308,
-    "floor_per_week": "10.11",
+    "floor_per_week": "10.88",
     "stddev": "1.17",
     "ps": "29.00",
     "passing_yards": null,
@@ -1463,10 +1361,7 @@
     "drives": 176,
     "nflAverage": "57.32",
     "plays": 537,
-    "plays_rank": 1,
-    "yds_per_week": 28.884615384615383,
-    "pts_per_week": 25.96,
-    "fp_per_week": 63.51
+    "plays_rank": 1
   },
   {
     "position": "RB",
@@ -1495,7 +1390,7 @@
     "value": "4.9",
     "highValue": "6",
     "yards_per_week": 45.5,
-    "floor_per_week": "4.55",
+    "floor_per_week": "5.80",
     "stddev": "1.59",
     "ps": "26.00",
     "passing_yards": null,
@@ -1505,10 +1400,7 @@
     "drives": 165,
     "nflAverage": "57.32",
     "plays": 346,
-    "plays_rank": 30,
-    "yds_per_week": 203.815,
-    "pts_per_week": 24.96,
-    "fp_per_week": 65.72
+    "plays_rank": 30
   },
   {
     "position": "RB",
@@ -1546,10 +1438,7 @@
     "drives": 170,
     "nflAverage": "57.32",
     "plays": 384,
-    "plays_rank": 22,
-    "yds_per_week": null,
-    "pts_per_week": 17.21,
-    "fp_per_week": 52.74
+    "plays_rank": 22
   },
   {
     "position": "WR",
@@ -1578,7 +1467,7 @@
     "value": "4.2",
     "highValue": "5.4",
     "yards_per_week": 84.8,
-    "floor_per_week": "8.48",
+    "floor_per_week": "11.15",
     "stddev": "0.96",
     "ps": "37.00",
     "passing_yards": null,
@@ -1588,10 +1477,7 @@
     "drives": 175,
     "nflAverage": "57.32",
     "plays": 600,
-    "plays_rank": 14,
-    "yds_per_week": 435.06,
-    "pts_per_week": 30.52,
-    "fp_per_week": 74.02
+    "plays_rank": 14
   },
   {
     "position": "RB",
@@ -1620,7 +1506,7 @@
     "value": "4",
     "highValue": "5.4",
     "yards_per_week": 91.9090909090909,
-    "floor_per_week": "9.19",
+    "floor_per_week": "9.96",
     "stddev": "1.05",
     "ps": "19.00",
     "passing_yards": null,
@@ -1630,10 +1516,7 @@
     "drives": 176,
     "nflAverage": "57.32",
     "plays": 402,
-    "plays_rank": 17,
-    "yds_per_week": 35.86909090909091,
-    "pts_per_week": 27.06,
-    "fp_per_week": 66.52
+    "plays_rank": 17
   },
   {
     "position": "WR",
@@ -1662,7 +1545,7 @@
     "value": "4",
     "highValue": "5.8",
     "yards_per_week": 91.73333333333333,
-    "floor_per_week": "9.17",
+    "floor_per_week": "12.04",
     "stddev": "2.16",
     "ps": "34.00",
     "passing_yards": null,
@@ -1672,10 +1555,7 @@
     "drives": 175,
     "nflAverage": "57.32",
     "plays": 600,
-    "plays_rank": 14,
-    "yds_per_week": 435.06,
-    "pts_per_week": 30.52,
-    "fp_per_week": 74.02
+    "plays_rank": 14
   },
   {
     "position": "WR",
@@ -1704,7 +1584,7 @@
     "value": "3.9",
     "highValue": "5.6",
     "yards_per_week": 97.6923076923077,
-    "floor_per_week": "9.77",
+    "floor_per_week": "12.69",
     "stddev": "0.77",
     "ps": "32.00",
     "passing_yards": null,
@@ -1714,10 +1594,7 @@
     "drives": 176,
     "nflAverage": "57.32",
     "plays": 679,
-    "plays_rank": 2,
-    "yds_per_week": 394.56,
-    "pts_per_week": 27.06,
-    "fp_per_week": 66.52
+    "plays_rank": 2
   },
   {
     "position": "RB",
@@ -1746,7 +1623,7 @@
     "value": "3.7",
     "highValue": "5.2",
     "yards_per_week": 81.75,
-    "floor_per_week": "8.18",
+    "floor_per_week": "8.47",
     "stddev": "1.01",
     "ps": "16.00",
     "passing_yards": null,
@@ -1756,10 +1633,7 @@
     "drives": 176,
     "nflAverage": "57.32",
     "plays": 474,
-    "plays_rank": 3,
-    "yds_per_week": 33.5525,
-    "pts_per_week": 25.52,
-    "fp_per_week": 65.78
+    "plays_rank": 3
   },
   {
     "position": "WR",
@@ -1788,7 +1662,7 @@
     "value": "3.6",
     "highValue": "5",
     "yards_per_week": 71.4,
-    "floor_per_week": "7.14",
+    "floor_per_week": "9.47",
     "stddev": "1.11",
     "ps": "30.00",
     "passing_yards": null,
@@ -1798,10 +1672,7 @@
     "drives": 168,
     "nflAverage": "57.32",
     "plays": 610,
-    "plays_rank": 10,
-    "yds_per_week": 344,
-    "pts_per_week": 19.43,
-    "fp_per_week": 53.83
+    "plays_rank": 10
   },
   {
     "position": "WR",
@@ -1830,7 +1701,7 @@
     "value": "3.5",
     "highValue": "5.1",
     "yards_per_week": 68.93333333333334,
-    "floor_per_week": "6.89",
+    "floor_per_week": "8.79",
     "stddev": "2.51",
     "ps": "27.00",
     "passing_yards": null,
@@ -1840,10 +1711,7 @@
     "drives": 176,
     "nflAverage": "57.32",
     "plays": 449,
-    "plays_rank": 31,
-    "yds_per_week": 375.5,
-    "pts_per_week": 25.96,
-    "fp_per_week": 63.51
+    "plays_rank": 31
   },
   {
     "position": "WR",
@@ -1872,7 +1740,7 @@
     "value": "3.3",
     "highValue": "6",
     "yards_per_week": 56.13333333333333,
-    "floor_per_week": "5.61",
+    "floor_per_week": "7.58",
     "stddev": "0.76",
     "ps": "25.00",
     "passing_yards": null,
@@ -1882,10 +1750,7 @@
     "drives": 179,
     "nflAverage": "57.32",
     "plays": 661,
-    "plays_rank": 4,
-    "yds_per_week": 430.06,
-    "pts_per_week": 24.28,
-    "fp_per_week": 67.28
+    "plays_rank": 4
   },
   {
     "position": "RB",
@@ -1914,7 +1779,7 @@
     "value": "3.2",
     "highValue": "4.6",
     "yards_per_week": 74.0909090909091,
-    "floor_per_week": "7.41",
+    "floor_per_week": "8.36",
     "stddev": "1.34",
     "ps": "14.00",
     "passing_yards": null,
@@ -1924,10 +1789,7 @@
     "drives": 174,
     "nflAverage": "57.32",
     "plays": 495,
-    "plays_rank": 2,
-    "yds_per_week": 34.93727272727273,
-    "pts_per_week": 22.62,
-    "fp_per_week": 61.05
+    "plays_rank": 2
   },
   {
     "position": "RB",
@@ -1956,7 +1818,7 @@
     "value": "3.1",
     "highValue": "7.2",
     "yards_per_week": 125,
-    "floor_per_week": "12.50",
+    "floor_per_week": "14.77",
     "stddev": "1.95",
     "ps": "13.00",
     "passing_yards": null,
@@ -1966,10 +1828,7 @@
     "drives": 167,
     "nflAverage": "57.32",
     "plays": 378,
-    "plays_rank": 23,
-    "yds_per_week": 35.164545454545454,
-    "pts_per_week": 25.36,
-    "fp_per_week": 64.04
+    "plays_rank": 23
   },
   {
     "position": "WR",
@@ -1998,7 +1857,7 @@
     "value": "3.1",
     "highValue": "5.2",
     "yards_per_week": 73.64285714285714,
-    "floor_per_week": "7.36",
+    "floor_per_week": "10.08",
     "stddev": "1.14",
     "ps": "23.00",
     "passing_yards": null,
@@ -2008,10 +1867,7 @@
     "drives": 164,
     "nflAverage": "57.32",
     "plays": 579,
-    "plays_rank": 16,
-    "yds_per_week": 328.19,
-    "pts_per_week": 20.81,
-    "fp_per_week": 53.63
+    "plays_rank": 16
   },
   {
     "position": "RB",
@@ -2040,7 +1896,7 @@
     "value": "3",
     "highValue": "4.4",
     "yards_per_week": 85.2,
-    "floor_per_week": "8.52",
+    "floor_per_week": "9.69",
     "stddev": "1.03",
     "ps": "11.00",
     "passing_yards": null,
@@ -2050,10 +1906,7 @@
     "drives": 180,
     "nflAverage": "57.32",
     "plays": 390,
-    "plays_rank": 19,
-    "yds_per_week": 24.320666666666668,
-    "pts_per_week": 19.69,
-    "fp_per_week": 56.17
+    "plays_rank": 19
   },
   {
     "position": "RB",
@@ -2091,10 +1944,7 @@
     "drives": 173,
     "nflAverage": "57.32",
     "plays": 457,
-    "plays_rank": 6,
-    "yds_per_week": null,
-    "pts_per_week": 23.46,
-    "fp_per_week": 58.99
+    "plays_rank": 6
   },
   {
     "position": "WR",
@@ -2123,7 +1973,7 @@
     "value": "2.9",
     "highValue": "4.1",
     "yards_per_week": 73.875,
-    "floor_per_week": "7.39",
+    "floor_per_week": "9.89",
     "stddev": "1.54",
     "ps": "21.00",
     "passing_yards": null,
@@ -2133,10 +1983,7 @@
     "drives": 175,
     "nflAverage": "57.32",
     "plays": 600,
-    "plays_rank": 14,
-    "yds_per_week": 435.06,
-    "pts_per_week": 30.52,
-    "fp_per_week": 74.02
+    "plays_rank": 14
   },
   {
     "position": "QB",
@@ -2175,10 +2022,7 @@
     "drives": 179,
     "nflAverage": "57.32",
     "plays": 537,
-    "plays_rank": 25,
-    "yds_per_week": 386.63,
-    "pts_per_week": 23.38,
-    "fp_per_week": 62.04
+    "plays_rank": 25
   },
   {
     "position": "WR",
@@ -2207,7 +2051,7 @@
     "value": "2.6",
     "highValue": "3.7",
     "yards_per_week": 64,
-    "floor_per_week": "6.40",
+    "floor_per_week": "8.23",
     "stddev": "0.73",
     "ps": "20.00",
     "passing_yards": null,
@@ -2217,10 +2061,7 @@
     "drives": 166,
     "nflAverage": "57.32",
     "plays": 586,
-    "plays_rank": 15,
-    "yds_per_week": 387.94,
-    "pts_per_week": 22.93,
-    "fp_per_week": 61.72
+    "plays_rank": 15
   },
   {
     "position": "RB",
@@ -2249,7 +2090,7 @@
     "value": "2.5",
     "highValue": "5.4",
     "yards_per_week": 67.46666666666667,
-    "floor_per_week": "6.75",
+    "floor_per_week": "8.51",
     "stddev": "1.25",
     "ps": "7.00",
     "passing_yards": null,
@@ -2259,10 +2100,7 @@
     "drives": 176,
     "nflAverage": "57.32",
     "plays": 360,
-    "plays_rank": 25,
-    "yds_per_week": 21.029333333333334,
-    "pts_per_week": 17.71,
-    "fp_per_week": 49.25
+    "plays_rank": 25
   },
   {
     "position": "QB",
@@ -2301,10 +2139,7 @@
     "drives": 174,
     "nflAverage": "57.32",
     "plays": 670,
-    "plays_rank": 3,
-    "yds_per_week": 393.5,
-    "pts_per_week": 22.62,
-    "fp_per_week": 61.97
+    "plays_rank": 3
   },
   {
     "position": "TE",
@@ -2333,7 +2168,7 @@
     "value": "2.4",
     "highValue": "3.4",
     "yards_per_week": 56.5,
-    "floor_per_week": "5.65",
+    "floor_per_week": "7.35",
     "stddev": "0.75",
     "ps": "30.00",
     "passing_yards": null,
@@ -2343,10 +2178,7 @@
     "drives": 179,
     "nflAverage": "57.32",
     "plays": 661,
-    "plays_rank": 4,
-    "yds_per_week": 430.06,
-    "pts_per_week": 24.28,
-    "fp_per_week": 67.28
+    "plays_rank": 4
   },
   {
     "position": "WR",
@@ -2375,7 +2207,7 @@
     "value": "2.4",
     "highValue": "3.7",
     "yards_per_week": 70.25,
-    "floor_per_week": "7.03",
+    "floor_per_week": "9.73",
     "stddev": "0.82",
     "ps": "18.00",
     "passing_yards": null,
@@ -2385,10 +2217,7 @@
     "drives": 174,
     "nflAverage": "57.32",
     "plays": 626,
-    "plays_rank": 8,
-    "yds_per_week": 380.88,
-    "pts_per_week": 22.95,
-    "fp_per_week": 61.03
+    "plays_rank": 8
   },
   {
     "position": "WR",
@@ -2417,7 +2246,7 @@
     "value": "2.4",
     "highValue": "3.5",
     "yards_per_week": 46.13333333333333,
-    "floor_per_week": "4.61",
+    "floor_per_week": "6.05",
     "stddev": "0.68",
     "ps": "15.00",
     "passing_yards": null,
@@ -2427,10 +2256,7 @@
     "drives": 167,
     "nflAverage": "57.32",
     "plays": 494,
-    "plays_rank": 29,
-    "yds_per_week": 386.81,
-    "pts_per_week": 25.36,
-    "fp_per_week": 64.04
+    "plays_rank": 29
   },
   {
     "position": "WR",
@@ -2459,7 +2285,7 @@
     "value": "2.4",
     "highValue": "3.5",
     "yards_per_week": 56.53333333333333,
-    "floor_per_week": "5.65",
+    "floor_per_week": "7.79",
     "stddev": "1.01",
     "ps": "16.00",
     "passing_yards": null,
@@ -2469,10 +2295,7 @@
     "drives": 165,
     "nflAverage": "57.32",
     "plays": 643,
-    "plays_rank": 5,
-    "yds_per_week": 407.63,
-    "pts_per_week": 24.96,
-    "fp_per_week": 65.72
+    "plays_rank": 5
   },
   {
     "position": "TE",
@@ -2501,7 +2324,7 @@
     "value": "2.4",
     "highValue": "3.5",
     "yards_per_week": 61.3,
-    "floor_per_week": "6.13",
+    "floor_per_week": "8.38",
     "stddev": "0.85",
     "ps": "22.00",
     "passing_yards": null,
@@ -2511,10 +2334,7 @@
     "drives": 172,
     "nflAverage": "57.32",
     "plays": 606,
-    "plays_rank": 11,
-    "yds_per_week": 378.44,
-    "pts_per_week": 21.72,
-    "fp_per_week": 59.56
+    "plays_rank": 11
   },
   {
     "position": "WR",
@@ -2543,7 +2363,7 @@
     "value": "2.2",
     "highValue": "3.8",
     "yards_per_week": 58.69230769230769,
-    "floor_per_week": "5.87",
+    "floor_per_week": "7.98",
     "stddev": "0.97",
     "ps": "13.00",
     "passing_yards": null,
@@ -2553,10 +2373,7 @@
     "drives": 173,
     "nflAverage": "57.32",
     "plays": 554,
-    "plays_rank": 22,
-    "yds_per_week": 355.31,
-    "pts_per_week": 23.46,
-    "fp_per_week": 58.99
+    "plays_rank": 22
   },
   {
     "position": "WR",
@@ -2585,7 +2402,7 @@
     "value": "2.2",
     "highValue": "3.9",
     "yards_per_week": 69.06666666666666,
-    "floor_per_week": "6.91",
+    "floor_per_week": "9.61",
     "stddev": "0.71",
     "ps": "12.00",
     "passing_yards": null,
@@ -2595,10 +2412,7 @@
     "drives": 195,
     "nflAverage": "57.32",
     "plays": 602,
-    "plays_rank": 12,
-    "yds_per_week": 384.63,
-    "pts_per_week": 22.3,
-    "fp_per_week": 60.77
+    "plays_rank": 12
   },
   {
     "position": "WR",
@@ -2627,7 +2441,7 @@
     "value": "2",
     "highValue": "4",
     "yards_per_week": 77.11111111111111,
-    "floor_per_week": "7.71",
+    "floor_per_week": "10.27",
     "stddev": "0.78",
     "ps": "11.00",
     "passing_yards": null,
@@ -2637,10 +2451,7 @@
     "drives": 164,
     "nflAverage": "57.32",
     "plays": 579,
-    "plays_rank": 16,
-    "yds_per_week": 328.19,
-    "pts_per_week": 20.81,
-    "fp_per_week": 53.63
+    "plays_rank": 16
   },
   {
     "position": "WR",
@@ -2669,7 +2480,7 @@
     "value": "2",
     "highValue": "3.1",
     "yards_per_week": 57.23076923076923,
-    "floor_per_week": "5.72",
+    "floor_per_week": "7.65",
     "stddev": "0.71",
     "ps": "9.00",
     "passing_yards": null,
@@ -2679,10 +2490,7 @@
     "drives": 192,
     "nflAverage": "57.32",
     "plays": 540,
-    "plays_rank": 24,
-    "yds_per_week": 314.13,
-    "pts_per_week": 18.6,
-    "fp_per_week": 50.01
+    "plays_rank": 24
   },
   {
     "position": "TE",
@@ -2720,10 +2528,7 @@
     "drives": 167,
     "nflAverage": "57.32",
     "plays": 494,
-    "plays_rank": 29,
-    "yds_per_week": 386.81,
-    "pts_per_week": 25.36,
-    "fp_per_week": 64.04
+    "plays_rank": 29
   },
   {
     "position": "RB",
@@ -2752,7 +2557,7 @@
     "value": "1.9",
     "highValue": "3.1",
     "yards_per_week": 71.73333333333333,
-    "floor_per_week": "7.17",
+    "floor_per_week": "8.24",
     "stddev": "1.33",
     "ps": "6.00",
     "passing_yards": null,
@@ -2762,10 +2567,7 @@
     "drives": 173,
     "nflAverage": "57.32",
     "plays": 415,
-    "plays_rank": 12,
-    "yds_per_week": 25.62066666666667,
-    "pts_per_week": 20.33,
-    "fp_per_week": 58.76
+    "plays_rank": 12
   },
   {
     "position": "RB",
@@ -2794,7 +2596,7 @@
     "value": "1.8",
     "highValue": "4.1",
     "yards_per_week": 78.4,
-    "floor_per_week": "7.84",
+    "floor_per_week": "10.74",
     "stddev": "1.71",
     "ps": "5.00",
     "passing_yards": null,
@@ -2804,10 +2606,7 @@
     "drives": 176,
     "nflAverage": "57.32",
     "plays": 474,
-    "plays_rank": 3,
-    "yds_per_week": 26.842,
-    "pts_per_week": 25.52,
-    "fp_per_week": 65.78
+    "plays_rank": 3
   },
   {
     "position": "QB",
@@ -2836,7 +2635,7 @@
     "value": "1.8",
     "highValue": "3.8",
     "yards_per_week": 8.666666666666666,
-    "floor_per_week": "14.00",
+    "floor_per_week": "14.03",
     "stddev": "1.15",
     "ps": "35.00",
     "passing_yards": 4924,
@@ -2846,10 +2645,7 @@
     "drives": 165,
     "nflAverage": "57.32",
     "plays": 643,
-    "plays_rank": 5,
-    "yds_per_week": 407.63,
-    "pts_per_week": 24.96,
-    "fp_per_week": 65.72
+    "plays_rank": 5
   },
   {
     "position": "QB",
@@ -2888,10 +2684,7 @@
     "drives": 195,
     "nflAverage": "57.32",
     "plays": 602,
-    "plays_rank": 12,
-    "yds_per_week": 384.63,
-    "pts_per_week": 22.3,
-    "fp_per_week": 60.77
+    "plays_rank": 12
   },
   {
     "position": "QB",
@@ -2920,7 +2713,7 @@
     "value": "1.7",
     "highValue": "3.3",
     "yards_per_week": 8.818181818181818,
-    "floor_per_week": "12.06",
+    "floor_per_week": "12.11",
     "stddev": "0.94",
     "ps": "27.00",
     "passing_yards": 3074,
@@ -2930,10 +2723,7 @@
     "drives": 174,
     "nflAverage": "57.32",
     "plays": 626,
-    "plays_rank": 8,
-    "yds_per_week": 380.88,
-    "pts_per_week": 22.95,
-    "fp_per_week": 61.03
+    "plays_rank": 8
   },
   {
     "position": "WR",
@@ -2962,7 +2752,7 @@
     "value": "1.7",
     "highValue": "4.9",
     "yards_per_week": 54.333333333333336,
-    "floor_per_week": "5.43",
+    "floor_per_week": "7.63",
     "stddev": "1.25",
     "ps": "8.00",
     "passing_yards": null,
@@ -2972,10 +2762,7 @@
     "drives": 177,
     "nflAverage": "57.32",
     "plays": 555,
-    "plays_rank": 21,
-    "yds_per_week": 322.13,
-    "pts_per_week": 13.72,
-    "fp_per_week": 45.93
+    "plays_rank": 21
   },
   {
     "position": "TE",
@@ -3004,7 +2791,7 @@
     "value": "1.6",
     "highValue": "2.9",
     "yards_per_week": 59.733333333333334,
-    "floor_per_week": "5.97",
+    "floor_per_week": "8.24",
     "stddev": "0.66",
     "ps": "10.00",
     "passing_yards": null,
@@ -3014,10 +2801,7 @@
     "drives": 155,
     "nflAverage": "57.32",
     "plays": 547,
-    "plays_rank": 23,
-    "yds_per_week": 387.44,
-    "pts_per_week": 31.1,
-    "fp_per_week": 69.84
+    "plays_rank": 23
   },
   {
     "position": "WR",
@@ -3046,7 +2830,7 @@
     "value": "1.5",
     "highValue": "3.6",
     "yards_per_week": 63.06666666666667,
-    "floor_per_week": "6.31",
+    "floor_per_week": "8.47",
     "stddev": "0.97",
     "ps": "7.00",
     "passing_yards": null,
@@ -3056,10 +2840,7 @@
     "drives": 162,
     "nflAverage": "57.32",
     "plays": 432,
-    "plays_rank": 32,
-    "yds_per_week": 330.13,
-    "pts_per_week": 18.12,
-    "fp_per_week": 51.14
+    "plays_rank": 32
   },
   {
     "position": "WR",
@@ -3088,7 +2869,7 @@
     "value": "1.5",
     "highValue": "2.4",
     "yards_per_week": 56.44444444444444,
-    "floor_per_week": "5.64",
+    "floor_per_week": "7.59",
     "stddev": "1.88",
     "ps": "6.00",
     "passing_yards": null,
@@ -3098,10 +2879,7 @@
     "drives": 168,
     "nflAverage": "57.32",
     "plays": 610,
-    "plays_rank": 10,
-    "yds_per_week": 344,
-    "pts_per_week": 19.43,
-    "fp_per_week": 53.83
+    "plays_rank": 10
   },
   {
     "position": "WR",
@@ -3130,7 +2908,7 @@
     "value": "1.4",
     "highValue": "2.3",
     "yards_per_week": 57.1,
-    "floor_per_week": "5.71",
+    "floor_per_week": "7.71",
     "stddev": "1.26",
     "ps": "5.00",
     "passing_yards": null,
@@ -3140,10 +2918,7 @@
     "drives": 163,
     "nflAverage": "57.32",
     "plays": 621,
-    "plays_rank": 9,
-    "yds_per_week": 436.31,
-    "pts_per_week": 33.11,
-    "fp_per_week": 76.74
+    "plays_rank": 9
   },
   {
     "position": "WR",
@@ -3172,7 +2947,7 @@
     "value": "1.4",
     "highValue": "3.7",
     "yards_per_week": 60.333333333333336,
-    "floor_per_week": "6.03",
+    "floor_per_week": "8.23",
     "stddev": "1.11",
     "ps": "6.00",
     "passing_yards": null,
@@ -3182,10 +2957,7 @@
     "drives": 172,
     "nflAverage": "57.32",
     "plays": 606,
-    "plays_rank": 11,
-    "yds_per_week": 378.44,
-    "pts_per_week": 21.72,
-    "fp_per_week": 59.56
+    "plays_rank": 11
   },
   {
     "position": "WR",
@@ -3214,7 +2986,7 @@
     "value": "1.3",
     "highValue": "4",
     "yards_per_week": 52.083333333333336,
-    "floor_per_week": "5.21",
+    "floor_per_week": "7.00",
     "stddev": "1.64",
     "ps": "4.00",
     "passing_yards": null,
@@ -3224,10 +2996,7 @@
     "drives": 181,
     "nflAverage": "57.32",
     "plays": 519,
-    "plays_rank": 27,
-    "yds_per_week": 264.13,
-    "pts_per_week": 12.67,
-    "fp_per_week": 39.08
+    "plays_rank": 27
   },
   {
     "position": "QB",
@@ -3266,10 +3035,7 @@
     "drives": 175,
     "nflAverage": "57.32",
     "plays": 600,
-    "plays_rank": 14,
-    "yds_per_week": 435.06,
-    "pts_per_week": 30.52,
-    "fp_per_week": 74.02
+    "plays_rank": 14
   },
   {
     "position": "QB",
@@ -3298,7 +3064,7 @@
     "value": "1.2",
     "highValue": "3.6",
     "yards_per_week": 24.333333333333332,
-    "floor_per_week": "11.63",
+    "floor_per_week": "11.66",
     "stddev": "1.04",
     "ps": "9.00",
     "passing_yards": 3448,
@@ -3308,10 +3074,7 @@
     "drives": 176,
     "nflAverage": "57.32",
     "plays": 449,
-    "plays_rank": 31,
-    "yds_per_week": 375.5,
-    "pts_per_week": 25.96,
-    "fp_per_week": 63.51
+    "plays_rank": 31
   },
   {
     "position": "RB",
@@ -3340,7 +3103,7 @@
     "value": "1.2",
     "highValue": "3.1",
     "yards_per_week": 73.6923076923077,
-    "floor_per_week": "7.37",
+    "floor_per_week": "8.87",
     "stddev": "2.20",
     "ps": "3.00",
     "passing_yards": null,
@@ -3350,10 +3113,7 @@
     "drives": 167,
     "nflAverage": "57.32",
     "plays": 378,
-    "plays_rank": 23,
-    "yds_per_week": 29.754615384615384,
-    "pts_per_week": 25.36,
-    "fp_per_week": 64.04
+    "plays_rank": 23
   },
   {
     "position": "RB",
@@ -3382,7 +3142,7 @@
     "value": "1.2",
     "highValue": "3.7",
     "yards_per_week": 42,
-    "floor_per_week": "4.20",
+    "floor_per_week": "5.77",
     "stddev": "0.83",
     "ps": "3.00",
     "passing_yards": null,
@@ -3392,10 +3152,7 @@
     "drives": 179,
     "nflAverage": "57.32",
     "plays": 468,
-    "plays_rank": 5,
-    "yds_per_week": 25.775333333333332,
-    "pts_per_week": 23.38,
-    "fp_per_week": 62.04
+    "plays_rank": 5
   },
   {
     "position": "WR",
@@ -3424,7 +3181,7 @@
     "value": "1.1",
     "highValue": "2.2",
     "yards_per_week": 48.93333333333333,
-    "floor_per_week": "4.89",
+    "floor_per_week": "7.19",
     "stddev": "1.26",
     "ps": "3.00",
     "passing_yards": null,
@@ -3434,10 +3191,7 @@
     "drives": 181,
     "nflAverage": "57.32",
     "plays": 519,
-    "plays_rank": 27,
-    "yds_per_week": 264.13,
-    "pts_per_week": 12.67,
-    "fp_per_week": 39.08
+    "plays_rank": 27
   },
   {
     "position": "WR",
@@ -3466,7 +3220,7 @@
     "value": "1",
     "highValue": "2.5",
     "yards_per_week": 71.85714285714286,
-    "floor_per_week": "7.19",
+    "floor_per_week": "9.47",
     "stddev": "0.96",
     "ps": "2.00",
     "passing_yards": null,
@@ -3476,10 +3230,7 @@
     "drives": 179,
     "nflAverage": "57.32",
     "plays": 537,
-    "plays_rank": 25,
-    "yds_per_week": 386.63,
-    "pts_per_week": 23.38,
-    "fp_per_week": 62.04
+    "plays_rank": 25
   },
   {
     "position": "QB",
@@ -3508,7 +3259,7 @@
     "value": "1",
     "highValue": "3.7",
     "yards_per_week": 1.5333333333333334,
-    "floor_per_week": "10.80",
+    "floor_per_week": "10.83",
     "stddev": "1.47",
     "ps": "5.00",
     "passing_yards": 3992,
@@ -3518,10 +3269,7 @@
     "drives": 155,
     "nflAverage": "57.32",
     "plays": 547,
-    "plays_rank": 23,
-    "yds_per_week": 387.44,
-    "pts_per_week": 31.1,
-    "fp_per_week": 69.84
+    "plays_rank": 23
   },
   {
     "position": "TE",
@@ -3550,7 +3298,7 @@
     "value": "1",
     "highValue": "1.8",
     "yards_per_week": 43.57142857142857,
-    "floor_per_week": "4.36",
+    "floor_per_week": "6.14",
     "stddev": "0.57",
     "ps": "6.00",
     "passing_yards": null,
@@ -3560,10 +3308,7 @@
     "drives": 174,
     "nflAverage": "57.32",
     "plays": 726,
-    "plays_rank": 1,
-    "yds_per_week": 413.69,
-    "pts_per_week": 25.23,
-    "fp_per_week": 66.6
+    "plays_rank": 1
   },
   {
     "position": "RB",
@@ -3592,7 +3337,7 @@
     "value": "0.9",
     "highValue": "2.2",
     "yards_per_week": 77.93333333333334,
-    "floor_per_week": "7.79",
+    "floor_per_week": "10.16",
     "stddev": "1.58",
     "ps": "2.00",
     "passing_yards": null,
@@ -3602,10 +3347,7 @@
     "drives": 173,
     "nflAverage": "57.32",
     "plays": 457,
-    "plays_rank": 6,
-    "yds_per_week": 23.687333333333335,
-    "pts_per_week": 23.46,
-    "fp_per_week": 58.99
+    "plays_rank": 6
   },
   {
     "position": "WR",
@@ -3634,7 +3376,7 @@
     "value": "0.9",
     "highValue": "2",
     "yards_per_week": 48.166666666666664,
-    "floor_per_week": "4.82",
+    "floor_per_week": "6.44",
     "stddev": "0.81",
     "ps": "1.00",
     "passing_yards": null,
@@ -3644,10 +3386,7 @@
     "drives": 166,
     "nflAverage": "57.32",
     "plays": 586,
-    "plays_rank": 15,
-    "yds_per_week": 387.94,
-    "pts_per_week": 22.93,
-    "fp_per_week": 61.72
+    "plays_rank": 15
   },
   {
     "position": "WR",
@@ -3676,7 +3415,7 @@
     "value": "0.9",
     "highValue": "3",
     "yards_per_week": 76.75,
-    "floor_per_week": "7.67",
+    "floor_per_week": "10.63",
     "stddev": "0.56",
     "ps": "2.00",
     "passing_yards": null,
@@ -3686,10 +3425,7 @@
     "drives": 180,
     "nflAverage": "57.32",
     "plays": 629,
-    "plays_rank": 7,
-    "yds_per_week": 364.81,
-    "pts_per_week": 19.69,
-    "fp_per_week": 56.17
+    "plays_rank": 7
   },
   {
     "position": "WR",
@@ -3718,7 +3454,7 @@
     "value": "0.8",
     "highValue": "1.7",
     "yards_per_week": 42.27272727272727,
-    "floor_per_week": "4.23",
+    "floor_per_week": "5.45",
     "stddev": "1.20",
     "ps": "1.00",
     "passing_yards": null,
@@ -3728,10 +3464,7 @@
     "drives": 173,
     "nflAverage": "57.32",
     "plays": 563,
-    "plays_rank": 20,
-    "yds_per_week": 384.31,
-    "pts_per_week": 20.33,
-    "fp_per_week": 58.76
+    "plays_rank": 20
   },
   {
     "position": "RB",
@@ -3769,10 +3502,7 @@
     "drives": 174,
     "nflAverage": "57.32",
     "plays": 399,
-    "plays_rank": 18,
-    "yds_per_week": null,
-    "pts_per_week": 22.95,
-    "fp_per_week": 61.03
+    "plays_rank": 18
   },
   {
     "position": "TE",
@@ -3801,7 +3531,7 @@
     "value": "0.7",
     "highValue": "1.4",
     "yards_per_week": 42.6,
-    "floor_per_week": "4.26",
+    "floor_per_week": "6.13",
     "stddev": "0.50",
     "ps": "4.00",
     "passing_yards": null,
@@ -3811,10 +3541,7 @@
     "drives": 195,
     "nflAverage": "57.32",
     "plays": 602,
-    "plays_rank": 12,
-    "yds_per_week": 384.63,
-    "pts_per_week": 22.3,
-    "fp_per_week": 60.77
+    "plays_rank": 12
   },
   {
     "position": "WR",
@@ -3843,7 +3570,7 @@
     "value": "0.6",
     "highValue": "2.5",
     "yards_per_week": 61.416666666666664,
-    "floor_per_week": "6.14",
+    "floor_per_week": "7.85",
     "stddev": "0.76",
     "ps": "0.00",
     "passing_yards": null,
@@ -3853,10 +3580,7 @@
     "drives": 176,
     "nflAverage": "57.32",
     "plays": 600,
-    "plays_rank": 13,
-    "yds_per_week": 402.63,
-    "pts_per_week": 25.52,
-    "fp_per_week": 65.78
+    "plays_rank": 13
   },
   {
     "position": "WR",
@@ -3885,7 +3609,7 @@
     "value": "0.6",
     "highValue": "1.8",
     "yards_per_week": 46.86666666666667,
-    "floor_per_week": "4.69",
+    "floor_per_week": "6.09",
     "stddev": "0.67",
     "ps": "0.00",
     "passing_yards": null,
@@ -3895,10 +3619,7 @@
     "drives": 180,
     "nflAverage": "57.32",
     "plays": 629,
-    "plays_rank": 7,
-    "yds_per_week": 364.81,
-    "pts_per_week": 19.69,
-    "fp_per_week": 56.17
+    "plays_rank": 7
   },
   {
     "position": "RB",
@@ -3936,10 +3657,7 @@
     "drives": 165,
     "nflAverage": "57.32",
     "plays": 387,
-    "plays_rank": 20,
-    "yds_per_week": null,
-    "pts_per_week": 17.12,
-    "fp_per_week": 48.75
+    "plays_rank": 20
   },
   {
     "position": "QB",
@@ -3978,10 +3696,7 @@
     "drives": 179,
     "nflAverage": "57.32",
     "plays": 661,
-    "plays_rank": 4,
-    "yds_per_week": 430.06,
-    "pts_per_week": 24.28,
-    "fp_per_week": 67.28
+    "plays_rank": 4
   },
   {
     "position": "RB",
@@ -4010,7 +3725,7 @@
     "value": "0.4",
     "highValue": "1.8",
     "yards_per_week": 47.93333333333333,
-    "floor_per_week": "4.79",
+    "floor_per_week": "5.53",
     "stddev": "0.99",
     "ps": "0.00",
     "passing_yards": null,
@@ -4020,10 +3735,7 @@
     "drives": 155,
     "nflAverage": "57.32",
     "plays": 442,
-    "plays_rank": 7,
-    "yds_per_week": 25.829333333333334,
-    "pts_per_week": 31.1,
-    "fp_per_week": 69.84
+    "plays_rank": 7
   },
   {
     "position": "TE",
@@ -4052,7 +3764,7 @@
     "value": "0.4",
     "highValue": "1.2",
     "yards_per_week": 44,
-    "floor_per_week": "4.40",
+    "floor_per_week": "6.77",
     "stddev": "0.73",
     "ps": "1.00",
     "passing_yards": null,
@@ -4062,10 +3774,7 @@
     "drives": 165,
     "nflAverage": "57.32",
     "plays": 643,
-    "plays_rank": 5,
-    "yds_per_week": 407.63,
-    "pts_per_week": 24.96,
-    "fp_per_week": 65.72
+    "plays_rank": 5
   },
   {
     "position": "TE",
@@ -4103,10 +3812,7 @@
     "drives": 162,
     "nflAverage": "57.32",
     "plays": 432,
-    "plays_rank": 32,
-    "yds_per_week": 330.13,
-    "pts_per_week": 18.12,
-    "fp_per_week": 51.14
+    "plays_rank": 32
   },
   {
     "position": "RB",
@@ -4135,7 +3841,7 @@
     "value": "0.4",
     "highValue": "2.5",
     "yards_per_week": 64.2,
-    "floor_per_week": "6.42",
+    "floor_per_week": "7.09",
     "stddev": "1.25",
     "ps": "0.00",
     "passing_yards": null,
@@ -4145,10 +3851,7 @@
     "drives": 179,
     "nflAverage": "57.32",
     "plays": 385,
-    "plays_rank": 21,
-    "yds_per_week": 28.670666666666666,
-    "pts_per_week": 24.28,
-    "fp_per_week": 67.28
+    "plays_rank": 21
   },
   {
     "position": "QB",
@@ -4177,7 +3880,7 @@
     "value": "0.3",
     "highValue": "1.4",
     "yards_per_week": 6.466666666666667,
-    "floor_per_week": "14.32",
+    "floor_per_week": "14.36",
     "stddev": "1.48",
     "ps": "0.00",
     "passing_yards": 5129,
@@ -4187,10 +3890,7 @@
     "drives": 174,
     "nflAverage": "57.32",
     "plays": 726,
-    "plays_rank": 1,
-    "yds_per_week": 413.69,
-    "pts_per_week": 25.23,
-    "fp_per_week": 66.6
+    "plays_rank": 1
   },
   {
     "position": "RB",
@@ -4219,7 +3919,7 @@
     "value": "0.2",
     "highValue": "1.5",
     "yards_per_week": 44.90909090909091,
-    "floor_per_week": "4.49",
+    "floor_per_week": "4.90",
     "stddev": "1.11",
     "ps": "0.00",
     "passing_yards": null,
@@ -4229,10 +3929,7 @@
     "drives": 176,
     "nflAverage": "57.32",
     "plays": 537,
-    "plays_rank": 1,
-    "yds_per_week": 34.13636363636363,
-    "pts_per_week": 25.96,
-    "fp_per_week": 63.51
+    "plays_rank": 1
   },
   {
     "position": "TE",
@@ -4261,7 +3958,7 @@
     "value": "0.2",
     "highValue": "1.6",
     "yards_per_week": 49.46666666666667,
-    "floor_per_week": "4.95",
+    "floor_per_week": "7.15",
     "stddev": "0.27",
     "ps": "0.00",
     "passing_yards": null,
@@ -4271,10 +3968,7 @@
     "drives": 176,
     "nflAverage": "57.32",
     "plays": 679,
-    "plays_rank": 2,
-    "yds_per_week": 394.56,
-    "pts_per_week": 27.06,
-    "fp_per_week": 66.52
+    "plays_rank": 2
   },
   {
     "position": "QB",
@@ -4313,10 +4007,7 @@
     "drives": 166,
     "nflAverage": "57.32",
     "plays": 586,
-    "plays_rank": 15,
-    "yds_per_week": 387.94,
-    "pts_per_week": 22.93,
-    "fp_per_week": 61.72
+    "plays_rank": 15
   },
   {
     "position": "RB",
@@ -4345,7 +4036,7 @@
     "value": "0",
     "highValue": "1.7",
     "yards_per_week": 57.84615384615385,
-    "floor_per_week": "5.78",
+    "floor_per_week": "7.09",
     "stddev": "1.04",
     "ps": "0.00",
     "passing_yards": null,
@@ -4355,10 +4046,7 @@
     "drives": 191,
     "nflAverage": "57.32",
     "plays": 469,
-    "plays_rank": 4,
-    "yds_per_week": 24.356153846153845,
-    "pts_per_week": 16.71,
-    "fp_per_week": 48.38
+    "plays_rank": 4
   },
   {
     "position": "WR",
@@ -4397,10 +4085,7 @@
     "drives": 174,
     "nflAverage": "57.32",
     "plays": 670,
-    "plays_rank": 3,
-    "yds_per_week": 393.5,
-    "pts_per_week": 22.62,
-    "fp_per_week": 61.97
+    "plays_rank": 3
   },
   {
     "position": "TE",
@@ -4429,7 +4114,7 @@
     "value": "0",
     "highValue": "0.5",
     "yards_per_week": 38.06666666666667,
-    "floor_per_week": "3.81",
+    "floor_per_week": "5.61",
     "stddev": "0.61",
     "ps": "0.00",
     "passing_yards": null,
@@ -4439,10 +4124,7 @@
     "drives": 173,
     "nflAverage": "57.32",
     "plays": 554,
-    "plays_rank": 22,
-    "yds_per_week": 355.31,
-    "pts_per_week": 23.46,
-    "fp_per_week": 58.99
+    "plays_rank": 22
   },
   {
     "position": "QB",
@@ -4481,10 +4163,7 @@
     "drives": 167,
     "nflAverage": "57.32",
     "plays": 494,
-    "plays_rank": 29,
-    "yds_per_week": 386.81,
-    "pts_per_week": 25.36,
-    "fp_per_week": 64.04
+    "plays_rank": 29
   },
   {
     "position": "WR",
@@ -4513,7 +4192,7 @@
     "value": "-0.1",
     "highValue": "1",
     "yards_per_week": 66.91666666666667,
-    "floor_per_week": "6.69",
+    "floor_per_week": "8.40",
     "stddev": "1.19",
     "ps": "0.00",
     "passing_yards": null,
@@ -4523,10 +4202,7 @@
     "drives": 174,
     "nflAverage": "57.32",
     "plays": 626,
-    "plays_rank": 8,
-    "yds_per_week": 380.88,
-    "pts_per_week": 22.95,
-    "fp_per_week": 61.03
+    "plays_rank": 8
   },
   {
     "position": "WR",
@@ -4555,7 +4231,7 @@
     "value": "-0.1",
     "highValue": "2.2",
     "yards_per_week": 52.25,
-    "floor_per_week": "5.22",
+    "floor_per_week": "7.04",
     "stddev": "1.39",
     "ps": "0.00",
     "passing_yards": null,
@@ -4565,10 +4241,7 @@
     "drives": 192,
     "nflAverage": "57.32",
     "plays": 540,
-    "plays_rank": 24,
-    "yds_per_week": 314.13,
-    "pts_per_week": 18.6,
-    "fp_per_week": 50.01
+    "plays_rank": 24
   },
   {
     "position": "RB",
@@ -4597,7 +4270,7 @@
     "value": "-0.2",
     "highValue": "0.9",
     "yards_per_week": 45.61538461538461,
-    "floor_per_week": "4.56",
+    "floor_per_week": "5.10",
     "stddev": "1.20",
     "ps": "0.00",
     "passing_yards": null,
@@ -4607,10 +4280,7 @@
     "drives": 180,
     "nflAverage": "57.32",
     "plays": 390,
-    "plays_rank": 19,
-    "yds_per_week": 28.06230769230769,
-    "pts_per_week": 19.69,
-    "fp_per_week": 56.17
+    "plays_rank": 19
   },
   {
     "position": "WR",
@@ -4639,7 +4309,7 @@
     "value": "-0.2",
     "highValue": "1",
     "yards_per_week": 44.53333333333333,
-    "floor_per_week": "4.45",
+    "floor_per_week": "6.05",
     "stddev": "0.92",
     "ps": "0.00",
     "passing_yards": null,
@@ -4649,10 +4319,7 @@
     "drives": 174,
     "nflAverage": "57.32",
     "plays": 726,
-    "plays_rank": 1,
-    "yds_per_week": 413.69,
-    "pts_per_week": 25.23,
-    "fp_per_week": 66.6
+    "plays_rank": 1
   },
   {
     "position": "QB",
@@ -4681,7 +4348,7 @@
     "value": "-0.2",
     "highValue": "0.5",
     "yards_per_week": 2.7333333333333334,
-    "floor_per_week": "11.89",
+    "floor_per_week": "11.92",
     "stddev": "1.09",
     "ps": "0.00",
     "passing_yards": 4355,
@@ -4691,10 +4358,7 @@
     "drives": 176,
     "nflAverage": "57.32",
     "plays": 600,
-    "plays_rank": 13,
-    "yds_per_week": 402.63,
-    "pts_per_week": 25.52,
-    "fp_per_week": 65.78
+    "plays_rank": 13
   },
   {
     "position": "TE",
@@ -4723,7 +4387,7 @@
     "value": "-0.2",
     "highValue": "0.6",
     "yards_per_week": 36.8,
-    "floor_per_week": "3.68",
+    "floor_per_week": "4.81",
     "stddev": "0.88",
     "ps": "0.00",
     "passing_yards": null,
@@ -4733,10 +4397,7 @@
     "drives": 174,
     "nflAverage": "57.32",
     "plays": 567,
-    "plays_rank": 18,
-    "yds_per_week": 384.31,
-    "pts_per_week": 22.62,
-    "fp_per_week": 61.05
+    "plays_rank": 18
   },
   {
     "position": "TE",
@@ -4765,7 +4426,7 @@
     "value": "-0.2",
     "highValue": "0.8",
     "yards_per_week": 42.266666666666666,
-    "floor_per_week": "4.23",
+    "floor_per_week": "6.36",
     "stddev": "0.42",
     "ps": "0.00",
     "passing_yards": null,
@@ -4775,10 +4436,7 @@
     "drives": 185,
     "nflAverage": "57.32",
     "plays": 630,
-    "plays_rank": 6,
-    "yds_per_week": 361.94,
-    "pts_per_week": 21.16,
-    "fp_per_week": 57.35
+    "plays_rank": 6
   },
   {
     "position": "WR",
@@ -4807,7 +4465,7 @@
     "value": "-0.2",
     "highValue": "0.8",
     "yards_per_week": 58.8,
-    "floor_per_week": "5.88",
+    "floor_per_week": "8.08",
     "stddev": "0.69",
     "ps": "0.00",
     "passing_yards": null,
@@ -4817,10 +4475,7 @@
     "drives": 165,
     "nflAverage": "57.32",
     "plays": 643,
-    "plays_rank": 5,
-    "yds_per_week": 407.63,
-    "pts_per_week": 24.96,
-    "fp_per_week": 65.72
+    "plays_rank": 5
   },
   {
     "position": "RB",
@@ -4849,7 +4504,7 @@
     "value": "-0.3",
     "highValue": "1.7",
     "yards_per_week": 72,
-    "floor_per_week": "7.20",
+    "floor_per_week": "7.87",
     "stddev": "1.45",
     "ps": "0.00",
     "passing_yards": null,
@@ -4859,10 +4514,7 @@
     "drives": 174,
     "nflAverage": "57.32",
     "plays": 399,
-    "plays_rank": 18,
-    "yds_per_week": 25.392,
-    "pts_per_week": 22.95,
-    "fp_per_week": 61.03
+    "plays_rank": 18
   },
   {
     "position": "QB",
@@ -4891,7 +4543,7 @@
     "value": "-0.3",
     "highValue": "1.5",
     "yards_per_week": 8.133333333333333,
-    "floor_per_week": "12.27",
+    "floor_per_week": "12.31",
     "stddev": "0.66",
     "ps": "0.00",
     "passing_yards": 4298,
@@ -4901,10 +4553,7 @@
     "drives": 185,
     "nflAverage": "57.32",
     "plays": 630,
-    "plays_rank": 6,
-    "yds_per_week": 361.94,
-    "pts_per_week": 21.16,
-    "fp_per_week": 57.35
+    "plays_rank": 6
   },
   {
     "position": "TE",
@@ -4933,7 +4582,7 @@
     "value": "-0.3",
     "highValue": "1.2",
     "yards_per_week": 42.92307692307692,
-    "floor_per_week": "4.29",
+    "floor_per_week": "6.37",
     "stddev": "0.68",
     "ps": "0.00",
     "passing_yards": null,
@@ -4943,10 +4592,7 @@
     "drives": 165,
     "nflAverage": "57.32",
     "plays": 508,
-    "plays_rank": 28,
-    "yds_per_week": 316.31,
-    "pts_per_week": 17.12,
-    "fp_per_week": 48.75
+    "plays_rank": 28
   },
   {
     "position": "WR",
@@ -4975,7 +4621,7 @@
     "value": "-0.3",
     "highValue": "0.7",
     "yards_per_week": 44.53333333333333,
-    "floor_per_week": "4.45",
+    "floor_per_week": "5.82",
     "stddev": "0.73",
     "ps": "0.00",
     "passing_yards": null,
@@ -4985,10 +4631,7 @@
     "drives": 170,
     "nflAverage": "57.32",
     "plays": 578,
-    "plays_rank": 17,
-    "yds_per_week": 355.31,
-    "pts_per_week": 17.21,
-    "fp_per_week": 52.74
+    "plays_rank": 17
   },
   {
     "position": "WR",
@@ -5017,7 +4660,7 @@
     "value": "-0.3",
     "highValue": "1.9",
     "yards_per_week": 47.93333333333333,
-    "floor_per_week": "4.79",
+    "floor_per_week": "6.19",
     "stddev": "0.61",
     "ps": "0.00",
     "passing_yards": null,
@@ -5027,10 +4670,7 @@
     "drives": 191,
     "nflAverage": "57.32",
     "plays": 534,
-    "plays_rank": 26,
-    "yds_per_week": 316.63,
-    "pts_per_week": 16.71,
-    "fp_per_week": 48.38
+    "plays_rank": 26
   },
   {
     "position": "WR",
@@ -5059,7 +4699,7 @@
     "value": "-0.4",
     "highValue": "0.7",
     "yards_per_week": 47.833333333333336,
-    "floor_per_week": "4.78",
+    "floor_per_week": "7.12",
     "stddev": "1.51",
     "ps": "0.00",
     "passing_yards": null,
@@ -5069,10 +4709,7 @@
     "drives": 179,
     "nflAverage": "57.32",
     "plays": 537,
-    "plays_rank": 25,
-    "yds_per_week": 386.63,
-    "pts_per_week": 23.38,
-    "fp_per_week": 62.04
+    "plays_rank": 25
   },
   {
     "position": "WR",
@@ -5101,7 +4738,7 @@
     "value": "-0.4",
     "highValue": "0.5",
     "yards_per_week": 33.8,
-    "floor_per_week": "3.38",
+    "floor_per_week": "4.48",
     "stddev": "0.95",
     "ps": "0.00",
     "passing_yards": null,
@@ -5111,10 +4748,7 @@
     "drives": 161,
     "nflAverage": "57.32",
     "plays": 563,
-    "plays_rank": 19,
-    "yds_per_week": 365.5,
-    "pts_per_week": 20.73,
-    "fp_per_week": 57.28
+    "plays_rank": 19
   },
   {
     "position": "WR",
@@ -5143,7 +4777,7 @@
     "value": "-0.4",
     "highValue": "0.5",
     "yards_per_week": 39.5,
-    "floor_per_week": "3.95",
+    "floor_per_week": "5.27",
     "stddev": "0.73",
     "ps": "0.00",
     "passing_yards": null,
@@ -5153,10 +4787,7 @@
     "drives": 176,
     "nflAverage": "57.32",
     "plays": 483,
-    "plays_rank": 30,
-    "yds_per_week": 315.44,
-    "pts_per_week": 17.71,
-    "fp_per_week": 49.25
+    "plays_rank": 30
   },
   {
     "position": "WR",
@@ -5185,7 +4816,7 @@
     "value": "-0.5",
     "highValue": "0.4",
     "yards_per_week": 32.07142857142857,
-    "floor_per_week": "3.21",
+    "floor_per_week": "4.39",
     "stddev": "1.40",
     "ps": "0.00",
     "passing_yards": null,
@@ -5195,10 +4826,7 @@
     "drives": 173,
     "nflAverage": "57.32",
     "plays": 554,
-    "plays_rank": 22,
-    "yds_per_week": 355.31,
-    "pts_per_week": 23.46,
-    "fp_per_week": 58.99
+    "plays_rank": 22
   },
   {
     "position": "WR",
@@ -5227,7 +4855,7 @@
     "value": "-0.5",
     "highValue": "1.6",
     "yards_per_week": 60.6,
-    "floor_per_week": "6.06",
+    "floor_per_week": "8.06",
     "stddev": "0.88",
     "ps": "0.00",
     "passing_yards": null,
@@ -5237,10 +4865,7 @@
     "drives": 174,
     "nflAverage": "57.32",
     "plays": 670,
-    "plays_rank": 3,
-    "yds_per_week": 393.5,
-    "pts_per_week": 22.62,
-    "fp_per_week": 61.97
+    "plays_rank": 3
   },
   {
     "position": "QB",
@@ -5278,10 +4903,7 @@
     "drives": 181,
     "nflAverage": "57.32",
     "plays": 519,
-    "plays_rank": 27,
-    "yds_per_week": 264.13,
-    "pts_per_week": 12.67,
-    "fp_per_week": 39.08
+    "plays_rank": 27
   },
   {
     "position": "WR",
@@ -5310,7 +4932,7 @@
     "value": "-0.5",
     "highValue": "1",
     "yards_per_week": 59.214285714285715,
-    "floor_per_week": "5.92",
+    "floor_per_week": "8.56",
     "stddev": "1.14",
     "ps": "0.00",
     "passing_yards": null,
@@ -5320,10 +4942,7 @@
     "drives": 172,
     "nflAverage": "57.32",
     "plays": 606,
-    "plays_rank": 11,
-    "yds_per_week": 378.44,
-    "pts_per_week": 21.72,
-    "fp_per_week": 59.56
+    "plays_rank": 11
   },
   {
     "position": "QB",
@@ -5362,10 +4981,7 @@
     "drives": 161,
     "nflAverage": "57.32",
     "plays": 563,
-    "plays_rank": 19,
-    "yds_per_week": 365.5,
-    "pts_per_week": 20.73,
-    "fp_per_week": 57.28
+    "plays_rank": 19
   },
   {
     "position": "QB",
@@ -5404,10 +5020,7 @@
     "drives": 173,
     "nflAverage": "57.32",
     "plays": 554,
-    "plays_rank": 22,
-    "yds_per_week": 355.31,
-    "pts_per_week": 23.46,
-    "fp_per_week": 58.99
+    "plays_rank": 22
   },
   {
     "position": "TE",
@@ -5436,7 +5049,7 @@
     "value": "-0.6",
     "highValue": "0.2",
     "yards_per_week": 32.333333333333336,
-    "floor_per_week": "3.23",
+    "floor_per_week": "4.73",
     "stddev": "1.07",
     "ps": "0.00",
     "passing_yards": null,
@@ -5446,10 +5059,7 @@
     "drives": 166,
     "nflAverage": "57.32",
     "plays": 586,
-    "plays_rank": 15,
-    "yds_per_week": 387.94,
-    "pts_per_week": 22.93,
-    "fp_per_week": 61.72
+    "plays_rank": 15
   },
   {
     "position": "TE",
@@ -5478,7 +5088,7 @@
     "value": "-0.6",
     "highValue": "0.2",
     "yards_per_week": 42.4,
-    "floor_per_week": "4.24",
+    "floor_per_week": "6.07",
     "stddev": "0.83",
     "ps": "0.00",
     "passing_yards": null,
@@ -5488,10 +5098,7 @@
     "drives": 174,
     "nflAverage": "57.32",
     "plays": 670,
-    "plays_rank": 3,
-    "yds_per_week": 393.5,
-    "pts_per_week": 22.62,
-    "fp_per_week": 61.97
+    "plays_rank": 3
   },
   {
     "position": "RB",
@@ -5520,7 +5127,7 @@
     "value": "-0.6",
     "highValue": "0.9",
     "yards_per_week": 24.7,
-    "floor_per_week": "2.47",
+    "floor_per_week": "2.92",
     "stddev": "0.63",
     "ps": "0.00",
     "passing_yards": null,
@@ -5530,10 +5137,7 @@
     "drives": 176,
     "nflAverage": "57.32",
     "plays": 360,
-    "plays_rank": 25,
-    "yds_per_week": 31.544,
-    "pts_per_week": 17.71,
-    "fp_per_week": 49.25
+    "plays_rank": 25
   },
   {
     "position": "RB",
@@ -5571,10 +5175,7 @@
     "drives": 175,
     "nflAverage": "57.32",
     "plays": 437,
-    "plays_rank": 9,
-    "yds_per_week": null,
-    "pts_per_week": 30.52,
-    "fp_per_week": 74.02
+    "plays_rank": 9
   },
   {
     "position": "QB",
@@ -5613,10 +5214,7 @@
     "drives": 174,
     "nflAverage": "57.32",
     "plays": 567,
-    "plays_rank": 18,
-    "yds_per_week": 384.31,
-    "pts_per_week": 22.62,
-    "fp_per_week": 61.05
+    "plays_rank": 18
   },
   {
     "position": "TE",
@@ -5645,7 +5243,7 @@
     "value": "-0.7",
     "highValue": "0.3",
     "yards_per_week": 40.833333333333336,
-    "floor_per_week": "4.08",
+    "floor_per_week": "6.25",
     "stddev": "0.67",
     "ps": "0.00",
     "passing_yards": null,
@@ -5655,10 +5253,7 @@
     "drives": 176,
     "nflAverage": "57.32",
     "plays": 679,
-    "plays_rank": 2,
-    "yds_per_week": 394.56,
-    "pts_per_week": 27.06,
-    "fp_per_week": 66.52
+    "plays_rank": 2
   },
   {
     "position": "RB",
@@ -5687,7 +5282,7 @@
     "value": "-0.8",
     "highValue": "0.6",
     "yards_per_week": 76.78571428571429,
-    "floor_per_week": "7.68",
+    "floor_per_week": "8.64",
     "stddev": "1.06",
     "ps": "0.00",
     "passing_yards": null,
@@ -5697,10 +5292,7 @@
     "drives": 173,
     "nflAverage": "57.32",
     "plays": 415,
-    "plays_rank": 12,
-    "yds_per_week": 27.450714285714287,
-    "pts_per_week": 20.33,
-    "fp_per_week": 58.76
+    "plays_rank": 12
   },
   {
     "position": "RB",
@@ -5729,7 +5321,7 @@
     "value": "-0.8",
     "highValue": "0.7",
     "yards_per_week": 83.33333333333333,
-    "floor_per_week": "8.33",
+    "floor_per_week": "9.00",
     "stddev": "1.55",
     "ps": "0.00",
     "passing_yards": null,
@@ -5739,10 +5331,7 @@
     "drives": 165,
     "nflAverage": "57.32",
     "plays": 387,
-    "plays_rank": 20,
-    "yds_per_week": 21.087333333333333,
-    "pts_per_week": 17.12,
-    "fp_per_week": 48.75
+    "plays_rank": 20
   },
   {
     "position": "TE",
@@ -5780,10 +5369,7 @@
     "drives": 168,
     "nflAverage": "57.32",
     "plays": 610,
-    "plays_rank": 10,
-    "yds_per_week": 344,
-    "pts_per_week": 19.43,
-    "fp_per_week": 53.83
+    "plays_rank": 10
   },
   {
     "position": "RB",
@@ -5812,7 +5398,7 @@
     "value": "-1",
     "highValue": "0.6",
     "yards_per_week": 61.13333333333333,
-    "floor_per_week": "6.11",
+    "floor_per_week": "8.08",
     "stddev": "1.33",
     "ps": "0.00",
     "passing_yards": null,
@@ -5822,10 +5408,7 @@
     "drives": 162,
     "nflAverage": "57.32",
     "plays": 428,
-    "plays_rank": 10,
-    "yds_per_week": 22.008666666666667,
-    "pts_per_week": 18.12,
-    "fp_per_week": 51.14
+    "plays_rank": 10
   },
   {
     "position": "WR",
@@ -5863,10 +5446,7 @@
     "drives": 176,
     "nflAverage": "57.32",
     "plays": 449,
-    "plays_rank": 31,
-    "yds_per_week": 375.5,
-    "pts_per_week": 25.96,
-    "fp_per_week": 63.51
+    "plays_rank": 31
   },
   {
     "position": "WR",
@@ -5895,7 +5475,7 @@
     "value": "-1.3",
     "highValue": "0.1",
     "yards_per_week": 58.142857142857146,
-    "floor_per_week": "5.81",
+    "floor_per_week": "7.67",
     "stddev": "1.50",
     "ps": "0.00",
     "passing_yards": null,
@@ -5905,10 +5485,7 @@
     "drives": 176,
     "nflAverage": "57.32",
     "plays": 483,
-    "plays_rank": 30,
-    "yds_per_week": 315.44,
-    "pts_per_week": 17.71,
-    "fp_per_week": 49.25
+    "plays_rank": 30
   },
   {
     "position": "WR",
@@ -5937,7 +5514,7 @@
     "value": "-1.4",
     "highValue": "0.5",
     "yards_per_week": 39.214285714285715,
-    "floor_per_week": "3.92",
+    "floor_per_week": "5.49",
     "stddev": "1.74",
     "ps": "0.00",
     "passing_yards": null,
@@ -5947,10 +5524,7 @@
     "drives": 176,
     "nflAverage": "57.32",
     "plays": 679,
-    "plays_rank": 2,
-    "yds_per_week": 394.56,
-    "pts_per_week": 27.06,
-    "fp_per_week": 66.52
+    "plays_rank": 2
   },
   {
     "position": "TE",
@@ -5979,7 +5553,7 @@
     "value": "-1.5",
     "highValue": "-0.4",
     "yards_per_week": 22.266666666666666,
-    "floor_per_week": "2.23",
+    "floor_per_week": "3.33",
     "stddev": "1.14",
     "ps": "0.00",
     "passing_yards": null,
@@ -5989,10 +5563,7 @@
     "drives": 174,
     "nflAverage": "57.32",
     "plays": 626,
-    "plays_rank": 8,
-    "yds_per_week": 380.88,
-    "pts_per_week": 22.95,
-    "fp_per_week": 61.03
+    "plays_rank": 8
   },
   {
     "position": "TE",
@@ -6030,10 +5601,7 @@
     "drives": 180,
     "nflAverage": "57.32",
     "plays": 629,
-    "plays_rank": 7,
-    "yds_per_week": 364.81,
-    "pts_per_week": 19.69,
-    "fp_per_week": 56.17
+    "plays_rank": 7
   },
   {
     "position": "TE",
@@ -6062,7 +5630,7 @@
     "value": "-1.5",
     "highValue": "-0.2",
     "yards_per_week": 44.75,
-    "floor_per_week": "4.47",
+    "floor_per_week": "6.35",
     "stddev": "0.89",
     "ps": "0.00",
     "passing_yards": null,
@@ -6072,10 +5640,7 @@
     "drives": 164,
     "nflAverage": "57.32",
     "plays": 579,
-    "plays_rank": 16,
-    "yds_per_week": 328.19,
-    "pts_per_week": 20.81,
-    "fp_per_week": 53.63
+    "plays_rank": 16
   },
   {
     "position": "TE",
@@ -6113,10 +5678,7 @@
     "drives": 170,
     "nflAverage": "57.32",
     "plays": 578,
-    "plays_rank": 17,
-    "yds_per_week": 355.31,
-    "pts_per_week": 17.21,
-    "fp_per_week": 52.74
+    "plays_rank": 17
   },
   {
     "position": "TE",
@@ -6154,10 +5716,7 @@
     "drives": 161,
     "nflAverage": "57.32",
     "plays": 563,
-    "plays_rank": 19,
-    "yds_per_week": 365.5,
-    "pts_per_week": 20.73,
-    "fp_per_week": 57.28
+    "plays_rank": 19
   },
   {
     "position": "WR",
@@ -6186,7 +5745,7 @@
     "value": "-1.6",
     "highValue": "-0.4",
     "yards_per_week": 40.81818181818182,
-    "floor_per_week": "4.08",
+    "floor_per_week": "5.81",
     "stddev": "1.06",
     "ps": "0.00",
     "passing_yards": null,
@@ -6196,10 +5755,7 @@
     "drives": 192,
     "nflAverage": "57.32",
     "plays": 540,
-    "plays_rank": 24,
-    "yds_per_week": 314.13,
-    "pts_per_week": 18.6,
-    "fp_per_week": 50.01
+    "plays_rank": 24
   },
   {
     "position": "WR",
@@ -6228,7 +5784,7 @@
     "value": "-1.6",
     "highValue": "-0.9",
     "yards_per_week": 38.714285714285715,
-    "floor_per_week": "3.87",
+    "floor_per_week": "5.30",
     "stddev": "0.64",
     "ps": "0.00",
     "passing_yards": null,
@@ -6238,10 +5794,7 @@
     "drives": 165,
     "nflAverage": "57.32",
     "plays": 508,
-    "plays_rank": 28,
-    "yds_per_week": 316.31,
-    "pts_per_week": 17.12,
-    "fp_per_week": 48.75
+    "plays_rank": 28
   },
   {
     "position": "WR",
@@ -6270,7 +5823,7 @@
     "value": "-1.6",
     "highValue": "0.3",
     "yards_per_week": 47,
-    "floor_per_week": "4.70",
+    "floor_per_week": "6.40",
     "stddev": "1.30",
     "ps": "0.00",
     "passing_yards": null,
@@ -6280,10 +5833,7 @@
     "drives": 155,
     "nflAverage": "57.32",
     "plays": 547,
-    "plays_rank": 23,
-    "yds_per_week": 387.44,
-    "pts_per_week": 31.1,
-    "fp_per_week": 69.84
+    "plays_rank": 23
   },
   {
     "position": "RB",
@@ -6312,7 +5862,7 @@
     "value": "-1.6",
     "highValue": "14.6",
     "yards_per_week": 30.533333333333335,
-    "floor_per_week": "3.05",
+    "floor_per_week": "4.32",
     "stddev": "1.46",
     "ps": "0.00",
     "passing_yards": null,
@@ -6322,10 +5872,7 @@
     "drives": 180,
     "nflAverage": "57.32",
     "plays": 390,
-    "plays_rank": 19,
-    "yds_per_week": 24.320666666666668,
-    "pts_per_week": 19.69,
-    "fp_per_week": 56.17
+    "plays_rank": 19
   },
   {
     "position": "RB",
@@ -6354,7 +5901,7 @@
     "value": "-1.7",
     "highValue": "-0.1",
     "yards_per_week": 49.266666666666666,
-    "floor_per_week": "4.93",
+    "floor_per_week": "7.03",
     "stddev": "1.14",
     "ps": "0.00",
     "passing_yards": null,
@@ -6364,10 +5911,7 @@
     "drives": 176,
     "nflAverage": "57.32",
     "plays": 402,
-    "plays_rank": 17,
-    "yds_per_week": 26.304,
-    "pts_per_week": 27.06,
-    "fp_per_week": 66.52
+    "plays_rank": 17
   },
   {
     "position": "WR",
@@ -6396,7 +5940,7 @@
     "value": "-1.7",
     "highValue": "0",
     "yards_per_week": 16.692307692307693,
-    "floor_per_week": "1.67",
+    "floor_per_week": "2.28",
     "stddev": "0.83",
     "ps": "0.00",
     "passing_yards": null,
@@ -6406,10 +5950,7 @@
     "drives": 174,
     "nflAverage": "57.32",
     "plays": 726,
-    "plays_rank": 1,
-    "yds_per_week": 413.69,
-    "pts_per_week": 25.23,
-    "fp_per_week": 66.6
+    "plays_rank": 1
   },
   {
     "position": "RB",
@@ -6438,7 +5979,7 @@
     "value": "-1.7",
     "highValue": "-0.9",
     "yards_per_week": 44.4,
-    "floor_per_week": "4.44",
+    "floor_per_week": "4.69",
     "stddev": "1.65",
     "ps": "0.00",
     "passing_yards": null,
@@ -6448,10 +5989,7 @@
     "drives": 168,
     "nflAverage": "57.32",
     "plays": 407,
-    "plays_rank": 15,
-    "yds_per_week": 34.4,
-    "pts_per_week": 19.43,
-    "fp_per_week": 53.83
+    "plays_rank": 15
   },
   {
     "position": "WR",
@@ -6480,7 +6018,7 @@
     "value": "-1.7",
     "highValue": "-0.3",
     "yards_per_week": 30.9,
-    "floor_per_week": "3.09",
+    "floor_per_week": "4.29",
     "stddev": "0.94",
     "ps": "0.00",
     "passing_yards": null,
@@ -6490,10 +6028,7 @@
     "drives": 176,
     "nflAverage": "57.32",
     "plays": 483,
-    "plays_rank": 30,
-    "yds_per_week": 315.44,
-    "pts_per_week": 17.71,
-    "fp_per_week": 49.25
+    "plays_rank": 30
   },
   {
     "position": "RB",
@@ -6522,7 +6057,7 @@
     "value": "-1.7",
     "highValue": "0.2",
     "yards_per_week": 57.733333333333334,
-    "floor_per_week": "5.77",
+    "floor_per_week": "8.04",
     "stddev": "1.11",
     "ps": "0.00",
     "passing_yards": null,
@@ -6532,10 +6067,7 @@
     "drives": 170,
     "nflAverage": "57.32",
     "plays": 384,
-    "plays_rank": 22,
-    "yds_per_week": 23.687333333333335,
-    "pts_per_week": 17.21,
-    "fp_per_week": 52.74
+    "plays_rank": 22
   },
   {
     "position": "TE",
@@ -6564,7 +6096,7 @@
     "value": "-1.7",
     "highValue": "-0.4",
     "yards_per_week": 33.46666666666667,
-    "floor_per_week": "3.35",
+    "floor_per_week": "4.65",
     "stddev": "0.77",
     "ps": "0.00",
     "passing_yards": null,
@@ -6574,10 +6106,7 @@
     "drives": 192,
     "nflAverage": "57.32",
     "plays": 540,
-    "plays_rank": 24,
-    "yds_per_week": 314.13,
-    "pts_per_week": 18.6,
-    "fp_per_week": 50.01
+    "plays_rank": 24
   },
   {
     "position": "QB",
@@ -6616,10 +6145,7 @@
     "drives": 173,
     "nflAverage": "57.32",
     "plays": 563,
-    "plays_rank": 20,
-    "yds_per_week": 384.31,
-    "pts_per_week": 20.33,
-    "fp_per_week": 58.76
+    "plays_rank": 20
   },
   {
     "position": "WR",
@@ -6648,7 +6174,7 @@
     "value": "-1.8",
     "highValue": "-0.4",
     "yards_per_week": 55.13333333333333,
-    "floor_per_week": "5.51",
+    "floor_per_week": "8.05",
     "stddev": "1.58",
     "ps": "0.00",
     "passing_yards": null,
@@ -6658,10 +6184,7 @@
     "drives": 162,
     "nflAverage": "57.32",
     "plays": 432,
-    "plays_rank": 32,
-    "yds_per_week": 330.13,
-    "pts_per_week": 18.12,
-    "fp_per_week": 51.14
+    "plays_rank": 32
   },
   {
     "position": "RB",
@@ -6699,10 +6222,7 @@
     "drives": 179,
     "nflAverage": "57.32",
     "plays": 385,
-    "plays_rank": 21,
-    "yds_per_week": 61.43714285714286,
-    "pts_per_week": 24.28,
-    "fp_per_week": 67.28
+    "plays_rank": 21
   },
   {
     "position": "WR",
@@ -6740,10 +6260,7 @@
     "drives": 177,
     "nflAverage": "57.32",
     "plays": 555,
-    "plays_rank": 21,
-    "yds_per_week": 322.13,
-    "pts_per_week": 13.72,
-    "fp_per_week": 45.93
+    "plays_rank": 21
   },
   {
     "position": "WR",
@@ -6772,7 +6289,7 @@
     "value": "-1.9",
     "highValue": "-0.3",
     "yards_per_week": 44.8,
-    "floor_per_week": "4.48",
+    "floor_per_week": "6.65",
     "stddev": "0.76",
     "ps": "0.00",
     "passing_yards": null,
@@ -6782,10 +6299,7 @@
     "drives": 191,
     "nflAverage": "57.32",
     "plays": 534,
-    "plays_rank": 26,
-    "yds_per_week": 316.63,
-    "pts_per_week": 16.71,
-    "fp_per_week": 48.38
+    "plays_rank": 26
   },
   {
     "position": "WR",
@@ -6814,7 +6328,7 @@
     "value": "-2",
     "highValue": "-0.4",
     "yards_per_week": 18.692307692307693,
-    "floor_per_week": "1.87",
+    "floor_per_week": "3.02",
     "stddev": "1.31",
     "ps": "0.00",
     "passing_yards": null,
@@ -6824,10 +6338,7 @@
     "drives": 180,
     "nflAverage": "57.32",
     "plays": 629,
-    "plays_rank": 7,
-    "yds_per_week": 364.81,
-    "pts_per_week": 19.69,
-    "fp_per_week": 56.17
+    "plays_rank": 7
   },
   {
     "position": "WR",
@@ -6865,10 +6376,7 @@
     "drives": 174,
     "nflAverage": "57.32",
     "plays": 567,
-    "plays_rank": 18,
-    "yds_per_week": 384.31,
-    "pts_per_week": 22.62,
-    "fp_per_week": 61.05
+    "plays_rank": 18
   },
   {
     "position": "RB",
@@ -6897,7 +6405,7 @@
     "value": "-2.1",
     "highValue": "-0.5",
     "yards_per_week": 45.5,
-    "floor_per_week": "4.55",
+    "floor_per_week": "5.85",
     "stddev": "1.06",
     "ps": "0.00",
     "passing_yards": null,
@@ -6907,10 +6415,7 @@
     "drives": 174,
     "nflAverage": "57.32",
     "plays": 341,
-    "plays_rank": 31,
-    "yds_per_week": 41.369,
-    "pts_per_week": 25.23,
-    "fp_per_week": 66.6
+    "plays_rank": 31
   },
   {
     "position": "WR",
@@ -6939,7 +6444,7 @@
     "value": "-2.1",
     "highValue": "-0.3",
     "yards_per_week": 43.46666666666667,
-    "floor_per_week": "4.35",
+    "floor_per_week": "6.21",
     "stddev": "0.87",
     "ps": "0.00",
     "passing_yards": null,
@@ -6949,10 +6454,7 @@
     "drives": 191,
     "nflAverage": "57.32",
     "plays": 534,
-    "plays_rank": 26,
-    "yds_per_week": 316.63,
-    "pts_per_week": 16.71,
-    "fp_per_week": 48.38
+    "plays_rank": 26
   },
   {
     "position": "WR",
@@ -6990,10 +6492,7 @@
     "drives": 162,
     "nflAverage": "57.32",
     "plays": 432,
-    "plays_rank": 32,
-    "yds_per_week": 330.13,
-    "pts_per_week": 18.12,
-    "fp_per_week": 51.14
+    "plays_rank": 32
   },
   {
     "position": "QB",
@@ -7032,10 +6531,7 @@
     "drives": 191,
     "nflAverage": "57.32",
     "plays": 534,
-    "plays_rank": 26,
-    "yds_per_week": 316.63,
-    "pts_per_week": 16.71,
-    "fp_per_week": 48.38
+    "plays_rank": 26
   },
   {
     "position": "RB",
@@ -7064,7 +6560,7 @@
     "value": "-2.2",
     "highValue": "-0.7",
     "yards_per_week": 49.55555555555556,
-    "floor_per_week": "4.96",
+    "floor_per_week": "7.23",
     "stddev": "1.16",
     "ps": "0.00",
     "passing_yards": null,
@@ -7074,10 +6570,7 @@
     "drives": 165,
     "nflAverage": "57.32",
     "plays": 387,
-    "plays_rank": 20,
-    "yds_per_week": 35.14555555555555,
-    "pts_per_week": 17.12,
-    "fp_per_week": 48.75
+    "plays_rank": 20
   },
   {
     "position": "RB",
@@ -7106,7 +6599,7 @@
     "value": "-2.2",
     "highValue": "-0.9",
     "yards_per_week": 44.93333333333333,
-    "floor_per_week": "4.49",
+    "floor_per_week": "5.39",
     "stddev": "1.09",
     "ps": "0.00",
     "passing_yards": null,
@@ -7116,10 +6609,7 @@
     "drives": 174,
     "nflAverage": "57.32",
     "plays": 334,
-    "plays_rank": 32,
-    "yds_per_week": 26.233333333333334,
-    "pts_per_week": 22.62,
-    "fp_per_week": 61.97
+    "plays_rank": 32
   },
   {
     "position": "WR",
@@ -7148,7 +6638,7 @@
     "value": "-2.2",
     "highValue": "-0.5",
     "yards_per_week": 30.5,
-    "floor_per_week": "3.05",
+    "floor_per_week": "4.05",
     "stddev": "0.97",
     "ps": "0.00",
     "passing_yards": null,
@@ -7158,10 +6648,7 @@
     "drives": 155,
     "nflAverage": "57.32",
     "plays": 547,
-    "plays_rank": 23,
-    "yds_per_week": 387.44,
-    "pts_per_week": 31.1,
-    "fp_per_week": 69.84
+    "plays_rank": 23
   },
   {
     "position": "WR",
@@ -7199,10 +6686,7 @@
     "drives": 165,
     "nflAverage": "57.32",
     "plays": 508,
-    "plays_rank": 28,
-    "yds_per_week": 316.31,
-    "pts_per_week": 17.12,
-    "fp_per_week": 48.75
+    "plays_rank": 28
   },
   {
     "position": "WR",
@@ -7231,7 +6715,7 @@
     "value": "-2.2",
     "highValue": "-0.6",
     "yards_per_week": 51.2,
-    "floor_per_week": "5.12",
+    "floor_per_week": "7.25",
     "stddev": "1.26",
     "ps": "0.00",
     "passing_yards": null,
@@ -7241,10 +6725,7 @@
     "drives": 174,
     "nflAverage": "57.32",
     "plays": 626,
-    "plays_rank": 8,
-    "yds_per_week": 380.88,
-    "pts_per_week": 22.95,
-    "fp_per_week": 61.03
+    "plays_rank": 8
   },
   {
     "position": "WR",
@@ -7273,7 +6754,7 @@
     "value": "-2.2",
     "highValue": "-1",
     "yards_per_week": 38,
-    "floor_per_week": "3.80",
+    "floor_per_week": "5.37",
     "stddev": "1.19",
     "ps": "0.00",
     "passing_yards": null,
@@ -7283,10 +6764,7 @@
     "drives": 165,
     "nflAverage": "57.32",
     "plays": 508,
-    "plays_rank": 28,
-    "yds_per_week": 316.31,
-    "pts_per_week": 17.12,
-    "fp_per_week": 48.75
+    "plays_rank": 28
   },
   {
     "position": "RB",
@@ -7315,7 +6793,7 @@
     "value": "-2.3",
     "highValue": "-0.6",
     "yards_per_week": 35.92307692307692,
-    "floor_per_week": "3.59",
+    "floor_per_week": "4.63",
     "stddev": "0.92",
     "ps": "0.00",
     "passing_yards": null,
@@ -7325,10 +6803,7 @@
     "drives": 165,
     "nflAverage": "57.32",
     "plays": 346,
-    "plays_rank": 30,
-    "yds_per_week": 31.356153846153845,
-    "pts_per_week": 24.96,
-    "fp_per_week": 65.72
+    "plays_rank": 30
   },
   {
     "position": "WR",
@@ -7366,10 +6841,7 @@
     "drives": 173,
     "nflAverage": "57.32",
     "plays": 563,
-    "plays_rank": 20,
-    "yds_per_week": 384.31,
-    "pts_per_week": 20.33,
-    "fp_per_week": 58.76
+    "plays_rank": 20
   },
   {
     "position": "WR",
@@ -7398,7 +6870,7 @@
     "value": "-2.3",
     "highValue": "-1",
     "yards_per_week": 40.92857142857143,
-    "floor_per_week": "4.09",
+    "floor_per_week": "6.20",
     "stddev": "1.18",
     "ps": "0.00",
     "passing_yards": null,
@@ -7408,10 +6880,7 @@
     "drives": 168,
     "nflAverage": "57.32",
     "plays": 610,
-    "plays_rank": 10,
-    "yds_per_week": 344,
-    "pts_per_week": 19.43,
-    "fp_per_week": 53.83
+    "plays_rank": 10
   },
   {
     "position": "RB",
@@ -7440,7 +6909,7 @@
     "value": "-2.4",
     "highValue": "-1.1",
     "yards_per_week": 39,
-    "floor_per_week": "3.90",
+    "floor_per_week": "5.49",
     "stddev": "1.21",
     "ps": "0.00",
     "passing_yards": null,
@@ -7450,10 +6919,7 @@
     "drives": 164,
     "nflAverage": "57.32",
     "plays": 363,
-    "plays_rank": 24,
-    "yds_per_week": 29.835454545454546,
-    "pts_per_week": 20.81,
-    "fp_per_week": 53.63
+    "plays_rank": 24
   },
   {
     "position": "WR",
@@ -7482,7 +6948,7 @@
     "value": "-2.4",
     "highValue": "-1.4",
     "yards_per_week": 49.93333333333333,
-    "floor_per_week": "4.99",
+    "floor_per_week": "7.23",
     "stddev": "1.44",
     "ps": "0.00",
     "passing_yards": null,
@@ -7492,10 +6958,7 @@
     "drives": 173,
     "nflAverage": "57.32",
     "plays": 554,
-    "plays_rank": 22,
-    "yds_per_week": 355.31,
-    "pts_per_week": 23.46,
-    "fp_per_week": 58.99
+    "plays_rank": 22
   },
   {
     "position": "TE",
@@ -7524,7 +6987,7 @@
     "value": "-2.4",
     "highValue": "-1.6",
     "yards_per_week": 39,
-    "floor_per_week": "3.90",
+    "floor_per_week": "4.90",
     "stddev": "0.91",
     "ps": "0.00",
     "passing_yards": null,
@@ -7534,10 +6997,7 @@
     "drives": 176,
     "nflAverage": "57.32",
     "plays": 449,
-    "plays_rank": 31,
-    "yds_per_week": 375.5,
-    "pts_per_week": 25.96,
-    "fp_per_week": 63.51
+    "plays_rank": 31
   },
   {
     "position": "WR",
@@ -7566,7 +7026,7 @@
     "value": "-2.5",
     "highValue": "-0.4",
     "yards_per_week": 36.72727272727273,
-    "floor_per_week": "3.67",
+    "floor_per_week": "4.72",
     "stddev": "1.36",
     "ps": "0.00",
     "passing_yards": null,
@@ -7576,10 +7036,7 @@
     "drives": 173,
     "nflAverage": "57.32",
     "plays": 563,
-    "plays_rank": 20,
-    "yds_per_week": 384.31,
-    "pts_per_week": 20.33,
-    "fp_per_week": 58.76
+    "plays_rank": 20
   },
   {
     "position": "QB",
@@ -7618,10 +7075,7 @@
     "drives": 168,
     "nflAverage": "57.32",
     "plays": 610,
-    "plays_rank": 10,
-    "yds_per_week": 344,
-    "pts_per_week": 19.43,
-    "fp_per_week": 53.83
+    "plays_rank": 10
   },
   {
     "position": "WR",
@@ -7650,7 +7104,7 @@
     "value": "-2.5",
     "highValue": "-1.7",
     "yards_per_week": 47.875,
-    "floor_per_week": "4.79",
+    "floor_per_week": "7.16",
     "stddev": "1.15",
     "ps": "0.00",
     "passing_yards": null,
@@ -7660,10 +7114,7 @@
     "drives": 161,
     "nflAverage": "57.32",
     "plays": 563,
-    "plays_rank": 19,
-    "yds_per_week": 365.5,
-    "pts_per_week": 20.73,
-    "fp_per_week": 57.28
+    "plays_rank": 19
   },
   {
     "position": "TE",
@@ -7692,7 +7143,7 @@
     "value": "-2.5",
     "highValue": "-1.3",
     "yards_per_week": 22.4,
-    "floor_per_week": "2.24",
+    "floor_per_week": "3.34",
     "stddev": "0.87",
     "ps": "0.00",
     "passing_yards": null,
@@ -7702,10 +7153,7 @@
     "drives": 175,
     "nflAverage": "57.32",
     "plays": 600,
-    "plays_rank": 14,
-    "yds_per_week": 435.06,
-    "pts_per_week": 30.52,
-    "fp_per_week": 74.02
+    "plays_rank": 14
   },
   {
     "position": "RB",
@@ -7734,7 +7182,7 @@
     "value": "-2.6",
     "highValue": "-0.5",
     "yards_per_week": 109.27272727272727,
-    "floor_per_week": "10.93",
+    "floor_per_week": "12.11",
     "stddev": "2.00",
     "ps": "0.00",
     "passing_yards": null,
@@ -7744,10 +7192,7 @@
     "drives": 195,
     "nflAverage": "57.32",
     "plays": 412,
-    "plays_rank": 13,
-    "yds_per_week": 34.96636363636364,
-    "pts_per_week": 22.3,
-    "fp_per_week": 60.77
+    "plays_rank": 13
   },
   {
     "position": "QB",
@@ -7776,7 +7221,7 @@
     "value": "-2.7",
     "highValue": "-1.6",
     "yards_per_week": 2.533333333333333,
-    "floor_per_week": "11.05",
+    "floor_per_week": "11.08",
     "stddev": "1.04",
     "ps": "0.00",
     "passing_yards": 4049,
@@ -7786,10 +7231,7 @@
     "drives": 170,
     "nflAverage": "57.32",
     "plays": 578,
-    "plays_rank": 17,
-    "yds_per_week": 355.31,
-    "pts_per_week": 17.21,
-    "fp_per_week": 52.74
+    "plays_rank": 17
   },
   {
     "position": "RB",
@@ -7818,7 +7260,7 @@
     "value": "-2.7",
     "highValue": "-0.8",
     "yards_per_week": 48.714285714285715,
-    "floor_per_week": "4.87",
+    "floor_per_week": "5.94",
     "stddev": "0.93",
     "ps": "0.00",
     "passing_yards": null,
@@ -7828,10 +7270,7 @@
     "drives": 167,
     "nflAverage": "57.32",
     "plays": 378,
-    "plays_rank": 23,
-    "yds_per_week": 55.25857142857143,
-    "pts_per_week": 25.36,
-    "fp_per_week": 64.04
+    "plays_rank": 23
   },
   {
     "position": "TE",
@@ -7860,7 +7299,7 @@
     "value": "-2.7",
     "highValue": "-1.5",
     "yards_per_week": 26.88888888888889,
-    "floor_per_week": "2.69",
+    "floor_per_week": "4.13",
     "stddev": "0.69",
     "ps": "0.00",
     "passing_yards": null,
@@ -7870,10 +7309,7 @@
     "drives": 177,
     "nflAverage": "57.32",
     "plays": 555,
-    "plays_rank": 21,
-    "yds_per_week": 322.13,
-    "pts_per_week": 13.72,
-    "fp_per_week": 45.93
+    "plays_rank": 21
   },
   {
     "position": "WR",
@@ -7902,7 +7338,7 @@
     "value": "-2.8",
     "highValue": "-1.2",
     "yards_per_week": 45.083333333333336,
-    "floor_per_week": "4.51",
+    "floor_per_week": "5.63",
     "stddev": "0.88",
     "ps": "0.00",
     "passing_yards": null,
@@ -7912,10 +7348,7 @@
     "drives": 191,
     "nflAverage": "57.32",
     "plays": 534,
-    "plays_rank": 26,
-    "yds_per_week": 316.63,
-    "pts_per_week": 16.71,
-    "fp_per_week": 48.38
+    "plays_rank": 26
   },
   {
     "position": "QB",
@@ -7954,10 +7387,7 @@
     "drives": 164,
     "nflAverage": "57.32",
     "plays": 579,
-    "plays_rank": 16,
-    "yds_per_week": 328.19,
-    "pts_per_week": 20.81,
-    "fp_per_week": 53.63
+    "plays_rank": 16
   },
   {
     "position": "WR",
@@ -7986,7 +7416,7 @@
     "value": "-2.8",
     "highValue": "-1.4",
     "yards_per_week": 18.25,
-    "floor_per_week": "1.82",
+    "floor_per_week": "2.70",
     "stddev": "1.09",
     "ps": "0.00",
     "passing_yards": null,
@@ -7996,10 +7426,7 @@
     "drives": 164,
     "nflAverage": "57.32",
     "plays": 579,
-    "plays_rank": 16,
-    "yds_per_week": 328.19,
-    "pts_per_week": 20.81,
-    "fp_per_week": 53.63
+    "plays_rank": 16
   },
   {
     "position": "WR",
@@ -8038,10 +7465,7 @@
     "drives": 174,
     "nflAverage": "57.32",
     "plays": 567,
-    "plays_rank": 18,
-    "yds_per_week": 384.31,
-    "pts_per_week": 22.62,
-    "fp_per_week": 61.05
+    "plays_rank": 18
   },
   {
     "position": "TE",
@@ -8070,7 +7494,7 @@
     "value": "-2.8",
     "highValue": "-1.2",
     "yards_per_week": 19.266666666666666,
-    "floor_per_week": "1.93",
+    "floor_per_week": "2.93",
     "stddev": "0.97",
     "ps": "0.00",
     "passing_yards": null,
@@ -8080,10 +7504,7 @@
     "drives": 179,
     "nflAverage": "57.32",
     "plays": 661,
-    "plays_rank": 4,
-    "yds_per_week": 430.06,
-    "pts_per_week": 24.28,
-    "fp_per_week": 67.28
+    "plays_rank": 4
   },
   {
     "position": "WR",
@@ -8121,10 +7542,7 @@
     "drives": 176,
     "nflAverage": "57.32",
     "plays": 600,
-    "plays_rank": 13,
-    "yds_per_week": 402.63,
-    "pts_per_week": 25.52,
-    "fp_per_week": 65.78
+    "plays_rank": 13
   },
   {
     "position": "TE",
@@ -8153,7 +7571,7 @@
     "value": "-2.9",
     "highValue": "-2.4",
     "yards_per_week": 26.214285714285715,
-    "floor_per_week": "2.62",
+    "floor_per_week": "3.51",
     "stddev": "0.39",
     "ps": "0.00",
     "passing_yards": null,
@@ -8163,10 +7581,7 @@
     "drives": 165,
     "nflAverage": "57.32",
     "plays": 508,
-    "plays_rank": 28,
-    "yds_per_week": 316.31,
-    "pts_per_week": 17.12,
-    "fp_per_week": 48.75
+    "plays_rank": 28
   },
   {
     "position": "WR",
@@ -8204,10 +7619,7 @@
     "drives": 176,
     "nflAverage": "57.32",
     "plays": 679,
-    "plays_rank": 2,
-    "yds_per_week": 394.56,
-    "pts_per_week": 27.06,
-    "fp_per_week": 66.52
+    "plays_rank": 2
   },
   {
     "position": "WR",
@@ -8236,7 +7648,7 @@
     "value": "-3",
     "highValue": "-1.3",
     "yards_per_week": 17.4,
-    "floor_per_week": "1.74",
+    "floor_per_week": "2.44",
     "stddev": "1.70",
     "ps": "0.00",
     "passing_yards": null,
@@ -8246,10 +7658,7 @@
     "drives": 177,
     "nflAverage": "57.32",
     "plays": 555,
-    "plays_rank": 21,
-    "yds_per_week": 322.13,
-    "pts_per_week": 13.72,
-    "fp_per_week": 45.93
+    "plays_rank": 21
   },
   {
     "position": "RB",
@@ -8287,10 +7696,7 @@
     "drives": 173,
     "nflAverage": "57.32",
     "plays": 415,
-    "plays_rank": 12,
-    "yds_per_week": null,
-    "pts_per_week": 20.33,
-    "fp_per_week": 58.76
+    "plays_rank": 12
   },
   {
     "position": "RB",
@@ -8328,10 +7734,7 @@
     "drives": 176,
     "nflAverage": "57.32",
     "plays": 474,
-    "plays_rank": 3,
-    "yds_per_week": null,
-    "pts_per_week": 25.52,
-    "fp_per_week": 65.78
+    "plays_rank": 3
   },
   {
     "position": "RB",
@@ -8369,10 +7772,7 @@
     "drives": 163,
     "nflAverage": "57.32",
     "plays": 350,
-    "plays_rank": 29,
-    "yds_per_week": null,
-    "pts_per_week": 33.11,
-    "fp_per_week": 76.74
+    "plays_rank": 29
   },
   {
     "position": "TE",
@@ -8401,7 +7801,7 @@
     "value": "-3.1",
     "highValue": "-2",
     "yards_per_week": 13.466666666666667,
-    "floor_per_week": "1.35",
+    "floor_per_week": "2.08",
     "stddev": "0.97",
     "ps": "0.00",
     "passing_yards": null,
@@ -8411,10 +7811,7 @@
     "drives": 176,
     "nflAverage": "57.32",
     "plays": 483,
-    "plays_rank": 30,
-    "yds_per_week": 315.44,
-    "pts_per_week": 17.71,
-    "fp_per_week": 49.25
+    "plays_rank": 30
   },
   {
     "position": "WR",
@@ -8443,7 +7840,7 @@
     "value": "-3.1",
     "highValue": "-1.8",
     "yards_per_week": 47.666666666666664,
-    "floor_per_week": "4.77",
+    "floor_per_week": "6.39",
     "stddev": "0.88",
     "ps": "0.00",
     "passing_yards": null,
@@ -8453,10 +7850,7 @@
     "drives": 195,
     "nflAverage": "57.32",
     "plays": 602,
-    "plays_rank": 12,
-    "yds_per_week": 384.63,
-    "pts_per_week": 22.3,
-    "fp_per_week": 60.77
+    "plays_rank": 12
   },
   {
     "position": "WR",
@@ -8485,7 +7879,7 @@
     "value": "-3.1",
     "highValue": "-1.4",
     "yards_per_week": 22.266666666666666,
-    "floor_per_week": "2.23",
+    "floor_per_week": "3.29",
     "stddev": "1.05",
     "ps": "0.00",
     "passing_yards": null,
@@ -8495,10 +7889,7 @@
     "drives": 177,
     "nflAverage": "57.32",
     "plays": 555,
-    "plays_rank": 21,
-    "yds_per_week": 322.13,
-    "pts_per_week": 13.72,
-    "fp_per_week": 45.93
+    "plays_rank": 21
   },
   {
     "position": "QB",
@@ -8537,10 +7928,7 @@
     "drives": 192,
     "nflAverage": "57.32",
     "plays": 540,
-    "plays_rank": 24,
-    "yds_per_week": 314.13,
-    "pts_per_week": 18.6,
-    "fp_per_week": 50.01
+    "plays_rank": 24
   },
   {
     "position": "WR",
@@ -8569,7 +7957,7 @@
     "value": "-3.3",
     "highValue": "-1.7",
     "yards_per_week": 38,
-    "floor_per_week": "3.80",
+    "floor_per_week": "4.69",
     "stddev": "0.92",
     "ps": "0.00",
     "passing_yards": null,
@@ -8579,10 +7967,7 @@
     "drives": 179,
     "nflAverage": "57.32",
     "plays": 661,
-    "plays_rank": 4,
-    "yds_per_week": 430.06,
-    "pts_per_week": 24.28,
-    "fp_per_week": 67.28
+    "plays_rank": 4
   },
   {
     "position": "RB",
@@ -8620,10 +8005,7 @@
     "drives": 185,
     "nflAverage": "57.32",
     "plays": 356,
-    "plays_rank": 27,
-    "yds_per_week": null,
-    "pts_per_week": 21.16,
-    "fp_per_week": 57.35
+    "plays_rank": 27
   },
   {
     "position": "WR",
@@ -8661,10 +8043,7 @@
     "drives": 174,
     "nflAverage": "57.32",
     "plays": 567,
-    "plays_rank": 18,
-    "yds_per_week": 384.31,
-    "pts_per_week": 22.62,
-    "fp_per_week": 61.05
+    "plays_rank": 18
   },
   {
     "position": "RB",
@@ -8702,10 +8081,7 @@
     "drives": 191,
     "nflAverage": "57.32",
     "plays": 469,
-    "plays_rank": 4,
-    "yds_per_week": null,
-    "pts_per_week": 16.71,
-    "fp_per_week": 48.38
+    "plays_rank": 4
   },
   {
     "position": "RB",
@@ -8734,7 +8110,7 @@
     "value": "-3.4",
     "highValue": "-2",
     "yards_per_week": 52,
-    "floor_per_week": "5.20",
+    "floor_per_week": "6.41",
     "stddev": "1.28",
     "ps": "0.00",
     "passing_yards": null,
@@ -8744,10 +8120,7 @@
     "drives": 173,
     "nflAverage": "57.32",
     "plays": 457,
-    "plays_rank": 6,
-    "yds_per_week": 25.379285714285714,
-    "pts_per_week": 23.46,
-    "fp_per_week": 58.99
+    "plays_rank": 6
   },
   {
     "position": "WR",
@@ -8776,7 +8149,7 @@
     "value": "-3.4",
     "highValue": "-2",
     "yards_per_week": 20.636363636363637,
-    "floor_per_week": "2.06",
+    "floor_per_week": "2.61",
     "stddev": "0.77",
     "ps": "0.00",
     "passing_yards": null,
@@ -8786,10 +8159,7 @@
     "drives": 167,
     "nflAverage": "57.32",
     "plays": 494,
-    "plays_rank": 29,
-    "yds_per_week": 386.81,
-    "pts_per_week": 25.36,
-    "fp_per_week": 64.04
+    "plays_rank": 29
   },
   {
     "position": "WR",
@@ -8827,10 +8197,7 @@
     "drives": 181,
     "nflAverage": "57.32",
     "plays": 519,
-    "plays_rank": 27,
-    "yds_per_week": 264.13,
-    "pts_per_week": 12.67,
-    "fp_per_week": 39.08
+    "plays_rank": 27
   },
   {
     "position": "WR",
@@ -8868,10 +8235,7 @@
     "drives": 165,
     "nflAverage": "57.32",
     "plays": 508,
-    "plays_rank": 28,
-    "yds_per_week": 316.31,
-    "pts_per_week": 17.12,
-    "fp_per_week": 48.75
+    "plays_rank": 28
   },
   {
     "position": "WR",
@@ -8900,7 +8264,7 @@
     "value": "-3.5",
     "highValue": "-1.8",
     "yards_per_week": 30,
-    "floor_per_week": "3.00",
+    "floor_per_week": "3.87",
     "stddev": "1.13",
     "ps": "0.00",
     "passing_yards": null,
@@ -8910,10 +8274,7 @@
     "drives": 176,
     "nflAverage": "57.32",
     "plays": 449,
-    "plays_rank": 31,
-    "yds_per_week": 375.5,
-    "pts_per_week": 25.96,
-    "fp_per_week": 63.51
+    "plays_rank": 31
   },
   {
     "position": "WR",
@@ -8942,7 +8303,7 @@
     "value": "-3.5",
     "highValue": "-3",
     "yards_per_week": 40.46666666666667,
-    "floor_per_week": "4.05",
+    "floor_per_week": "5.85",
     "stddev": "1.62",
     "ps": "0.00",
     "passing_yards": null,
@@ -8952,10 +8313,7 @@
     "drives": 181,
     "nflAverage": "57.32",
     "plays": 519,
-    "plays_rank": 27,
-    "yds_per_week": 264.13,
-    "pts_per_week": 12.67,
-    "fp_per_week": 39.08
+    "plays_rank": 27
   },
   {
     "position": "RB",
@@ -8984,7 +8342,7 @@
     "value": "-3.5",
     "highValue": "-2",
     "yards_per_week": 45.285714285714285,
-    "floor_per_week": "4.53",
+    "floor_per_week": "5.53",
     "stddev": "1.22",
     "ps": "0.00",
     "passing_yards": null,
@@ -8994,10 +8352,7 @@
     "drives": 176,
     "nflAverage": "57.32",
     "plays": 474,
-    "plays_rank": 3,
-    "yds_per_week": 57.51857142857143,
-    "pts_per_week": 25.52,
-    "fp_per_week": 65.78
+    "plays_rank": 3
   },
   {
     "position": "RB",
@@ -9026,7 +8381,7 @@
     "value": "-3.5",
     "highValue": "-2",
     "yards_per_week": 60.42857142857143,
-    "floor_per_week": "6.04",
+    "floor_per_week": "6.47",
     "stddev": "1.58",
     "ps": "0.00",
     "passing_yards": null,
@@ -9036,10 +8391,7 @@
     "drives": 191,
     "nflAverage": "57.32",
     "plays": 469,
-    "plays_rank": 4,
-    "yds_per_week": 22.61642857142857,
-    "pts_per_week": 16.71,
-    "fp_per_week": 48.38
+    "plays_rank": 4
   },
   {
     "position": "WR",
@@ -9068,7 +8420,7 @@
     "value": "-3.5",
     "highValue": "-1.2",
     "yards_per_week": 14.2,
-    "floor_per_week": "1.42",
+    "floor_per_week": "2.05",
     "stddev": "1.47",
     "ps": "0.00",
     "passing_yards": null,
@@ -9078,10 +8430,7 @@
     "drives": 174,
     "nflAverage": "57.32",
     "plays": 567,
-    "plays_rank": 18,
-    "yds_per_week": 384.31,
-    "pts_per_week": 22.62,
-    "fp_per_week": 61.05
+    "plays_rank": 18
   },
   {
     "position": "WR",
@@ -9119,10 +8468,7 @@
     "drives": 181,
     "nflAverage": "57.32",
     "plays": 519,
-    "plays_rank": 27,
-    "yds_per_week": 264.13,
-    "pts_per_week": 12.67,
-    "fp_per_week": 39.08
+    "plays_rank": 27
   },
   {
     "position": "WR",
@@ -9160,10 +8506,7 @@
     "drives": 163,
     "nflAverage": "57.32",
     "plays": 621,
-    "plays_rank": 9,
-    "yds_per_week": 436.31,
-    "pts_per_week": 33.11,
-    "fp_per_week": 76.74
+    "plays_rank": 9
   },
   {
     "position": "RB",
@@ -9201,10 +8544,7 @@
     "drives": 174,
     "nflAverage": "57.32",
     "plays": 495,
-    "plays_rank": 2,
-    "yds_per_week": null,
-    "pts_per_week": 22.62,
-    "fp_per_week": 61.05
+    "plays_rank": 2
   },
   {
     "position": "RB",
@@ -9233,7 +8573,7 @@
     "value": "-3.8",
     "highValue": "-1.8",
     "yards_per_week": 73.8,
-    "floor_per_week": "7.38",
+    "floor_per_week": "7.48",
     "stddev": "1.05",
     "ps": "0.00",
     "passing_yards": null,
@@ -9243,10 +8583,7 @@
     "drives": 174,
     "nflAverage": "57.32",
     "plays": 495,
-    "plays_rank": 2,
-    "yds_per_week": 38.431,
-    "pts_per_week": 22.62,
-    "fp_per_week": 61.05
+    "plays_rank": 2
   },
   {
     "position": "RB",
@@ -9284,10 +8621,7 @@
     "drives": 161,
     "nflAverage": "57.32",
     "plays": 438,
-    "plays_rank": 8,
-    "yds_per_week": null,
-    "pts_per_week": 20.73,
-    "fp_per_week": 57.28
+    "plays_rank": 8
   },
   {
     "position": "RB",
@@ -9316,7 +8650,7 @@
     "value": "-3.8",
     "highValue": "-1.6",
     "yards_per_week": 4.75,
-    "floor_per_week": "0.47",
+    "floor_per_week": "0.85",
     "stddev": "1.44",
     "ps": "0.00",
     "passing_yards": null,
@@ -9326,10 +8660,7 @@
     "drives": 176,
     "nflAverage": "57.32",
     "plays": 537,
-    "plays_rank": 1,
-    "yds_per_week": 93.875,
-    "pts_per_week": 25.96,
-    "fp_per_week": 63.51
+    "plays_rank": 1
   },
   {
     "position": "RB",
@@ -9367,10 +8698,7 @@
     "drives": 179,
     "nflAverage": "57.32",
     "plays": 468,
-    "plays_rank": 5,
-    "yds_per_week": null,
-    "pts_per_week": 23.38,
-    "fp_per_week": 62.04
+    "plays_rank": 5
   },
   {
     "position": "WR",
@@ -9399,7 +8727,7 @@
     "value": "-3.9",
     "highValue": "-1.4",
     "yards_per_week": 39.53333333333333,
-    "floor_per_week": "3.95",
+    "floor_per_week": "5.39",
     "stddev": "1.42",
     "ps": "0.00",
     "passing_yards": null,
@@ -9409,10 +8737,7 @@
     "drives": 195,
     "nflAverage": "57.32",
     "plays": 602,
-    "plays_rank": 12,
-    "yds_per_week": 384.63,
-    "pts_per_week": 22.3,
-    "fp_per_week": 60.77
+    "plays_rank": 12
   },
   {
     "position": "RB",
@@ -9450,10 +8775,7 @@
     "drives": 165,
     "nflAverage": "57.32",
     "plays": 387,
-    "plays_rank": 20,
-    "yds_per_week": null,
-    "pts_per_week": 17.12,
-    "fp_per_week": 48.75
+    "plays_rank": 20
   },
   {
     "position": "RB",
@@ -9482,7 +8804,7 @@
     "value": "-4",
     "highValue": "-2.8",
     "yards_per_week": 43.53333333333333,
-    "floor_per_week": "4.35",
+    "floor_per_week": "5.02",
     "stddev": "1.23",
     "ps": "0.00",
     "passing_yards": null,
@@ -9492,10 +8814,7 @@
     "drives": 177,
     "nflAverage": "57.32",
     "plays": 416,
-    "plays_rank": 11,
-    "yds_per_week": 21.47533333333333,
-    "pts_per_week": 13.72,
-    "fp_per_week": 45.93
+    "plays_rank": 11
   },
   {
     "position": "RB",
@@ -9524,7 +8843,7 @@
     "value": "-4",
     "highValue": "-2.7",
     "yards_per_week": 35.25,
-    "floor_per_week": "3.52",
+    "floor_per_week": "4.57",
     "stddev": "0.92",
     "ps": "0.00",
     "passing_yards": null,
@@ -9534,10 +8853,7 @@
     "drives": 192,
     "nflAverage": "57.32",
     "plays": 404,
-    "plays_rank": 16,
-    "yds_per_week": 26.1775,
-    "pts_per_week": 18.6,
-    "fp_per_week": 50.01
+    "plays_rank": 16
   },
   {
     "position": "QB",
@@ -9566,7 +8882,7 @@
     "value": "-4.1",
     "highValue": "-1.8",
     "yards_per_week": 6.75,
-    "floor_per_week": "0.68",
+    "floor_per_week": "0.80",
     "stddev": "1.70",
     "ps": "0.00",
     "passing_yards": null,
@@ -9576,10 +8892,7 @@
     "drives": 177,
     "nflAverage": "57.32",
     "plays": 555,
-    "plays_rank": 21,
-    "yds_per_week": 322.13,
-    "pts_per_week": 13.72,
-    "fp_per_week": 45.93
+    "plays_rank": 21
   },
   {
     "position": "RB",
@@ -9608,7 +8921,7 @@
     "value": "-4.1",
     "highValue": "-3.3",
     "yards_per_week": 55.93333333333333,
-    "floor_per_week": "5.59",
+    "floor_per_week": "6.19",
     "stddev": "1.05",
     "ps": "0.00",
     "passing_yards": null,
@@ -9650,10 +8963,7 @@
     "drives": 174,
     "nflAverage": "57.32",
     "plays": 626,
-    "plays_rank": 8,
-    "yds_per_week": 380.88,
-    "pts_per_week": 22.95,
-    "fp_per_week": 61.03
+    "plays_rank": 8
   },
   {
     "position": "WR",
@@ -9682,7 +8992,7 @@
     "value": "-4.2",
     "highValue": "-3",
     "yards_per_week": 19.2,
-    "floor_per_week": "1.92",
+    "floor_per_week": "2.65",
     "stddev": "0.87",
     "ps": "0.00",
     "passing_yards": null,
@@ -9692,10 +9002,7 @@
     "drives": 163,
     "nflAverage": "57.32",
     "plays": 621,
-    "plays_rank": 9,
-    "yds_per_week": 436.31,
-    "pts_per_week": 33.11,
-    "fp_per_week": 76.74
+    "plays_rank": 9
   },
   {
     "position": "RB",
@@ -9733,10 +9040,7 @@
     "drives": 163,
     "nflAverage": "57.32",
     "plays": 350,
-    "plays_rank": 29,
-    "yds_per_week": 33.56230769230769,
-    "pts_per_week": 33.11,
-    "fp_per_week": 76.74
+    "plays_rank": 29
   },
   {
     "position": "WR",
@@ -9765,7 +9069,7 @@
     "value": "-4.3",
     "highValue": "-3.3",
     "yards_per_week": 31.666666666666668,
-    "floor_per_week": "3.17",
+    "floor_per_week": "3.87",
     "stddev": "1.28",
     "ps": "0.00",
     "passing_yards": null,
@@ -9775,10 +9079,7 @@
     "drives": 173,
     "nflAverage": "57.32",
     "plays": 554,
-    "plays_rank": 22,
-    "yds_per_week": 355.31,
-    "pts_per_week": 23.46,
-    "fp_per_week": 58.99
+    "plays_rank": 22
   },
   {
     "position": "RB",
@@ -9807,7 +9108,7 @@
     "value": "-4.3",
     "highValue": "-3",
     "yards_per_week": 20.733333333333334,
-    "floor_per_week": "2.07",
+    "floor_per_week": "2.74",
     "stddev": "1.03",
     "ps": "0.00",
     "passing_yards": null,
@@ -9817,10 +9118,7 @@
     "drives": 181,
     "nflAverage": "57.32",
     "plays": 355,
-    "plays_rank": 28,
-    "yds_per_week": 17.608666666666668,
-    "pts_per_week": 12.67,
-    "fp_per_week": 39.08
+    "plays_rank": 28
   },
   {
     "position": "WR",
@@ -9849,7 +9147,7 @@
     "value": "-4.3",
     "highValue": "-2.4",
     "yards_per_week": 11.066666666666666,
-    "floor_per_week": "1.11",
+    "floor_per_week": "1.57",
     "stddev": "1.69",
     "ps": "0.00",
     "passing_yards": null,
@@ -9859,10 +9157,7 @@
     "drives": 176,
     "nflAverage": "57.32",
     "plays": 449,
-    "plays_rank": 31,
-    "yds_per_week": 375.5,
-    "pts_per_week": 25.96,
-    "fp_per_week": 63.51
+    "plays_rank": 31
   },
   {
     "position": "WR",
@@ -9900,10 +9195,7 @@
     "drives": 173,
     "nflAverage": "57.32",
     "plays": 563,
-    "plays_rank": 20,
-    "yds_per_week": 384.31,
-    "pts_per_week": 20.33,
-    "fp_per_week": 58.76
+    "plays_rank": 20
   },
   {
     "position": "WR",
@@ -9941,10 +9233,7 @@
     "drives": 176,
     "nflAverage": "57.32",
     "plays": 483,
-    "plays_rank": 30,
-    "yds_per_week": 315.44,
-    "pts_per_week": 17.71,
-    "fp_per_week": 49.25
+    "plays_rank": 30
   },
   {
     "position": "WR",
@@ -9973,7 +9262,7 @@
     "value": "-4.4",
     "highValue": "-2.7",
     "yards_per_week": 32.733333333333334,
-    "floor_per_week": "3.27",
+    "floor_per_week": "4.54",
     "stddev": "1.46",
     "ps": "0.00",
     "passing_yards": null,
@@ -9983,10 +9272,7 @@
     "drives": 177,
     "nflAverage": "57.32",
     "plays": 555,
-    "plays_rank": 21,
-    "yds_per_week": 322.13,
-    "pts_per_week": 13.72,
-    "fp_per_week": 45.93
+    "plays_rank": 21
   },
   {
     "position": "RB",
@@ -10024,10 +9310,7 @@
     "drives": 177,
     "nflAverage": "57.32",
     "plays": 416,
-    "plays_rank": 11,
-    "yds_per_week": null,
-    "pts_per_week": 13.72,
-    "fp_per_week": 45.93
+    "plays_rank": 11
   },
   {
     "position": "WR",
@@ -10056,7 +9339,7 @@
     "value": "-4.6",
     "highValue": "-3.2",
     "yards_per_week": 35.46666666666667,
-    "floor_per_week": "3.55",
+    "floor_per_week": "4.71",
     "stddev": "1.53",
     "ps": "0.00",
     "passing_yards": null,
@@ -10066,10 +9349,7 @@
     "drives": 166,
     "nflAverage": "57.32",
     "plays": 586,
-    "plays_rank": 15,
-    "yds_per_week": 387.94,
-    "pts_per_week": 22.93,
-    "fp_per_week": 61.72
+    "plays_rank": 15
   },
   {
     "position": "WR",
@@ -10098,7 +9378,7 @@
     "value": "-4.7",
     "highValue": "-2.9",
     "yards_per_week": 38,
-    "floor_per_week": "3.80",
+    "floor_per_week": "4.90",
     "stddev": "1.04",
     "ps": "0.00",
     "passing_yards": null,
@@ -10108,10 +9388,7 @@
     "drives": 172,
     "nflAverage": "57.32",
     "plays": 606,
-    "plays_rank": 11,
-    "yds_per_week": 378.44,
-    "pts_per_week": 21.72,
-    "fp_per_week": 59.56
+    "plays_rank": 11
   },
   {
     "position": "WR",
@@ -10140,7 +9417,7 @@
     "value": "-4.7",
     "highValue": "-2.4",
     "yards_per_week": 21.266666666666666,
-    "floor_per_week": "2.13",
+    "floor_per_week": "3.19",
     "stddev": "0.76",
     "ps": "0.00",
     "passing_yards": null,
@@ -10150,10 +9427,7 @@
     "drives": 176,
     "nflAverage": "57.32",
     "plays": 600,
-    "plays_rank": 13,
-    "yds_per_week": 402.63,
-    "pts_per_week": 25.52,
-    "fp_per_week": 65.78
+    "plays_rank": 13
   },
   {
     "position": "WR",
@@ -10182,7 +9456,7 @@
     "value": "-4.8",
     "highValue": "-3.7",
     "yards_per_week": 27.333333333333332,
-    "floor_per_week": "2.73",
+    "floor_per_week": "3.70",
     "stddev": "0.96",
     "ps": "0.00",
     "passing_yards": null,
@@ -10192,10 +9466,7 @@
     "drives": 175,
     "nflAverage": "57.32",
     "plays": 600,
-    "plays_rank": 14,
-    "yds_per_week": 435.06,
-    "pts_per_week": 30.52,
-    "fp_per_week": 74.02
+    "plays_rank": 14
   },
   {
     "position": "RB",
@@ -10224,7 +9495,7 @@
     "value": "-4.8",
     "highValue": "-3.6",
     "yards_per_week": 13.125,
-    "floor_per_week": "1.31",
+    "floor_per_week": "1.88",
     "stddev": "0.62",
     "ps": "0.00",
     "passing_yards": null,
@@ -10234,10 +9505,7 @@
     "drives": 195,
     "nflAverage": "57.32",
     "plays": 412,
-    "plays_rank": 13,
-    "yds_per_week": 48.07875,
-    "pts_per_week": 22.3,
-    "fp_per_week": 60.77
+    "plays_rank": 13
   },
   {
     "position": "WR",
@@ -10266,7 +9534,7 @@
     "value": "-4.8",
     "highValue": "-3.3",
     "yards_per_week": 32.4,
-    "floor_per_week": "3.24",
+    "floor_per_week": "4.67",
     "stddev": "1.21",
     "ps": "0.00",
     "passing_yards": null,
@@ -10276,10 +9544,7 @@
     "drives": 166,
     "nflAverage": "57.32",
     "plays": 586,
-    "plays_rank": 15,
-    "yds_per_week": 387.94,
-    "pts_per_week": 22.93,
-    "fp_per_week": 61.72
+    "plays_rank": 15
   },
   {
     "position": "QB",
@@ -10308,7 +9573,7 @@
     "value": "-4.9",
     "highValue": "-2.4",
     "yards_per_week": 27,
-    "floor_per_week": "9.92",
+    "floor_per_week": "9.96",
     "stddev": "1.85",
     "ps": "0.00",
     "passing_yards": 2528,
@@ -10318,10 +9583,7 @@
     "drives": 162,
     "nflAverage": "57.32",
     "plays": 432,
-    "plays_rank": 32,
-    "yds_per_week": 330.13,
-    "pts_per_week": 18.12,
-    "fp_per_week": 51.14
+    "plays_rank": 32
   },
   {
     "position": "WR",
@@ -10350,7 +9612,7 @@
     "value": "-4.9",
     "highValue": "-3.8",
     "yards_per_week": 27.3,
-    "floor_per_week": "2.73",
+    "floor_per_week": "3.78",
     "stddev": "1.07",
     "ps": "0.00",
     "passing_yards": null,
@@ -10360,10 +9622,7 @@
     "drives": 176,
     "nflAverage": "57.32",
     "plays": 483,
-    "plays_rank": 30,
-    "yds_per_week": 315.44,
-    "pts_per_week": 17.71,
-    "fp_per_week": 49.25
+    "plays_rank": 30
   },
   {
     "position": "WR",
@@ -10392,7 +9651,7 @@
     "value": "-4.9",
     "highValue": "-3.6",
     "yards_per_week": 16.53846153846154,
-    "floor_per_week": "1.65",
+    "floor_per_week": "2.65",
     "stddev": "1.24",
     "ps": "0.00",
     "passing_yards": null,
@@ -10402,10 +9661,7 @@
     "drives": 173,
     "nflAverage": "57.32",
     "plays": 563,
-    "plays_rank": 20,
-    "yds_per_week": 384.31,
-    "pts_per_week": 20.33,
-    "fp_per_week": 58.76
+    "plays_rank": 20
   },
   {
     "position": "RB",
@@ -10434,7 +9690,7 @@
     "value": "-4.9",
     "highValue": "-3.1",
     "yards_per_week": 42.69230769230769,
-    "floor_per_week": "4.27",
+    "floor_per_week": "6.62",
     "stddev": "0.98",
     "ps": "0.00",
     "passing_yards": null,
@@ -10444,10 +9700,7 @@
     "drives": 180,
     "nflAverage": "57.32",
     "plays": 390,
-    "plays_rank": 19,
-    "yds_per_week": 28.06230769230769,
-    "pts_per_week": 19.69,
-    "fp_per_week": 56.17
+    "plays_rank": 19
   },
   {
     "position": "RB",
@@ -10485,10 +9738,7 @@
     "drives": 179,
     "nflAverage": "57.32",
     "plays": 468,
-    "plays_rank": 5,
-    "yds_per_week": null,
-    "pts_per_week": 23.38,
-    "fp_per_week": 62.04
+    "plays_rank": 5
   },
   {
     "position": "WR",
@@ -10526,10 +9776,7 @@
     "drives": 185,
     "nflAverage": "57.32",
     "plays": 630,
-    "plays_rank": 6,
-    "yds_per_week": 361.94,
-    "pts_per_week": 21.16,
-    "fp_per_week": 57.35
+    "plays_rank": 6
   },
   {
     "position": "WR",
@@ -10567,10 +9814,7 @@
     "drives": 174,
     "nflAverage": "57.32",
     "plays": 726,
-    "plays_rank": 1,
-    "yds_per_week": 413.69,
-    "pts_per_week": 25.23,
-    "fp_per_week": 66.6
+    "plays_rank": 1
   },
   {
     "position": "RB",
@@ -10599,7 +9843,7 @@
     "value": "-5",
     "highValue": "-3.1",
     "yards_per_week": 24,
-    "floor_per_week": "2.40",
+    "floor_per_week": "2.63",
     "stddev": "0.88",
     "ps": "0.00",
     "passing_yards": null,
@@ -10609,10 +9853,7 @@
     "drives": 175,
     "nflAverage": "57.32",
     "plays": 437,
-    "plays_rank": 9,
-    "yds_per_week": 39.550909090909094,
-    "pts_per_week": 30.52,
-    "fp_per_week": 74.02
+    "plays_rank": 9
   },
   {
     "position": "WR",
@@ -10641,7 +9882,7 @@
     "value": "-5",
     "highValue": "-3.8",
     "yards_per_week": 38.833333333333336,
-    "floor_per_week": "3.88",
+    "floor_per_week": "5.43",
     "stddev": "0.37",
     "ps": "0.00",
     "passing_yards": null,
@@ -10651,10 +9892,7 @@
     "drives": 162,
     "nflAverage": "57.32",
     "plays": 432,
-    "plays_rank": 32,
-    "yds_per_week": 330.13,
-    "pts_per_week": 18.12,
-    "fp_per_week": 51.14
+    "plays_rank": 32
   },
   {
     "position": "WR",
@@ -10692,10 +9930,7 @@
     "drives": 170,
     "nflAverage": "57.32",
     "plays": 578,
-    "plays_rank": 17,
-    "yds_per_week": 355.31,
-    "pts_per_week": 17.21,
-    "fp_per_week": 52.74
+    "plays_rank": 17
   },
   {
     "position": "RB",
@@ -10724,7 +9959,7 @@
     "value": "-5.1",
     "highValue": "-3.5",
     "yards_per_week": 39.6,
-    "floor_per_week": "3.96",
+    "floor_per_week": "4.89",
     "stddev": "1.04",
     "ps": "0.00",
     "passing_yards": null,
@@ -10734,10 +9969,7 @@
     "drives": 174,
     "nflAverage": "57.32",
     "plays": 399,
-    "plays_rank": 18,
-    "yds_per_week": 25.392,
-    "pts_per_week": 22.95,
-    "fp_per_week": 61.03
+    "plays_rank": 18
   },
   {
     "position": "WR",
@@ -10766,7 +9998,7 @@
     "value": "-5.2",
     "highValue": "-4.4",
     "yards_per_week": 35.642857142857146,
-    "floor_per_week": "3.56",
+    "floor_per_week": "5.17",
     "stddev": "1.94",
     "ps": "0.00",
     "passing_yards": null,
@@ -10776,10 +10008,7 @@
     "drives": 174,
     "nflAverage": "57.32",
     "plays": 567,
-    "plays_rank": 18,
-    "yds_per_week": 384.31,
-    "pts_per_week": 22.62,
-    "fp_per_week": 61.05
+    "plays_rank": 18
   },
   {
     "position": "WR",
@@ -10817,10 +10046,7 @@
     "drives": 174,
     "nflAverage": "57.32",
     "plays": 670,
-    "plays_rank": 3,
-    "yds_per_week": 393.5,
-    "pts_per_week": 22.62,
-    "fp_per_week": 61.97
+    "plays_rank": 3
   },
   {
     "position": "RB",
@@ -10849,7 +10075,7 @@
     "value": "-5.2",
     "highValue": "-3.4",
     "yards_per_week": 64.35714285714286,
-    "floor_per_week": "6.44",
+    "floor_per_week": "8.40",
     "stddev": "1.38",
     "ps": "0.00",
     "passing_yards": null,
@@ -10859,10 +10085,7 @@
     "drives": 191,
     "nflAverage": "57.32",
     "plays": 469,
-    "plays_rank": 4,
-    "yds_per_week": 22.61642857142857,
-    "pts_per_week": 16.71,
-    "fp_per_week": 48.38
+    "plays_rank": 4
   },
   {
     "position": "RB",
@@ -10891,7 +10114,7 @@
     "value": "-5.2",
     "highValue": "-3.7",
     "yards_per_week": 41,
-    "floor_per_week": "4.10",
+    "floor_per_week": "5.10",
     "stddev": "1.22",
     "ps": "0.00",
     "passing_yards": null,
@@ -10901,10 +10124,7 @@
     "drives": 174,
     "nflAverage": "57.32",
     "plays": 399,
-    "plays_rank": 18,
-    "yds_per_week": 34.625454545454545,
-    "pts_per_week": 22.95,
-    "fp_per_week": 61.03
+    "plays_rank": 18
   },
   {
     "position": "WR",
@@ -10942,10 +10162,7 @@
     "drives": 170,
     "nflAverage": "57.32",
     "plays": 578,
-    "plays_rank": 17,
-    "yds_per_week": 355.31,
-    "pts_per_week": 17.21,
-    "fp_per_week": 52.74
+    "plays_rank": 17
   },
   {
     "position": "WR",
@@ -10974,7 +10191,7 @@
     "value": "-5.3",
     "highValue": "-4.1",
     "yards_per_week": 22.11111111111111,
-    "floor_per_week": "2.21",
+    "floor_per_week": "3.10",
     "stddev": "2.02",
     "ps": "0.00",
     "passing_yards": null,
@@ -10984,10 +10201,7 @@
     "drives": 172,
     "nflAverage": "57.32",
     "plays": 606,
-    "plays_rank": 11,
-    "yds_per_week": 378.44,
-    "pts_per_week": 21.72,
-    "fp_per_week": 59.56
+    "plays_rank": 11
   },
   {
     "position": "WR",
@@ -11016,7 +10230,7 @@
     "value": "-5.3",
     "highValue": "-3.9",
     "yards_per_week": 22.133333333333333,
-    "floor_per_week": "2.21",
+    "floor_per_week": "2.98",
     "stddev": "1.28",
     "ps": "0.00",
     "passing_yards": null,
@@ -11026,10 +10240,7 @@
     "drives": 180,
     "nflAverage": "57.32",
     "plays": 629,
-    "plays_rank": 7,
-    "yds_per_week": 364.81,
-    "pts_per_week": 19.69,
-    "fp_per_week": 56.17
+    "plays_rank": 7
   },
   {
     "position": "WR",
@@ -11067,10 +10278,7 @@
     "drives": 179,
     "nflAverage": "57.32",
     "plays": 661,
-    "plays_rank": 4,
-    "yds_per_week": 430.06,
-    "pts_per_week": 24.28,
-    "fp_per_week": 67.28
+    "plays_rank": 4
   },
   {
     "position": "RB",
@@ -11099,7 +10307,7 @@
     "value": "-5.3",
     "highValue": "-3.5",
     "yards_per_week": 76.8,
-    "floor_per_week": "7.68",
+    "floor_per_week": "8.28",
     "stddev": "0.74",
     "ps": "0.00",
     "passing_yards": null,
@@ -11109,10 +10317,7 @@
     "drives": 174,
     "nflAverage": "57.32",
     "plays": 495,
-    "plays_rank": 2,
-    "yds_per_week": 76.862,
-    "pts_per_week": 22.62,
-    "fp_per_week": 61.05
+    "plays_rank": 2
   },
   {
     "position": "WR",
@@ -11150,10 +10355,7 @@
     "drives": 176,
     "nflAverage": "57.32",
     "plays": 449,
-    "plays_rank": 31,
-    "yds_per_week": 375.5,
-    "pts_per_week": 25.96,
-    "fp_per_week": 63.51
+    "plays_rank": 31
   },
   {
     "position": "RB",
@@ -11182,7 +10384,7 @@
     "value": "-5.3",
     "highValue": "-2.6",
     "yards_per_week": 67,
-    "floor_per_week": "6.70",
+    "floor_per_week": "8.06",
     "stddev": "1.71",
     "ps": "0.00",
     "passing_yards": null,
@@ -11192,10 +10394,7 @@
     "drives": 192,
     "nflAverage": "57.32",
     "plays": 404,
-    "plays_rank": 16,
-    "yds_per_week": 44.87571428571429,
-    "pts_per_week": 18.6,
-    "fp_per_week": 50.01
+    "plays_rank": 16
   },
   {
     "position": "WR",
@@ -11224,7 +10423,7 @@
     "value": "-5.4",
     "highValue": "-4.5",
     "yards_per_week": 32.5,
-    "floor_per_week": "3.25",
+    "floor_per_week": "3.92",
     "stddev": "2.12",
     "ps": "0.00",
     "passing_yards": null,
@@ -11234,10 +10433,7 @@
     "drives": 161,
     "nflAverage": "57.32",
     "plays": 563,
-    "plays_rank": 19,
-    "yds_per_week": 365.5,
-    "pts_per_week": 20.73,
-    "fp_per_week": 57.28
+    "plays_rank": 19
   },
   {
     "position": "WR",
@@ -11266,7 +10462,7 @@
     "value": "-5.4",
     "highValue": "-3.9",
     "yards_per_week": 30.272727272727273,
-    "floor_per_week": "3.03",
+    "floor_per_week": "3.98",
     "stddev": "0.81",
     "ps": "0.00",
     "passing_yards": null,
@@ -11276,10 +10472,7 @@
     "drives": 174,
     "nflAverage": "57.32",
     "plays": 670,
-    "plays_rank": 3,
-    "yds_per_week": 393.5,
-    "pts_per_week": 22.62,
-    "fp_per_week": 61.97
+    "plays_rank": 3
   },
   {
     "position": "WR",
@@ -11308,7 +10501,7 @@
     "value": "-5.4",
     "highValue": "-4.4",
     "yards_per_week": 32.06666666666667,
-    "floor_per_week": "3.21",
+    "floor_per_week": "4.97",
     "stddev": "0.97",
     "ps": "0.00",
     "passing_yards": null,
@@ -11318,10 +10511,7 @@
     "drives": 176,
     "nflAverage": "57.32",
     "plays": 679,
-    "plays_rank": 2,
-    "yds_per_week": 394.56,
-    "pts_per_week": 27.06,
-    "fp_per_week": 66.52
+    "plays_rank": 2
   },
   {
     "position": "WR",
@@ -11350,7 +10540,7 @@
     "value": "-5.4",
     "highValue": "-4.2",
     "yards_per_week": 29.857142857142858,
-    "floor_per_week": "2.99",
+    "floor_per_week": "3.91",
     "stddev": "0.91",
     "ps": "0.00",
     "passing_yards": null,
@@ -11360,10 +10550,7 @@
     "drives": 155,
     "nflAverage": "57.32",
     "plays": 547,
-    "plays_rank": 23,
-    "yds_per_week": 387.44,
-    "pts_per_week": 31.1,
-    "fp_per_week": 69.84
+    "plays_rank": 23
   },
   {
     "position": "RB",
@@ -11401,10 +10588,7 @@
     "drives": 166,
     "nflAverage": "57.32",
     "plays": 410,
-    "plays_rank": 14,
-    "yds_per_week": 77.588,
-    "pts_per_week": 22.93,
-    "fp_per_week": 61.72
+    "plays_rank": 14
   },
   {
     "position": "RB",
@@ -11433,7 +10617,7 @@
     "value": "-5.4",
     "highValue": "-4.6",
     "yards_per_week": 56,
-    "floor_per_week": "5.60",
+    "floor_per_week": "7.10",
     "stddev": "0.82",
     "ps": "0.00",
     "passing_yards": null,
@@ -11443,10 +10627,7 @@
     "drives": 174,
     "nflAverage": "57.32",
     "plays": 399,
-    "plays_rank": 18,
-    "yds_per_week": 76.176,
-    "pts_per_week": 22.95,
-    "fp_per_week": 61.03
+    "plays_rank": 18
   },
   {
     "position": "RB",
@@ -11475,7 +10656,7 @@
     "value": "-5.4",
     "highValue": "-3.9",
     "yards_per_week": 18.928571428571427,
-    "floor_per_week": "1.89",
+    "floor_per_week": "2.39",
     "stddev": "0.73",
     "ps": "0.00",
     "passing_yards": null,
@@ -11485,10 +10666,7 @@
     "drives": 172,
     "nflAverage": "57.32",
     "plays": 360,
-    "plays_rank": 26,
-    "yds_per_week": 27.03142857142857,
-    "pts_per_week": 21.72,
-    "fp_per_week": 59.56
+    "plays_rank": 26
   },
   {
     "position": "RB",
@@ -11517,7 +10695,7 @@
     "value": "-5.5",
     "highValue": "-5.5",
     "yards_per_week": 13.357142857142858,
-    "floor_per_week": "1.34",
+    "floor_per_week": "1.66",
     "stddev": "0.98",
     "ps": "0.00",
     "passing_yards": null,
@@ -11527,10 +10705,7 @@
     "drives": 172,
     "nflAverage": "57.32",
     "plays": 360,
-    "plays_rank": 26,
-    "yds_per_week": 27.03142857142857,
-    "pts_per_week": 21.72,
-    "fp_per_week": 59.56
+    "plays_rank": 26
   },
   {
     "position": "RB",
@@ -11559,7 +10734,7 @@
     "value": "-5.5",
     "highValue": "-4.4",
     "yards_per_week": 23.6,
-    "floor_per_week": "2.36",
+    "floor_per_week": "3.36",
     "stddev": "1.18",
     "ps": "0.00",
     "passing_yards": null,
@@ -11569,10 +10744,7 @@
     "drives": 173,
     "nflAverage": "57.32",
     "plays": 415,
-    "plays_rank": 12,
-    "yds_per_week": 25.62066666666667,
-    "pts_per_week": 20.33,
-    "fp_per_week": 58.76
+    "plays_rank": 12
   },
   {
     "position": "RB",
@@ -11610,10 +10782,7 @@
     "drives": 179,
     "nflAverage": "57.32",
     "plays": 385,
-    "plays_rank": 21,
-    "yds_per_week": null,
-    "pts_per_week": 24.28,
-    "fp_per_week": 67.28
+    "plays_rank": 21
   },
   {
     "position": "RB",
@@ -11651,10 +10820,7 @@
     "drives": 174,
     "nflAverage": "57.32",
     "plays": 341,
-    "plays_rank": 31,
-    "yds_per_week": null,
-    "pts_per_week": 25.23,
-    "fp_per_week": 66.6
+    "plays_rank": 31
   },
   {
     "position": "RB",
@@ -11683,7 +10849,7 @@
     "value": "-5.6",
     "highValue": "-3.6",
     "yards_per_week": 45.857142857142854,
-    "floor_per_week": "4.59",
+    "floor_per_week": "5.09",
     "stddev": "0.72",
     "ps": "0.00",
     "passing_yards": null,
@@ -11693,10 +10859,7 @@
     "drives": 168,
     "nflAverage": "57.32",
     "plays": 407,
-    "plays_rank": 15,
-    "yds_per_week": 49.142857142857146,
-    "pts_per_week": 19.43,
-    "fp_per_week": 53.83
+    "plays_rank": 15
   },
   {
     "position": "RB",
@@ -11734,10 +10897,7 @@
     "drives": 179,
     "nflAverage": "57.32",
     "plays": 385,
-    "plays_rank": 21,
-    "yds_per_week": null,
-    "pts_per_week": 24.28,
-    "fp_per_week": 67.28
+    "plays_rank": 21
   },
   {
     "position": "RB",
@@ -11775,10 +10935,7 @@
     "drives": 174,
     "nflAverage": "57.32",
     "plays": 334,
-    "plays_rank": 32,
-    "yds_per_week": null,
-    "pts_per_week": 22.62,
-    "fp_per_week": 61.97
+    "plays_rank": 32
   },
   {
     "position": "RB",
@@ -11816,10 +10973,7 @@
     "drives": 176,
     "nflAverage": "57.32",
     "plays": 360,
-    "plays_rank": 25,
-    "yds_per_week": 39.43,
-    "pts_per_week": 17.71,
-    "fp_per_week": 49.25
+    "plays_rank": 25
   },
   {
     "position": "RB",
@@ -11857,10 +11011,7 @@
     "drives": 179,
     "nflAverage": "57.32",
     "plays": 468,
-    "plays_rank": 5,
-    "yds_per_week": null,
-    "pts_per_week": 23.38,
-    "fp_per_week": 62.04
+    "plays_rank": 5
   },
   {
     "position": "RB",
@@ -11898,10 +11049,7 @@
     "drives": 176,
     "nflAverage": "57.32",
     "plays": 537,
-    "plays_rank": 1,
-    "yds_per_week": 93.875,
-    "pts_per_week": 25.96,
-    "fp_per_week": 63.51
+    "plays_rank": 1
   },
   {
     "position": "RB",
@@ -11930,7 +11078,7 @@
     "value": "-5.9",
     "highValue": "-4.5",
     "yards_per_week": 35.083333333333336,
-    "floor_per_week": "3.51",
+    "floor_per_week": "4.18",
     "stddev": "0.87",
     "ps": "0.00",
     "passing_yards": null,
@@ -11940,10 +11088,7 @@
     "drives": 176,
     "nflAverage": "57.32",
     "plays": 402,
-    "plays_rank": 17,
-    "yds_per_week": 32.88,
-    "pts_per_week": 27.06,
-    "fp_per_week": 66.52
+    "plays_rank": 17
   },
   {
     "position": "RB",
@@ -11972,7 +11117,7 @@
     "value": "-6",
     "highValue": "-5.4",
     "yards_per_week": 47.416666666666664,
-    "floor_per_week": "4.74",
+    "floor_per_week": "5.03",
     "stddev": "1.51",
     "ps": "0.00",
     "passing_yards": null,
@@ -11982,10 +11127,7 @@
     "drives": 174,
     "nflAverage": "57.32",
     "plays": 399,
-    "plays_rank": 18,
-    "yds_per_week": 31.74,
-    "pts_per_week": 22.95,
-    "fp_per_week": 61.03
+    "plays_rank": 18
   },
   {
     "position": "RB",
@@ -12023,10 +11165,7 @@
     "drives": 176,
     "nflAverage": "57.32",
     "plays": 474,
-    "plays_rank": 3,
-    "yds_per_week": 26.842,
-    "pts_per_week": 25.52,
-    "fp_per_week": 65.78
+    "plays_rank": 3
   },
   {
     "position": "RB",
@@ -12064,10 +11203,7 @@
     "drives": 165,
     "nflAverage": "57.32",
     "plays": 387,
-    "plays_rank": 20,
-    "yds_per_week": 105.43666666666667,
-    "pts_per_week": 17.12,
-    "fp_per_week": 48.75
+    "plays_rank": 20
   },
   {
     "position": "RB",
@@ -12105,10 +11241,7 @@
     "drives": 170,
     "nflAverage": "57.32",
     "plays": 384,
-    "plays_rank": 22,
-    "yds_per_week": 39.47888888888889,
-    "pts_per_week": 17.21,
-    "fp_per_week": 52.74
+    "plays_rank": 22
   },
   {
     "position": "RB",
@@ -12137,7 +11270,7 @@
     "value": "-6.2",
     "highValue": "-5.4",
     "yards_per_week": 8,
-    "floor_per_week": "0.80",
+    "floor_per_week": "0.97",
     "stddev": "13.05",
     "ps": "0.00",
     "passing_yards": null,
@@ -12147,10 +11280,7 @@
     "drives": 185,
     "nflAverage": "57.32",
     "plays": 356,
-    "plays_rank": 27,
-    "yds_per_week": 60.32333333333333,
-    "pts_per_week": 21.16,
-    "fp_per_week": 57.35
+    "plays_rank": 27
   },
   {
     "position": "RB",
@@ -12188,10 +11318,7 @@
     "drives": 163,
     "nflAverage": "57.32",
     "plays": 350,
-    "plays_rank": 29,
-    "yds_per_week": 87.262,
-    "pts_per_week": 33.11,
-    "fp_per_week": 76.74
+    "plays_rank": 29
   },
   {
     "position": "RB",
@@ -12229,10 +11356,7 @@
     "drives": 172,
     "nflAverage": "57.32",
     "plays": 360,
-    "plays_rank": 26,
-    "yds_per_week": 31.536666666666665,
-    "pts_per_week": 21.72,
-    "fp_per_week": 59.56
+    "plays_rank": 26
   },
   {
     "position": "QB",
@@ -12271,10 +11395,7 @@
     "drives": 172,
     "nflAverage": "57.32",
     "plays": 606,
-    "plays_rank": 11,
-    "yds_per_week": 378.44,
-    "pts_per_week": 21.72,
-    "fp_per_week": 59.56
+    "plays_rank": 11
   },
   {
     "position": "RB",
@@ -12312,10 +11433,7 @@
     "drives": 185,
     "nflAverage": "57.32",
     "plays": 356,
-    "plays_rank": 27,
-    "yds_per_week": 24.12933333333333,
-    "pts_per_week": 21.16,
-    "fp_per_week": 57.35
+    "plays_rank": 27
   },
   {
     "position": "RB",
@@ -12353,10 +11471,7 @@
     "drives": 162,
     "nflAverage": "57.32",
     "plays": 428,
-    "plays_rank": 10,
-    "yds_per_week": 165.065,
-    "pts_per_week": 18.12,
-    "fp_per_week": 51.14
+    "plays_rank": 10
   },
   {
     "position": "RB",
@@ -12394,10 +11509,7 @@
     "drives": 172,
     "nflAverage": "57.32",
     "plays": 360,
-    "plays_rank": 26,
-    "yds_per_week": null,
-    "pts_per_week": 21.72,
-    "fp_per_week": 59.56
+    "plays_rank": 26
   },
   {
     "position": "RB",
@@ -12426,7 +11538,7 @@
     "value": "-6.4",
     "highValue": "-6.4",
     "yards_per_week": 41.5,
-    "floor_per_week": "4.15",
+    "floor_per_week": "4.28",
     "stddev": "1.02",
     "ps": "4.00",
     "passing_yards": null,
@@ -12436,10 +11548,7 @@
     "drives": 165,
     "nflAverage": "57.32",
     "plays": 346,
-    "plays_rank": 30,
-    "yds_per_week": 101.9075,
-    "pts_per_week": 24.96,
-    "fp_per_week": 65.72
+    "plays_rank": 30
   },
   {
     "position": "RB",
@@ -12477,10 +11586,7 @@
     "drives": 180,
     "nflAverage": "57.32",
     "plays": 390,
-    "plays_rank": 19,
-    "yds_per_week": 24.320666666666668,
-    "pts_per_week": 19.69,
-    "fp_per_week": 56.17
+    "plays_rank": 19
   },
   {
     "position": "RB",
@@ -12518,10 +11624,7 @@
     "drives": 164,
     "nflAverage": "57.32",
     "plays": 363,
-    "plays_rank": 24,
-    "yds_per_week": null,
-    "pts_per_week": 20.81,
-    "fp_per_week": 53.63
+    "plays_rank": 24
   },
   {
     "position": "RB",
@@ -12559,10 +11662,7 @@
     "drives": 176,
     "nflAverage": "57.32",
     "plays": 537,
-    "plays_rank": 1,
-    "yds_per_week": null,
-    "pts_per_week": 25.96,
-    "fp_per_week": 63.51
+    "plays_rank": 1
   },
   {
     "position": "RB",
@@ -12600,10 +11700,7 @@
     "drives": 161,
     "nflAverage": "57.32",
     "plays": 438,
-    "plays_rank": 8,
-    "yds_per_week": null,
-    "pts_per_week": 20.73,
-    "fp_per_week": 57.28
+    "plays_rank": 8
   },
   {
     "position": "RB",
@@ -12641,10 +11738,7 @@
     "drives": 155,
     "nflAverage": "57.32",
     "plays": 442,
-    "plays_rank": 7,
-    "yds_per_week": 25.829333333333334,
-    "pts_per_week": 31.1,
-    "fp_per_week": 69.84
+    "plays_rank": 7
   },
   {
     "position": "QB",
@@ -12683,10 +11777,7 @@
     "drives": 180,
     "nflAverage": "57.32",
     "plays": 629,
-    "plays_rank": 7,
-    "yds_per_week": 364.81,
-    "pts_per_week": 19.69,
-    "fp_per_week": 56.17
+    "plays_rank": 7
   },
   {
     "position": "RB",
@@ -12724,10 +11815,7 @@
     "drives": 166,
     "nflAverage": "57.32",
     "plays": 410,
-    "plays_rank": 14,
-    "yds_per_week": 25.862666666666666,
-    "pts_per_week": 22.93,
-    "fp_per_week": 61.72
+    "plays_rank": 14
   },
   {
     "position": "RB",
@@ -12765,10 +11853,7 @@
     "drives": 164,
     "nflAverage": "57.32",
     "plays": 363,
-    "plays_rank": 24,
-    "yds_per_week": null,
-    "pts_per_week": 20.81,
-    "fp_per_week": 53.63
+    "plays_rank": 24
   },
   {
     "position": "RB",
@@ -12806,10 +11891,7 @@
     "drives": 173,
     "nflAverage": "57.32",
     "plays": 457,
-    "plays_rank": 6,
-    "yds_per_week": null,
-    "pts_per_week": 23.46,
-    "fp_per_week": 58.99
+    "plays_rank": 6
   },
   {
     "position": "RB",
@@ -12847,10 +11929,7 @@
     "drives": 165,
     "nflAverage": "57.32",
     "plays": 346,
-    "plays_rank": 30,
-    "yds_per_week": 67.93833333333333,
-    "pts_per_week": 24.96,
-    "fp_per_week": 65.72
+    "plays_rank": 30
   },
   {
     "position": "RB",
@@ -12879,7 +11958,7 @@
     "value": "-6.7",
     "highValue": "-5.9",
     "yards_per_week": 35.75,
-    "floor_per_week": "3.58",
+    "floor_per_week": "3.95",
     "stddev": "0.84",
     "ps": "0.00",
     "passing_yards": null,
@@ -12889,10 +11968,7 @@
     "drives": 173,
     "nflAverage": "57.32",
     "plays": 415,
-    "plays_rank": 12,
-    "yds_per_week": 48.03875,
-    "pts_per_week": 20.33,
-    "fp_per_week": 58.76
+    "plays_rank": 12
   },
   {
     "position": "RB",
@@ -12930,10 +12006,7 @@
     "drives": 181,
     "nflAverage": "57.32",
     "plays": 355,
-    "plays_rank": 28,
-    "yds_per_week": 37.73285714285714,
-    "pts_per_week": 12.67,
-    "fp_per_week": 39.08
+    "plays_rank": 28
   },
   {
     "position": "RB",
@@ -12971,10 +12044,7 @@
     "drives": 167,
     "nflAverage": "57.32",
     "plays": 378,
-    "plays_rank": 23,
-    "yds_per_week": 25.787333333333333,
-    "pts_per_week": 25.36,
-    "fp_per_week": 64.04
+    "plays_rank": 23
   },
   {
     "position": "RB",
@@ -13012,10 +12082,7 @@
     "drives": 161,
     "nflAverage": "57.32",
     "plays": 438,
-    "plays_rank": 8,
-    "yds_per_week": 24.366666666666667,
-    "pts_per_week": 20.73,
-    "fp_per_week": 57.28
+    "plays_rank": 8
   },
   {
     "position": "RB",
@@ -13053,10 +12120,7 @@
     "drives": 176,
     "nflAverage": "57.32",
     "plays": 360,
-    "plays_rank": 25,
-    "yds_per_week": null,
-    "pts_per_week": 17.71,
-    "fp_per_week": 49.25
+    "plays_rank": 25
   },
   {
     "position": "RB",
@@ -13094,10 +12158,7 @@
     "drives": 164,
     "nflAverage": "57.32",
     "plays": 363,
-    "plays_rank": 24,
-    "yds_per_week": null,
-    "pts_per_week": 20.81,
-    "fp_per_week": 53.63
+    "plays_rank": 24
   },
   {
     "position": "RB",
@@ -13135,10 +12196,7 @@
     "drives": 166,
     "nflAverage": "57.32",
     "plays": 410,
-    "plays_rank": 14,
-    "yds_per_week": null,
-    "pts_per_week": 22.93,
-    "fp_per_week": 61.72
+    "plays_rank": 14
   },
   {
     "position": "RB",
@@ -13176,10 +12234,7 @@
     "drives": 177,
     "nflAverage": "57.32",
     "plays": 416,
-    "plays_rank": 11,
-    "yds_per_week": null,
-    "pts_per_week": 13.72,
-    "fp_per_week": 45.93
+    "plays_rank": 11
   },
   {
     "position": "RB",
@@ -13208,7 +12263,7 @@
     "value": "-7.7",
     "highValue": "-7.7",
     "yards_per_week": 64.71428571428571,
-    "floor_per_week": "6.47",
+    "floor_per_week": "7.26",
     "stddev": "0.91",
     "ps": "1.00",
     "passing_yards": null,
@@ -13218,10 +12273,7 @@
     "drives": 192,
     "nflAverage": "57.32",
     "plays": 404,
-    "plays_rank": 16,
-    "yds_per_week": 44.87571428571429,
-    "pts_per_week": 18.6,
-    "fp_per_week": 50.01
+    "plays_rank": 16
   },
   {
     "position": "QB",
@@ -13259,10 +12311,7 @@
     "drives": 165,
     "nflAverage": "57.32",
     "plays": 508,
-    "plays_rank": 28,
-    "yds_per_week": 316.31,
-    "pts_per_week": 17.12,
-    "fp_per_week": 48.75
+    "plays_rank": 28
   },
   {
     "position": "QB",
@@ -13301,9 +12350,6 @@
     "drives": 176,
     "nflAverage": "57.32",
     "plays": 483,
-    "plays_rank": 30,
-    "yds_per_week": 315.44,
-    "pts_per_week": 17.71,
-    "fp_per_week": 49.25
+    "plays_rank": 30
   }
 ]
