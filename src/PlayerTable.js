@@ -67,24 +67,40 @@ class PlayerTable extends PureComponent {
     return this.props.fields.map((f, i) => {
       if (f === 'tier') {
         return <td key={i}>Tier {player[f]}</td>
-      } else if (f === 'name') {
+      }
+       if (f === 'name') {
         return <td key={i}><strong>{player[f]}</strong></td>
-      } else if (f === 'total_yards') {
-        if (Number(player.total_yards)) {
-          return <td key={i}>{player[f]} yds</td>
-        } else {
-          return <td key={i}>{player[f]}</td>
-        }
-      } else if (f === 'floor_per_week') {
-        if (Number(player.floor_per_week)) {
-          return <td key={i}>{player[f]} pts</td>
+      } 
+      if (f === 'yards') {
+        if (player.position === 'QB') {
+          return <td key={i}>{player.pass_yards}</td>
         } else {
           return <td key={i}>{player[f]}</td>
         }
       }
-      else {
-        return <td key={i}>{player[f]}</td>
-      }        
+      if (f === 'tds') {
+        if (player.position === 'QB') {
+          return <td key={i}>{player.pass_tds}</td>
+        } else {
+          return <td key={i}>{player[f]}</td>
+        }
+      }
+      if (f === 'proj yds') {
+        if (player.position === 'QB') {
+          return <td key={i}>{player['proj pyds']}</td>
+        } else {
+          return <td key={i}>{player[f]}</td>
+        }
+      }
+      if (f === 'proj tds') {
+        if (player.position === 'QB') {
+          return <td key={i}>{player['proj ptds']}</td>
+        } else {
+          return <td key={i}>{player[f]}</td>
+        }
+      } 
+      return <td key={i}>{player[f]}</td>
+      
     });
   }
 
