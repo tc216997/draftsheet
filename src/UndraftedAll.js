@@ -32,7 +32,7 @@ function UndraftedAll(props) {
 
       <div className='scrollable overall-rankings'>
         <Undrafted
-          fields={['tier', 'value', 'name', 'top 12', 'top 24', 'gp', 'touches', 'tgt', 'yards', 'floor', 'proj yds', 'proj tds', 'proj fl']}
+          fields={['tier', 'value', 'name', 'top 12', 'top 24', 'gp', 'touches', 'tgt', 'yards', 'floor', 'proj yds', 'proj tds', 'proj fl' ]}
           players={props.players}
           draft={(p) => props.draft(p)}
         />
