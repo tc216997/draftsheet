@@ -119,8 +119,7 @@ class DraftBoard extends Component {
           <UndraftedPositions
             players={ this.state.players }
             draft={(p) => this.draft(p)}
-          />
-                    
+          />                    
         </div>
       );
     }
