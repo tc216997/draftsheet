@@ -2,6 +2,7 @@
   {
     "position": "RB",
     "name": "Saquon Barkley",
+    "short": "S.Barkley",
     "rank": 1,
     "tier": 1,
     "adp": 1,
@@ -45,6 +46,7 @@
   {
     "position": "RB",
     "name": "Alvin Kamara",
+    "short": "A.Kamara",
     "rank": 3,
     "tier": 1,
     "adp": 3,
@@ -88,6 +90,7 @@
   {
     "position": "RB",
     "name": "Christian McCaffrey",
+    "short": "C.McCaffrey",
     "rank": 2,
     "tier": 1,
     "adp": 2,
@@ -131,6 +134,7 @@
   {
     "position": "WR",
     "name": "DeAndre Hopkins",
+    "short": "D.Hopkins",
     "rank": 5,
     "tier": 1,
     "adp": 5,
@@ -174,6 +178,7 @@
   {
     "position": "RB",
     "name": "Ezekiel Elliott",
+    "short": "E.Elliott",
     "rank": 6,
     "tier": 2,
     "adp": 4,
@@ -217,6 +222,7 @@
   {
     "position": "WR",
     "name": "Davante Adams",
+    "short": "D.Adams",
     "rank": 7,
     "tier": 2,
     "adp": 8,
@@ -260,6 +266,7 @@
   {
     "position": "WR",
     "name": "Julio Jones",
+    "short": "J.Jones",
     "rank": 8,
     "tier": 2,
     "adp": 9,
@@ -303,6 +310,7 @@
   {
     "position": "WR",
     "name": "Michael Thomas",
+    "short": "M.Thomas",
     "rank": 12,
     "tier": 2,
     "adp": 10,
@@ -346,6 +354,7 @@
   {
     "position": "WR",
     "name": "JuJu Smith-Schuster",
+    "short": "J.Smith-Schuster",
     "rank": 15,
     "tier": 2,
     "adp": 16,
@@ -389,6 +398,7 @@
   {
     "position": "WR",
     "name": "Tyreek Hill",
+    "short": "T.Hill",
     "rank": 17,
     "tier": 3,
     "adp": 17,
@@ -432,6 +442,7 @@
   {
     "position": "WR",
     "name": "Odell Beckham",
+    "short": "O.Beckham",
     "rank": 11,
     "tier": 2,
     "adp": 13,
@@ -475,6 +486,7 @@
   {
     "position": "RB",
     "name": "David Johnson",
+    "short": "D.Johnson",
     "rank": 4,
     "tier": 1,
     "adp": 6,
@@ -518,6 +530,7 @@
   {
     "position": "RB",
     "name": "James Conner",
+    "short": "J.Conner",
     "rank": 9,
     "tier": 2,
     "adp": 12,
@@ -561,6 +574,7 @@
   {
     "position": "RB",
     "name": "LeVeon Bell",
+    "short": "L.Bell",
     "rank": 13,
     "tier": 2,
     "adp": 7,
@@ -604,6 +618,7 @@
   {
     "position": "TE",
     "name": "Travis Kelce",
+    "short": "T.Kelce",
     "rank": 14,
     "tier": 2,
     "adp": 11,
@@ -647,6 +662,7 @@
   {
     "position": "WR",
     "name": "Antonio Brown",
+    "short": "A.Brown",
     "rank": 23,
     "tier": 4,
     "adp": 22,
@@ -690,6 +706,7 @@
   {
     "position": "WR",
     "name": "Mike Evans",
+    "short": "M.Evans",
     "rank": 20,
     "tier": 3,
     "adp": 20,
@@ -733,6 +750,7 @@
   {
     "position": "RB",
     "name": "Nick Chubb",
+    "short": "N.Chubb",
     "rank": 10,
     "tier": 2,
     "adp": 15,
@@ -776,6 +794,7 @@
   {
     "position": "RB",
     "name": "Joe Mixon",
+    "short": "J.Mixon",
     "rank": 18,
     "tier": 3,
     "adp": 18,
@@ -819,6 +838,7 @@
   {
     "position": "RB",
     "name": "Todd Gurley",
+    "short": "T.Gurley",
     "rank": 19,
     "tier": 3,
     "adp": 14,
@@ -862,6 +882,7 @@
   {
     "position": "WR",
     "name": "Keenan Allen",
+    "short": "K.Allen",
     "rank": 22,
     "tier": 4,
     "adp": 24,
@@ -905,6 +926,7 @@
   {
     "position": "RB",
     "name": "Dalvin Cook",
+    "short": "D.Cook",
     "rank": 16,
     "tier": 2,
     "adp": 19,
@@ -948,6 +970,7 @@
   {
     "position": "WR",
     "name": "Adam Thielen",
+    "short": "A.Thielen",
     "rank": 26,
     "tier": 5,
     "adp": 26,
@@ -991,6 +1014,7 @@
   {
     "position": "WR",
     "name": "Stefon Diggs",
+    "short": "S.Diggs",
     "rank": 29,
     "tier": 5,
     "adp": 35,
@@ -1034,6 +1058,7 @@
   {
     "position": "RB",
     "name": "Kerryon Johnson",
+    "short": "K.Johnson",
     "rank": 25,
     "tier": 5,
     "adp": 29,
@@ -1077,6 +1102,7 @@
   {
     "position": "RB",
     "name": "Damien Williams",
+    "short": "D.Williams",
     "rank": 27,
     "tier": 5,
     "adp": 28,
@@ -1120,6 +1146,7 @@
   {
     "position": "WR",
     "name": "Amari Cooper",
+    "short": "A.Cooper",
     "rank": 28,
     "tier": 5,
     "adp": 32,
@@ -1163,6 +1190,7 @@
   {
     "position": "WR",
     "name": "Julian Edelman",
+    "short": "J.Edelman",
     "rank": 36,
     "tier": 5,
     "adp": 37,
@@ -1206,6 +1234,7 @@
   {
     "position": "RB",
     "name": "Derrick Henry",
+    "short": "D.Henry",
     "rank": 42,
     "tier": 6,
     "adp": 39,
@@ -1249,6 +1278,7 @@
   {
     "position": "TE",
     "name": "George Kittle",
+    "short": "G.Kittle",
     "rank": 21,
     "tier": 4,
     "adp": 23,
@@ -1292,6 +1322,7 @@
   {
     "position": "RB",
     "name": "Aaron Jones",
+    "short": "A.Jones",
     "rank": 30,
     "tier": 5,
     "adp": 34,
@@ -1335,6 +1366,7 @@
   {
     "position": "RB",
     "name": "Leonard Fournette",
+    "short": "L.Fournette",
     "rank": 31,
     "tier": 5,
     "adp": 27,
@@ -1378,6 +1410,7 @@
   {
     "position": "WR",
     "name": "Brandin Cooks",
+    "short": "B.Cooks",
     "rank": 32,
     "tier": 5,
     "adp": 40,
@@ -1421,6 +1454,7 @@
   {
     "position": "TE",
     "name": "Zach Ertz",
+    "short": "Z.Ertz",
     "rank": 24,
     "tier": 5,
     "adp": 25,
@@ -1464,6 +1498,7 @@
   {
     "position": "WR",
     "name": "Robert Woods",
+    "short": "R.Woods",
     "rank": 35,
     "tier": 5,
     "adp": 41,
@@ -1507,6 +1542,7 @@
   {
     "position": "RB",
     "name": "Chris Carson",
+    "short": "C.Carson",
     "rank": 38,
     "tier": 5,
     "adp": 42,
@@ -1550,6 +1586,7 @@
   {
     "position": "WR",
     "name": "TY Hilton",
+    "short": "T.Hilton",
     "rank": 52,
     "tier": 8,
     "adp": 33,
@@ -1593,6 +1630,7 @@
   {
     "position": "RB",
     "name": "Devonta Freeman",
+    "short": "D.Freeman",
     "rank": 34,
     "tier": 5,
     "adp": 31,
@@ -1636,6 +1674,7 @@
   {
     "position": "RB",
     "name": "Josh Jacobs",
+    "short": "J.Jacobs",
     "rank": 41,
     "tier": 6,
     "adp": 38,
@@ -1679,6 +1718,7 @@
   {
     "position": "WR",
     "name": "Kenny Golladay",
+    "short": "K.Golladay",
     "rank": 39,
     "tier": 6,
     "adp": 43,
@@ -1722,6 +1762,7 @@
   {
     "position": "WR",
     "name": "Tyler Lockett",
+    "short": "T.Lockett",
     "rank": 40,
     "tier": 6,
     "adp": 47,
@@ -1765,6 +1806,7 @@
   {
     "position": "RB",
     "name": "Marlon Mack",
+    "short": "M.Mack",
     "rank": 48,
     "tier": 7,
     "adp": 36,
@@ -1808,6 +1850,7 @@
   {
     "position": "WR",
     "name": "Chris Godwin",
+    "short": "C.Godwin",
     "rank": 37,
     "tier": 5,
     "adp": 45,
@@ -1851,6 +1894,7 @@
   {
     "position": "QB",
     "name": "Patrick Mahomes",
+    "short": "P.Mahomes",
     "rank": 33,
     "tier": 5,
     "adp": 21,
@@ -1894,6 +1938,7 @@
   {
     "position": "RB",
     "name": "Sony Michel",
+    "short": "S.Michel",
     "rank": 44,
     "tier": 7,
     "adp": 46,
@@ -1937,6 +1982,7 @@
   {
     "position": "WR",
     "name": "Tyler Boyd",
+    "short": "T.Boyd",
     "rank": 46,
     "tier": 7,
     "adp": 57,
@@ -1980,6 +2026,7 @@
   {
     "position": "WR",
     "name": "Cooper Kupp",
+    "short": "C.Kupp",
     "rank": 43,
     "tier": 7,
     "adp": 52,
@@ -2023,6 +2070,7 @@
   {
     "position": "RB",
     "name": "Mark Ingram",
+    "short": "M.Ingram",
     "rank": 49,
     "tier": 7,
     "adp": 44,
@@ -2066,6 +2114,7 @@
   {
     "position": "RB",
     "name": "Melvin Gordon",
+    "short": "M.Gordon",
     "rank": 45,
     "tier": 7,
     "adp": 30,
@@ -2109,6 +2158,7 @@
   {
     "position": "WR",
     "name": "DJ Moore",
+    "short": "D.Moore",
     "rank": 54,
     "tier": 8,
     "adp": 61,
@@ -2152,6 +2202,7 @@
   {
     "position": "WR",
     "name": "Alshon Jeffery",
+    "short": "A.Jeffery",
     "rank": 53,
     "tier": 8,
     "adp": 65,
@@ -2195,6 +2246,7 @@
   {
     "position": "WR",
     "name": "Calvin Ridley",
+    "short": "C.Ridley",
     "rank": 51,
     "tier": 8,
     "adp": 59,
@@ -2238,6 +2290,7 @@
   {
     "position": "WR",
     "name": "Mike Williams",
+    "short": "M.Williams",
     "rank": 57,
     "tier": 8,
     "adp": 94,
@@ -2281,6 +2334,7 @@
   {
     "position": "RB",
     "name": "David Montgomery",
+    "short": "D.Montgomery",
     "rank": 47,
     "tier": 7,
     "adp": 49,
@@ -2324,6 +2378,7 @@
   {
     "position": "RB",
     "name": "Phillip Lindsay",
+    "short": "P.Lindsay",
     "rank": 60,
     "tier": 9,
     "adp": 53,
@@ -2367,6 +2422,7 @@
   {
     "position": "WR",
     "name": "Allen Robinson",
+    "short": "A.Robinson",
     "rank": 55,
     "tier": 8,
     "adp": 68,
@@ -2410,6 +2466,7 @@
   {
     "position": "WR",
     "name": "Jarvis Landry",
+    "short": "J.Landry",
     "rank": 64,
     "tier": 9,
     "adp": 64,
@@ -2453,6 +2510,7 @@
   {
     "position": "WR",
     "name": "AJ Green",
+    "short": "A.Green",
     "rank": 70,
     "tier": 10,
     "adp": 58,
@@ -2496,6 +2554,7 @@
   {
     "position": "WR",
     "name": "Robby Anderson",
+    "short": "R.Anderson",
     "rank": 63,
     "tier": 9,
     "adp": 70,
@@ -2539,6 +2598,7 @@
   {
     "position": "RB",
     "name": "Kenyan Drake",
+    "short": "K.Drake",
     "rank": 84,
     "tier": 12,
     "adp": 69,
@@ -2582,6 +2642,7 @@
   {
     "position": "WR",
     "name": "Dede Westbrook",
+    "short": "D.Westbrook",
     "rank": 82,
     "tier": 11,
     "adp": 88,
@@ -2625,6 +2686,7 @@
   {
     "position": "WR",
     "name": "Corey Davis",
+    "short": "C.Davis",
     "rank": 75,
     "tier": 11,
     "adp": 92,
@@ -2668,6 +2730,7 @@
   {
     "position": "TE",
     "name": "OJ Howard",
+    "short": "O.Howard",
     "rank": 56,
     "tier": 8,
     "adp": 51,
@@ -2711,6 +2774,7 @@
   {
     "position": "TE",
     "name": "Evan Engram",
+    "short": "E.Engram",
     "rank": 59,
     "tier": 9,
     "adp": 50,
@@ -2754,6 +2818,7 @@
   {
     "position": "WR",
     "name": "Marvin Jones",
+    "short": "M.Jones",
     "rank": 80,
     "tier": 12,
     "adp": 90,
@@ -2797,6 +2862,7 @@
   {
     "position": "WR",
     "name": "Sterling Shepard",
+    "short": "S.Shepard",
     "rank": 85,
     "tier": 12,
     "adp": 91,
@@ -2840,6 +2906,7 @@
   {
     "position": "WR",
     "name": "Sammy Watkins",
+    "short": "S.Watkins",
     "rank": 71,
     "tier": 11,
     "adp": 76,
@@ -2883,6 +2950,7 @@
   {
     "position": "RB",
     "name": "Tevin Coleman",
+    "short": "T.Coleman",
     "rank": 67,
     "tier": 9,
     "adp": 63,
@@ -2926,6 +2994,7 @@
   {
     "position": "WR",
     "name": "Christian Kirk",
+    "short": "C.Kirk",
     "rank": 72,
     "tier": 11,
     "adp": 79,
@@ -2969,6 +3038,7 @@
   {
     "position": "RB",
     "name": "James White",
+    "short": "J.White",
     "rank": 66,
     "tier": 9,
     "adp": 56,
@@ -3012,6 +3082,7 @@
   {
     "position": "WR",
     "name": "Will Fuller",
+    "short": "W.Fuller",
     "rank": 73,
     "tier": 11,
     "adp": 78,
@@ -3055,6 +3126,7 @@
   {
     "position": "WR",
     "name": "Larry Fitzgerald",
+    "short": "L.Fitzgerald",
     "rank": 92,
     "tier": 13,
     "adp": 99,
@@ -3098,6 +3170,7 @@
   {
     "position": "WR",
     "name": "Emmanuel Sanders",
+    "short": "E.Sanders",
     "rank": 108,
     "tier": 14,
     "adp": 104,
@@ -3141,6 +3214,7 @@
   {
     "position": "TE",
     "name": "Hunter Henry",
+    "short": "H.Henry",
     "rank": 62,
     "tier": 9,
     "adp": 55,
@@ -3184,6 +3258,7 @@
   {
     "position": "WR",
     "name": "Curtis Samuel",
+    "short": "C.Samuel",
     "rank": 74,
     "tier": 11,
     "adp": 93,
@@ -3227,6 +3302,7 @@
   {
     "position": "RB",
     "name": "Duke Johnson",
+    "short": "D.Johnson",
     "rank": 61,
     "tier": 9,
     "adp": 97,
@@ -3270,6 +3346,7 @@
   {
     "position": "WR",
     "name": "Josh Gordon",
+    "short": "J.Gordon",
     "rank": 69,
     "tier": 10,
     "adp": 100,
@@ -3313,6 +3390,7 @@
   {
     "position": "TE",
     "name": "Jared Cook",
+    "short": "J.Cook",
     "rank": 79,
     "tier": 11,
     "adp": 62,
@@ -3356,6 +3434,7 @@
   {
     "position": "RB",
     "name": "Austin Ekeler",
+    "short": "A.Ekeler",
     "rank": 86,
     "tier": 12,
     "adp": 72,
@@ -3399,6 +3478,7 @@
   {
     "position": "WR",
     "name": "Courtland Sutton",
+    "short": "C.Sutton",
     "rank": 97,
     "tier": 14,
     "adp": 106,
@@ -3442,6 +3522,7 @@
   {
     "position": "RB",
     "name": "Tarik Cohen",
+    "short": "T.Cohen",
     "rank": 78,
     "tier": 11,
     "adp": 66,
@@ -3485,6 +3566,7 @@
   {
     "position": "QB",
     "name": "Deshaun Watson",
+    "short": "D.Watson",
     "rank": 50,
     "tier": 7,
     "adp": 48,
@@ -3528,6 +3610,7 @@
   {
     "position": "RB",
     "name": "Miles Sanders",
+    "short": "M.Sanders",
     "rank": 76,
     "tier": 11,
     "adp": 71,
@@ -3571,6 +3654,7 @@
   {
     "position": "RB",
     "name": "Derrius Guice",
+    "short": "D.Guice",
     "rank": 90,
     "tier": 13,
     "adp": 77,
@@ -3614,6 +3698,7 @@
   {
     "position": "TE",
     "name": "Vance McDonald",
+    "short": "V.McDonald",
     "rank": 88,
     "tier": 12,
     "adp": 74,
@@ -3657,6 +3742,7 @@
   {
     "position": "WR",
     "name": "Marquez Valdes-Scantling",
+    "short": "M.Valdes-Scantling",
     "rank": 107,
     "tier": 15,
     "adp": 110,
@@ -3700,6 +3786,7 @@
   {
     "position": "WR",
     "name": "Jamison Crowder",
+    "short": "J.Crowder",
     "rank": 128,
     "tier": 18,
     "adp": 157,
@@ -3743,6 +3830,7 @@
   {
     "position": "WR",
     "name": "Dante Pettis",
+    "short": "D.Pettis",
     "rank": 91,
     "tier": 13,
     "adp": 98,
@@ -3786,6 +3874,7 @@
   {
     "position": "RB",
     "name": "Latavius Murray",
+    "short": "L.Murray",
     "rank": 81,
     "tier": 12,
     "adp": 84,
@@ -3829,6 +3918,7 @@
   {
     "position": "WR",
     "name": "DeSean Jackson",
+    "short": "D.Jackson",
     "rank": 112,
     "tier": 16,
     "adp": 111,
@@ -3872,6 +3962,7 @@
   {
     "position": "WR",
     "name": "Donte Moncrief",
+    "short": "D.Moncrief",
     "rank": 114,
     "tier": 16,
     "adp": 127,
@@ -3915,6 +4006,7 @@
   {
     "position": "RB",
     "name": "Peyton Barber",
+    "short": "P.Barber",
     "rank": 122,
     "tier": 17,
     "adp": 116,
@@ -3958,6 +4050,7 @@
   {
     "position": "QB",
     "name": "Aaron Rodgers",
+    "short": "A.Rodgers",
     "rank": 58,
     "tier": 8,
     "adp": 54,
@@ -4001,6 +4094,7 @@
   {
     "position": "RB",
     "name": "Rashaad Penny",
+    "short": "R.Penny",
     "rank": 95,
     "tier": 14,
     "adp": 87,
@@ -4044,6 +4138,7 @@
   {
     "position": "TE",
     "name": "David Njoku",
+    "short": "D.Njoku",
     "rank": 89,
     "tier": 12,
     "adp": 85,
@@ -4087,6 +4182,7 @@
   {
     "position": "WR",
     "name": "John Brown",
+    "short": "J.Brown",
     "rank": 121,
     "tier": 17,
     "adp": 164,
@@ -4130,6 +4226,7 @@
   {
     "position": "WR",
     "name": "Tyrell Williams",
+    "short": "T.Williams",
     "rank": 123,
     "tier": 17,
     "adp": 141,
@@ -4173,6 +4270,7 @@
   {
     "position": "WR",
     "name": "Geronimo Allison",
+    "short": "G.Allison",
     "rank": 99,
     "tier": 14,
     "adp": 119,
@@ -4216,6 +4314,7 @@
   {
     "position": "RB",
     "name": "LeSean McCoy",
+    "short": "L.McCoy",
     "rank": 117,
     "tier": 16,
     "adp": 105,
@@ -4259,6 +4358,7 @@
   {
     "position": "TE",
     "name": "Austin Hooper",
+    "short": "A.Hooper",
     "rank": 100,
     "tier": 14,
     "adp": 101,
@@ -4302,6 +4402,7 @@
   {
     "position": "TE",
     "name": "Delanie Walker",
+    "short": "D.Walker",
     "rank": 110,
     "tier": 15,
     "adp": 107,
@@ -4345,6 +4446,7 @@
   {
     "position": "RB",
     "name": "Royce Freeman",
+    "short": "R.Freeman",
     "rank": 98,
     "tier": 14,
     "adp": 95,
@@ -4388,6 +4490,7 @@
   {
     "position": "TE",
     "name": "Eric Ebron",
+    "short": "E.Ebron",
     "rank": 129,
     "tier": 19,
     "adp": 75,
@@ -4431,6 +4534,7 @@
   {
     "position": "RB",
     "name": "Jordan Howard",
+    "short": "J.Howard",
     "rank": 104,
     "tier": 15,
     "adp": 96,
@@ -4474,6 +4578,7 @@
   {
     "position": "QB",
     "name": "Matt Ryan",
+    "short": "M.Ryan",
     "rank": 68,
     "tier": 9,
     "adp": 67,
@@ -4517,6 +4622,7 @@
   {
     "position": "QB",
     "name": "Baker Mayfield",
+    "short": "B.Mayfield",
     "rank": 65,
     "tier": 9,
     "adp": 60,
@@ -4560,6 +4666,7 @@
   {
     "position": "QB",
     "name": "Carson Wentz",
+    "short": "C.Wentz",
     "rank": 77,
     "tier": 11,
     "adp": 82,
@@ -4603,6 +4710,7 @@
   {
     "position": "TE",
     "name": "Trey Burton",
+    "short": "T.Burton",
     "rank": 113,
     "tier": 16,
     "adp": 132,
@@ -4646,6 +4754,7 @@
   {
     "position": "RB",
     "name": "Kalen Ballage",
+    "short": "K.Ballage",
     "rank": 118,
     "tier": 16,
     "adp": 125,
@@ -4689,6 +4798,7 @@
   {
     "position": "RB",
     "name": "Darrell Henderson",
+    "short": "D.Henderson",
     "rank": 115,
     "tier": 16,
     "adp": 121,
@@ -4732,6 +4842,7 @@
   {
     "position": "TE",
     "name": "Kyle Rudolph",
+    "short": "K.Rudolph",
     "rank": 134,
     "tier": 19,
     "adp": 124,
@@ -4775,6 +4886,7 @@
   {
     "position": "TE",
     "name": "Mark Andrews",
+    "short": "M.Andrews",
     "rank": 127,
     "tier": 18,
     "adp": 123,
@@ -4818,6 +4930,7 @@
   {
     "position": "WR",
     "name": "Mohamed Sanu",
+    "short": "M.Sanu",
     "rank": 153,
     "tier": 21,
     "adp": 154,
@@ -4861,6 +4974,7 @@
   {
     "position": "RB",
     "name": "Matt Breida",
+    "short": "M.Breida",
     "rank": 105,
     "tier": 14,
     "adp": 113,
@@ -4904,6 +5018,7 @@
   {
     "position": "TE",
     "name": "Jordan Reed",
+    "short": "J.Reed",
     "rank": 135,
     "tier": 19,
     "adp": 129,
@@ -4947,6 +5062,7 @@
   {
     "position": "QB",
     "name": "Jared Goff",
+    "short": "J.Goff",
     "rank": 93,
     "tier": 13,
     "adp": 89,
@@ -4990,6 +5106,7 @@
   {
     "position": "WR",
     "name": "Keke Coutee",
+    "short": "K.Coutee",
     "rank": 111,
     "tier": 16,
     "adp": 122,
@@ -5033,6 +5150,7 @@
   {
     "position": "WR",
     "name": "Michael Gallup",
+    "short": "M.Gallup",
     "rank": 119,
     "tier": 16,
     "adp": 128,
@@ -5076,6 +5194,7 @@
   {
     "position": "RB",
     "name": "Adrian Peterson",
+    "short": "A.Peterson",
     "rank": 131,
     "tier": 18,
     "adp": 140,
@@ -5119,6 +5238,7 @@
   {
     "position": "WR",
     "name": "Kenny Stills",
+    "short": "K.Stills",
     "rank": 139,
     "tier": 20,
     "adp": 166,
@@ -5162,6 +5282,7 @@
   {
     "position": "QB",
     "name": "Russell Wilson",
+    "short": "R.Wilson",
     "rank": 87,
     "tier": 12,
     "adp": 86,
@@ -5205,6 +5326,7 @@
   {
     "position": "WR",
     "name": "Golden Tate",
+    "short": "G.Tate",
     "rank": 130,
     "tier": 18,
     "adp": 131,
@@ -5248,6 +5370,7 @@
   {
     "position": "WR",
     "name": "Anthony Miller",
+    "short": "A.Miller",
     "rank": 109,
     "tier": 15,
     "adp": 144,
@@ -5291,6 +5414,7 @@
   {
     "position": "RB",
     "name": "Dion Lewis",
+    "short": "D.Lewis",
     "rank": 125,
     "tier": 17,
     "adp": 139,
@@ -5334,6 +5458,7 @@
   {
     "position": "TE",
     "name": "Greg Olsen",
+    "short": "G.Olsen",
     "rank": 136,
     "tier": 19,
     "adp": 143,
@@ -5377,6 +5502,7 @@
   {
     "position": "TE",
     "name": "Jimmy Graham",
+    "short": "J.Graham",
     "rank": 138,
     "tier": 19,
     "adp": 147,
@@ -5420,6 +5546,7 @@
   {
     "position": "QB",
     "name": "Drew Brees",
+    "short": "D.Brees",
     "rank": 94,
     "tier": 13,
     "adp": 73,
@@ -5463,6 +5590,7 @@
   {
     "position": "TE",
     "name": "Jack Doyle",
+    "short": "J.Doyle",
     "rank": 187,
     "tier": 25,
     "adp": 169,
@@ -5506,6 +5634,7 @@
   {
     "position": "WR",
     "name": "James Washington",
+    "short": "J.Washington",
     "rank": 132,
     "tier": 19,
     "adp": 120,
@@ -5549,6 +5678,7 @@
   {
     "position": "TE",
     "name": "TJ Hockenson",
+    "short": "T.Hockenson",
     "rank": 148,
     "tier": 21,
     "adp": 152,
@@ -5592,6 +5722,7 @@
   {
     "position": "QB",
     "name": "Jameis Winston",
+    "short": "J.Winston",
     "rank": 96,
     "tier": 14,
     "adp": 117,
@@ -5635,6 +5766,7 @@
   {
     "position": "WR",
     "name": "DK Metcalf",
+    "short": "D.Metcalf",
     "rank": 147,
     "tier": 21,
     "adp": 135,
@@ -5678,6 +5810,7 @@
   {
     "position": "RB",
     "name": "Nyheim Hines",
+    "short": "N.Hines",
     "rank": 160,
     "tier": 24,
     "adp": 150,
@@ -5721,6 +5854,7 @@
   {
     "position": "RB",
     "name": "CJ Anderson",
+    "short": "C.Anderson",
     "rank": 179,
     "tier": 23,
     "adp": 179,
@@ -5764,6 +5898,7 @@
   {
     "position": "WR",
     "name": "Albert Wilson",
+    "short": "A.Wilson",
     "rank": 167,
     "tier": 22,
     "adp": 224,
@@ -5807,6 +5942,7 @@
   {
     "position": "RB",
     "name": "Jalen Richard",
+    "short": "J.Richard",
     "rank": 199,
     "tier": 24,
     "adp": 200,
@@ -5850,6 +5986,7 @@
   {
     "position": "QB",
     "name": "Ben Roethlisberger",
+    "short": "B.Roethlisberger",
     "rank": 106,
     "tier": 15,
     "adp": 103,
@@ -5893,6 +6030,7 @@
   {
     "position": "RB",
     "name": "Ronald Jones",
+    "short": "R.Jones",
     "rank": 142,
     "tier": 19,
     "adp": 130,
@@ -5936,6 +6074,7 @@
   {
     "position": "WR",
     "name": "Devin Funchess",
+    "short": "D.Funchess",
     "rank": 169,
     "tier": 24,
     "adp": 148,
@@ -5979,6 +6118,7 @@
   {
     "position": "TE",
     "name": "Dallas Goedert",
+    "short": "D.Goedert",
     "rank": 156,
     "tier": 21,
     "adp": 194,
@@ -6022,6 +6162,7 @@
   {
     "position": "TE",
     "name": "Noah Fant",
+    "short": "N.Fant",
     "rank": 165,
     "tier": 22,
     "adp": 173,
@@ -6065,6 +6206,7 @@
   {
     "position": "QB",
     "name": "Cam Newton",
+    "short": "C.Newton",
     "rank": 83,
     "tier": 12,
     "adp": 80,
@@ -6108,6 +6250,7 @@
   {
     "position": "RB",
     "name": "Jaylen Samuels",
+    "short": "J.Samuels",
     "rank": 137,
     "tier": 20,
     "adp": 126,
@@ -6151,6 +6294,7 @@
   {
     "position": "RB",
     "name": "Chris Thompson",
+    "short": "C.Thompson",
     "rank": 170,
     "tier": 22,
     "adp": 197,
@@ -6194,6 +6338,7 @@
   {
     "position": "WR",
     "name": "Quincy Enunwa",
+    "short": "Q.Enunwa",
     "rank": 177,
     "tier": 23,
     "adp": "#N/A",
@@ -6237,6 +6382,7 @@
   {
     "position": "QB",
     "name": "Philip Rivers",
+    "short": "P.Rivers",
     "rank": 116,
     "tier": 16,
     "adp": 118,
@@ -6280,6 +6426,7 @@
   {
     "position": "RB",
     "name": "Ito Smith",
+    "short": "I.Smith",
     "rank": 164,
     "tier": 21,
     "adp": 185,
@@ -6323,6 +6470,7 @@
   {
     "position": "RB",
     "name": "Jamaal Williams",
+    "short": "J.Williams",
     "rank": 198,
     "tier": 24,
     "adp": 220,
@@ -6366,6 +6514,7 @@
   {
     "position": "WR",
     "name": "DeVante Parker",
+    "short": "D.Parker",
     "rank": 175,
     "tier": 23,
     "adp": 221,
@@ -6409,6 +6558,7 @@
   {
     "position": "WR",
     "name": "Adam Humphries",
+    "short": "A.Humphries",
     "rank": 159,
     "tier": 21,
     "adp": 192,
@@ -6452,6 +6602,7 @@
   {
     "position": "QB",
     "name": "Tom Brady",
+    "short": "T.Brady",
     "rank": 120,
     "tier": 17,
     "adp": 108,
@@ -6495,6 +6646,7 @@
   {
     "position": "WR",
     "name": "Marqise Lee",
+    "short": "M.Lee",
     "rank": "",
     "tier": "25",
     "adp": 237,
@@ -6538,6 +6690,7 @@
   {
     "position": "QB",
     "name": "Kirk Cousins",
+    "short": "K.Cousins",
     "rank": 124,
     "tier": 17,
     "adp": 137,
@@ -6581,6 +6734,7 @@
   {
     "position": "WR",
     "name": "DaeSean Hamilton",
+    "short": "D.Hamilton",
     "rank": 144,
     "tier": 20,
     "adp": 209,
@@ -6624,6 +6778,7 @@
   {
     "position": "RB",
     "name": "Giovani Bernard",
+    "short": "G.Bernard",
     "rank": 184,
     "tier": 24,
     "adp": 216,
@@ -6667,6 +6822,7 @@
   {
     "position": "WR",
     "name": "Zay Jones",
+    "short": "Z.Jones",
     "rank": 191,
     "tier": 24,
     "adp": 222,
@@ -6710,6 +6866,7 @@
   {
     "position": "QB",
     "name": "Kyler Murray",
+    "short": "K.Murray",
     "rank": 101,
     "tier": 14,
     "adp": 102,
@@ -6753,6 +6910,7 @@
   {
     "position": "RB",
     "name": "Kareem Hunt",
+    "short": "K.Hunt",
     "rank": 173,
     "tier": 23,
     "adp": 115,
@@ -6796,6 +6954,7 @@
   {
     "position": "WR",
     "name": "TreQuan Smith",
+    "short": "T.Smith",
     "rank": 157,
     "tier": 21,
     "adp": 211,
@@ -6839,6 +6998,7 @@
   {
     "position": "QB",
     "name": "Dak Prescott",
+    "short": "D.Prescott",
     "rank": 103,
     "tier": 15,
     "adp": 112,
@@ -6882,6 +7042,7 @@
   {
     "position": "QB",
     "name": "Mitchell Trubisky",
+    "short": "M.Trubisky",
     "rank": 126,
     "tier": 17,
     "adp": 133,
@@ -6925,6 +7086,7 @@
   {
     "position": "RB",
     "name": "Justin Jackson",
+    "short": "J.Jackson",
     "rank": 143,
     "tier": 20,
     "adp": 151,
@@ -6968,6 +7130,7 @@
   {
     "position": "WR",
     "name": "Deebo Samuel",
+    "short": "D.Samuel",
     "rank": 161,
     "tier": 22,
     "adp": 180,
@@ -7011,6 +7174,7 @@
   {
     "position": "QB",
     "name": "Lamar Jackson",
+    "short": "L.Jackson",
     "rank": 102,
     "tier": 15,
     "adp": 109,
@@ -7054,6 +7218,7 @@
   {
     "position": "WR",
     "name": "Taylor Gabriel",
+    "short": "T.Gabriel",
     "rank": "",
     "tier": "25",
     "adp": "#N/A",
@@ -7097,6 +7262,7 @@
   {
     "position": "WR",
     "name": "Randall Cobb",
+    "short": "R.Cobb",
     "rank": "",
     "tier": "25",
     "adp": 201,
@@ -7140,6 +7306,7 @@
   {
     "position": "WR",
     "name": "Marquise Goodwin",
+    "short": "M.Goodwin",
     "rank": 158,
     "tier": 21,
     "adp": 188,
@@ -7183,6 +7350,7 @@
   {
     "position": "RB",
     "name": "Jerick McKinnon",
+    "short": "J.McKinnon",
     "rank": "",
     "tier": "19",
     "adp": 186,
@@ -7227,6 +7395,7 @@
   {
     "position": "RB",
     "name": "Damien Harris",
+    "short": "D.Harris",
     "rank": 155,
     "tier": 21,
     "adp": 160,
@@ -7270,6 +7439,7 @@
   {
     "position": "RB",
     "name": "Darwin Thompson",
+    "short": "D.Thompson",
     "rank": 149,
     "tier": 20,
     "adp": 136,
@@ -7313,6 +7483,7 @@
   {
     "position": "WR",
     "name": "Robert Foster",
+    "short": "R.Foster",
     "rank": "",
     "tier": "21",
     "adp": "#N/A",
@@ -7356,6 +7527,7 @@
   {
     "position": "WR",
     "name": "NKeal Harry",
+    "short": "N.Harry",
     "rank": 168,
     "tier": 22,
     "adp": 146,
@@ -7399,6 +7571,7 @@
   {
     "position": "RB",
     "name": "Devin Singletary",
+    "short": "D.Singletary",
     "rank": 141,
     "tier": 20,
     "adp": 156,
@@ -7442,6 +7615,7 @@
   {
     "position": "RB",
     "name": "Mike Davis",
+    "short": "M.Davis",
     "rank": 193,
     "tier": 24,
     "adp": 217,
@@ -7485,6 +7659,7 @@
   {
     "position": "WR",
     "name": "Parris Campbell",
+    "short": "P.Campbell",
     "rank": "",
     "tier": "23",
     "adp": 203,
@@ -7528,6 +7703,7 @@
   {
     "position": "TE",
     "name": "Tyler Eifert",
+    "short": "T.Eifert",
     "rank": 182,
     "tier": 24,
     "adp": 195,
@@ -7571,6 +7747,7 @@
   {
     "position": "RB",
     "name": "Justice Hill",
+    "short": "J.Hill",
     "rank": 146,
     "tier": 20,
     "adp": 165,
@@ -7614,6 +7791,7 @@
   {
     "position": "TE",
     "name": "Mike Gesicki",
+    "short": "M.Gesicki",
     "rank": "",
     "tier": "24",
     "adp": "#N/A",
@@ -7657,6 +7835,7 @@
   {
     "position": "RB",
     "name": "Tony Pollard",
+    "short": "T.Pollard",
     "rank": 154,
     "tier": 20,
     "adp": 138,
@@ -7700,6 +7879,7 @@
   {
     "position": "TE",
     "name": "Jason Witten",
+    "short": "J.Witten",
     "rank": "",
     "tier": 29,
     "adp": 170,
@@ -7743,6 +7923,7 @@
   {
     "position": "TE",
     "name": "Chris Herndon",
+    "short": "C.Herndon",
     "rank": 151,
     "tier": 21,
     "adp": 206,
@@ -7786,6 +7967,7 @@
   {
     "position": "WR",
     "name": "AJ Brown",
+    "short": "A.Brown",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -7829,6 +8011,7 @@
   {
     "position": "WR",
     "name": "Danny Amendola",
+    "short": "D.Amendola",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -7872,6 +8055,7 @@
   {
     "position": "WR",
     "name": "Trey Quinn",
+    "short": "T.Quinn",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -7915,6 +8099,7 @@
   {
     "position": "QB",
     "name": "Jimmy Garoppolo",
+    "short": "J.Garoppolo",
     "rank": 140,
     "tier": 20,
     "adp": 153,
@@ -7958,6 +8143,7 @@
   {
     "position": "WR",
     "name": "David Moore",
+    "short": "D.Moore",
     "rank": "",
     "tier": "25",
     "adp": "#N/A",
@@ -8001,6 +8187,7 @@
   {
     "position": "WR",
     "name": "Marquise Brown",
+    "short": "M.Brown",
     "rank": 194,
     "tier": 24,
     "adp": 182,
@@ -8044,6 +8231,7 @@
   {
     "position": "WR",
     "name": "Nelson Agholor",
+    "short": "N.Agholor",
     "rank": "",
     "tier": 29,
     "adp": 205,
@@ -8087,6 +8275,7 @@
   {
     "position": "TE",
     "name": "Will Dissly",
+    "short": "W.Dissly",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -8130,6 +8319,7 @@
   {
     "position": "TE",
     "name": "Vernon Davis",
+    "short": "V.Davis",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -8173,6 +8363,7 @@
   {
     "position": "WR",
     "name": "Mecole Hardman",
+    "short": "M.Hardman",
     "rank": 197,
     "tier": 24,
     "adp": 161,
@@ -8216,6 +8407,7 @@
   {
     "position": "TE",
     "name": "Gerald Everett",
+    "short": "G.Everett",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -8259,6 +8451,7 @@
   {
     "position": "RB",
     "name": "Damarea Crockett",
+    "short": "D.Crockett",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -8302,6 +8495,7 @@
   {
     "position": "QB",
     "name": "Josh Allen",
+    "short": "J.Allen",
     "rank": 133,
     "tier": 19,
     "adp": 158,
@@ -8345,6 +8539,7 @@
   {
     "position": "RB",
     "name": "Carlos Hyde",
+    "short": "C.Hyde",
     "rank": "",
     "tier": "20",
     "adp": 145,
@@ -8388,6 +8583,7 @@
   {
     "position": "WR",
     "name": "John Ross",
+    "short": "J.Ross",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -8431,6 +8627,7 @@
   {
     "position": "WR",
     "name": "Willie Snead",
+    "short": "W.Snead",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -8474,6 +8671,7 @@
   {
     "position": "QB",
     "name": "Matthew Stafford",
+    "short": "M.Stafford",
     "rank": 163,
     "tier": 21,
     "adp": 162,
@@ -8517,6 +8715,7 @@
   {
     "position": "WR",
     "name": "Cole Beasley",
+    "short": "C.Beasley",
     "rank": "",
     "tier": 29,
     "adp": 225,
@@ -8560,6 +8759,7 @@
   {
     "position": "TE",
     "name": "Geoff Swaim",
+    "short": "G.Swaim",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -8603,6 +8803,7 @@
   {
     "position": "TE",
     "name": "Cameron Brate",
+    "short": "C.Brate",
     "rank": "",
     "tier": 29,
     "adp": 242,
@@ -8646,6 +8847,7 @@
   {
     "position": "QB",
     "name": "Derek Carr",
+    "short": "D.Carr",
     "rank": 172,
     "tier": 22,
     "adp": 155,
@@ -8689,6 +8891,7 @@
   {
     "position": "WR",
     "name": "Michael Crabtree",
+    "short": "M.Crabtree",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -8732,6 +8935,7 @@
   {
     "position": "QB",
     "name": "Andy Dalton",
+    "short": "A.Dalton",
     "rank": 188,
     "tier": 24,
     "adp": 229,
@@ -8775,6 +8979,7 @@
   {
     "position": "WR",
     "name": "Josh Doctson",
+    "short": "J.Doctson",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -8818,6 +9023,7 @@
   {
     "position": "RB",
     "name": "Alexander Mattison",
+    "short": "A.Mattison",
     "rank": 180,
     "tier": 23,
     "adp": 172,
@@ -8861,6 +9067,7 @@
   {
     "position": "WR",
     "name": "Rashard Higgins",
+    "short": "R.Higgins",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -8904,6 +9111,7 @@
   {
     "position": "RB",
     "name": "Doug Martin",
+    "short": "D.Martin",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -8942,6 +9150,7 @@
   {
     "position": "RB",
     "name": "Frank Gore",
+    "short": "F.Gore",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -8985,6 +9194,7 @@
   {
     "position": "RB",
     "name": "Rex Burkhead",
+    "short": "R.Burkhead",
     "rank": "",
     "tier": 29,
     "adp": 231,
@@ -9028,6 +9238,7 @@
   {
     "position": "WR",
     "name": "Breshad Perriman",
+    "short": "B.Perriman",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -9071,6 +9282,7 @@
   {
     "position": "WR",
     "name": "Travis Benjamin",
+    "short": "T.Benjamin",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -9114,6 +9326,7 @@
   {
     "position": "RB",
     "name": "Rod Smith",
+    "short": "R.Smith",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -9158,6 +9371,7 @@
   {
     "position": "QB",
     "name": "Sam Darnold",
+    "short": "S.Darnold",
     "rank": 152,
     "tier": 20,
     "adp": 167,
@@ -9201,6 +9415,7 @@
   {
     "position": "WR",
     "name": "DJ Chark",
+    "short": "D.Chark",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -9244,6 +9459,7 @@
   {
     "position": "RB",
     "name": "Alfred Blue",
+    "short": "A.Blue",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -9287,6 +9503,7 @@
   {
     "position": "WR",
     "name": "Chris Conley",
+    "short": "C.Conley",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -9330,6 +9547,7 @@
   {
     "position": "WR",
     "name": "Terry McLaurin",
+    "short": "T.McLaurin",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -9373,6 +9591,7 @@
   {
     "position": "RB",
     "name": "Gus Edwards",
+    "short": "G.Edwards",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -9416,6 +9635,7 @@
   {
     "position": "WR",
     "name": "Cordarrelle Patterson",
+    "short": "C.Patterson",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -9459,6 +9679,7 @@
   {
     "position": "WR",
     "name": "KeeSean Johnson",
+    "short": "K.Johnson",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -9502,6 +9723,7 @@
   {
     "position": "WR",
     "name": "Chris Moore",
+    "short": "C.Moore",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -9545,6 +9767,7 @@
   {
     "position": "RB",
     "name": "Ty Montgomery",
+    "short": "T.Montgomery",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -9588,6 +9811,7 @@
   {
     "position": "WR",
     "name": "JJ Arcega-Whiteside",
+    "short": "J.Arcega-Whiteside",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -9631,6 +9855,7 @@
   {
     "position": "RB",
     "name": "Chase Edmonds",
+    "short": "C.Edmonds",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -9674,6 +9899,7 @@
   {
     "position": "WR",
     "name": "Demarcus Robinson",
+    "short": "D.Robinson",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -9717,6 +9943,7 @@
   {
     "position": "RB",
     "name": "Dontrell Hilliard",
+    "short": "D.Hilliard",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -9760,6 +9987,7 @@
   {
     "position": "WR",
     "name": "Miles Boykin",
+    "short": "M.Boykin",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -9803,6 +10031,7 @@
   {
     "position": "RB",
     "name": "Ryquell Armstead",
+    "short": "R.Armstead",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -9846,6 +10075,7 @@
   {
     "position": "WR",
     "name": "Hunter Renfrow",
+    "short": "H.Renfrow",
     "rank": "",
     "tier": 29,
     "adp": 249,
@@ -9889,6 +10119,7 @@
   {
     "position": "QB",
     "name": "Nick Foles",
+    "short": "N.Foles",
     "rank": 190,
     "tier": 24,
     "adp": 171,
@@ -9932,6 +10163,7 @@
   {
     "position": "WR",
     "name": "Andy Isabella",
+    "short": "A.Isabella",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -9975,6 +10207,7 @@
   {
     "position": "RB",
     "name": "Mark Walton",
+    "short": "M.Walton",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -10018,6 +10251,7 @@
   {
     "position": "WR",
     "name": "Preston Williams",
+    "short": "P.Williams",
     "rank": "",
     "tier": 29,
     "adp": 247,
@@ -10061,6 +10295,7 @@
   {
     "position": "RB",
     "name": "Bruce Anderson",
+    "short": "B.Anderson",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -10105,6 +10340,7 @@
   {
     "position": "RB",
     "name": "Theo Riddick",
+    "short": "T.Riddick",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -10148,6 +10384,7 @@
   {
     "position": "WR",
     "name": "Chris Hogan",
+    "short": "C.Hogan",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -10191,6 +10428,7 @@
   {
     "position": "WR",
     "name": "Taywan Taylor",
+    "short": "T.Taylor",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -10234,6 +10472,7 @@
   {
     "position": "RB",
     "name": "Cameron Artis-Payne",
+    "short": "C.Artis-Payne",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -10278,6 +10517,7 @@
   {
     "position": "RB",
     "name": "Kyle Juszczyk",
+    "short": "K.Juszczyk",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -10321,6 +10561,7 @@
   {
     "position": "RB",
     "name": "CJ Ham",
+    "short": "C.Ham",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -10365,6 +10606,7 @@
   {
     "position": "WR",
     "name": "Jalen Hurd",
+    "short": "J.Hurd",
     "rank": "",
     "tier": 29,
     "adp": 243,
@@ -10408,6 +10650,7 @@
   {
     "position": "WR",
     "name": "Josh Reynolds",
+    "short": "J.Reynolds",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -10451,6 +10694,7 @@
   {
     "position": "WR",
     "name": "Diontae Johnson",
+    "short": "D.Johnson",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -10494,6 +10738,7 @@
   {
     "position": "WR",
     "name": "Jakeem Grant",
+    "short": "J.Grant",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -10537,6 +10782,7 @@
   {
     "position": "WR",
     "name": "JJ Nelson",
+    "short": "J.Nelson",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -10580,6 +10826,7 @@
   {
     "position": "RB",
     "name": "Taquan Mizzell",
+    "short": "T.Mizzell",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -10624,6 +10871,7 @@
   {
     "position": "WR",
     "name": "Antonio Callaway",
+    "short": "A.Callaway",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -10667,6 +10915,7 @@
   {
     "position": "WR",
     "name": "Jarius Wright",
+    "short": "J.Wright",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -10710,6 +10959,7 @@
   {
     "position": "WR",
     "name": "Trent Taylor",
+    "short": "T.Taylor",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -10753,6 +11003,7 @@
   {
     "position": "WR",
     "name": "Seth Roberts",
+    "short": "S.Roberts",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -10796,6 +11047,7 @@
   {
     "position": "RB",
     "name": "Zach Line",
+    "short": "Z.Line",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -10840,6 +11092,7 @@
   {
     "position": "RB",
     "name": "Bryce Love",
+    "short": "B.Love",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -10884,6 +11137,7 @@
   {
     "position": "RB",
     "name": "Wendell Smallwood",
+    "short": "W.Smallwood",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -10927,6 +11181,7 @@
   {
     "position": "RB",
     "name": "Dexter Williams",
+    "short": "D.Williams",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -10970,6 +11225,7 @@
   {
     "position": "RB",
     "name": "Josh Adams",
+    "short": "J.Adams",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -11013,6 +11269,7 @@
   {
     "position": "WR",
     "name": "Keelan Cole",
+    "short": "K.Cole",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -11056,6 +11313,7 @@
   {
     "position": "RB",
     "name": "TJ Yeldon",
+    "short": "T.Yeldon",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -11099,6 +11357,7 @@
   {
     "position": "RB",
     "name": "Corey Clement",
+    "short": "C.Clement",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -11142,6 +11401,7 @@
   {
     "position": "RB",
     "name": "Benny Snell",
+    "short": "B.Snell",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -11185,6 +11445,7 @@
   {
     "position": "RB",
     "name": "Karan Higdon",
+    "short": "K.Higdon",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -11228,6 +11489,7 @@
   {
     "position": "WR",
     "name": "Justin Watson",
+    "short": "J.Watson",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -11271,6 +11533,7 @@
   {
     "position": "RB",
     "name": "James Develin",
+    "short": "J.Develin",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -11315,6 +11578,7 @@
   {
     "position": "RB",
     "name": "Alex Armah",
+    "short": "A.Armah",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -11359,6 +11623,7 @@
   {
     "position": "RB",
     "name": "Derek Watt",
+    "short": "D.Watt",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -11403,6 +11668,7 @@
   {
     "position": "RB",
     "name": "Jamize Olawale",
+    "short": "J.Olawale",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -11447,6 +11713,7 @@
   {
     "position": "RB",
     "name": "Quinton Flowers",
+    "short": "Q.Flowers",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -11491,6 +11758,7 @@
   {
     "position": "RB",
     "name": "CJ Prosise",
+    "short": "C.Prosise",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -11534,6 +11802,7 @@
   {
     "position": "RB",
     "name": "Darren Sproles",
+    "short": "D.Sproles",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -11577,6 +11846,7 @@
   {
     "position": "RB",
     "name": "Wayne Gallman",
+    "short": "W.Gallman",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -11620,6 +11890,7 @@
   {
     "position": "WR",
     "name": "Chad Beebe",
+    "short": "C.Beebe",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -11663,6 +11934,7 @@
   {
     "position": "WR",
     "name": "Tim Patrick",
+    "short": "T.Patrick",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -11706,6 +11978,7 @@
   {
     "position": "WR",
     "name": "Bennie Fowler",
+    "short": "B.Fowler",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -11749,6 +12022,7 @@
   {
     "position": "WR",
     "name": "Keith Kirkwood",
+    "short": "K.Kirkwood",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -11792,6 +12066,7 @@
   {
     "position": "RB",
     "name": "DeAndre Washington",
+    "short": "D.Washington",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -11835,6 +12110,7 @@
   {
     "position": "RB",
     "name": "Samaje Perine",
+    "short": "S.Perine",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -11879,6 +12155,7 @@
   {
     "position": "RB",
     "name": "Andy Janovich",
+    "short": "A.Janovich",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -11923,6 +12200,7 @@
   {
     "position": "QB",
     "name": "Marcus Mariota",
+    "short": "M.Mariota",
     "rank": "",
     "tier": "25",
     "adp": 228,
@@ -11966,6 +12244,7 @@
   {
     "position": "RB",
     "name": "Andre Ellington",
+    "short": "A.Ellington",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -12009,6 +12288,7 @@
   {
     "position": "RB",
     "name": "JD McKissic",
+    "short": "J.McKissic",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -12052,6 +12332,7 @@
   {
     "position": "WR",
     "name": "Equanimeous St Brown",
+    "short": "E.St",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -12096,6 +12377,7 @@
   {
     "position": "RB",
     "name": "Jordan Wilkins",
+    "short": "J.Wilkins",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -12139,6 +12421,7 @@
   {
     "position": "WR",
     "name": "Chester Rogers",
+    "short": "C.Rogers",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -12182,6 +12465,7 @@
   {
     "position": "RB",
     "name": "Mike Boone",
+    "short": "M.Boone",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -12225,6 +12509,7 @@
   {
     "position": "RB",
     "name": "Kenjon Barner",
+    "short": "K.Barner",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -12269,6 +12554,7 @@
   {
     "position": "WR",
     "name": "Jake Kumerow",
+    "short": "J.Kumerow",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -12312,6 +12598,7 @@
   {
     "position": "RB",
     "name": "David Fluellen",
+    "short": "D.Fluellen",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -12356,6 +12643,7 @@
   {
     "position": "RB",
     "name": "Paul Perkins",
+    "short": "P.Perkins",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -12399,6 +12687,7 @@
   {
     "position": "RB",
     "name": "Trayveon Williams",
+    "short": "T.Williams",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -12442,6 +12731,7 @@
   {
     "position": "WR",
     "name": "Jaron Brown",
+    "short": "J.Brown",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -12485,6 +12775,7 @@
   {
     "position": "WR",
     "name": "Cody Latimer",
+    "short": "C.Latimer",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -12528,6 +12819,7 @@
   {
     "position": "RB",
     "name": "Zach Zenner",
+    "short": "Z.Zenner",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -12572,6 +12864,7 @@
   {
     "position": "RB",
     "name": "Malcolm Brown",
+    "short": "M.Brown",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -12615,6 +12908,7 @@
   {
     "position": "RB",
     "name": "Darrel Williams",
+    "short": "D.Williams",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -12658,6 +12952,7 @@
   {
     "position": "RB",
     "name": "Travis Homer",
+    "short": "T.Homer",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -12701,6 +12996,7 @@
   {
     "position": "RB",
     "name": "TJ Logan",
+    "short": "T.Logan",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -12745,6 +13041,7 @@
   {
     "position": "WR",
     "name": "Phillip Dorsett",
+    "short": "P.Dorsett",
     "rank": "",
     "tier": 29,
     "adp": 250,
@@ -12788,6 +13085,7 @@
   {
     "position": "RB",
     "name": "Kenneth Dixon",
+    "short": "K.Dixon",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -12831,6 +13129,7 @@
   {
     "position": "WR",
     "name": "Demaryius Thomas",
+    "short": "D.Thomas",
     "rank": "",
     "tier": 29,
     "adp": 248,
@@ -12874,6 +13173,7 @@
   {
     "position": "RB",
     "name": "Josh Ferguson",
+    "short": "J.Ferguson",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -12918,6 +13218,7 @@
   {
     "position": "RB",
     "name": "Elijah McGuire",
+    "short": "E.McGuire",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -12962,6 +13263,7 @@
   {
     "position": "RB",
     "name": "Raheem Mostert",
+    "short": "R.Mostert",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -13005,6 +13307,7 @@
   {
     "position": "RB",
     "name": "Darius Jackson",
+    "short": "D.Jackson",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -13048,6 +13351,7 @@
   {
     "position": "WR",
     "name": "Gary Jennings",
+    "short": "G.Jennings",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -13091,6 +13395,7 @@
   {
     "position": "RB",
     "name": "Anthony Sherman",
+    "short": "A.Sherman",
     "rank": "",
     "tier": 29,
     "adp": "#N/A",
@@ -13135,6 +13440,7 @@
   {
     "position": "QB",
     "name": "Eli Manning",
+    "short": "E.Manning",
     "rank": "",
     "tier": "28",
     "adp": 241,
@@ -13178,6 +13484,7 @@
   {
     "position": "QB",
     "name": "Joe Flacco",
+    "short": "J.Flacco",
     "rank": "",
     "tier": "28",
     "adp": 233,
@@ -13221,6 +13528,7 @@
   {
     "position": "QB",
     "name": "Dwayne Haskins",
+    "short": "D.Haskins",
     "rank": "",
     "tier": "28",
     "adp": 244,
@@ -13264,6 +13572,7 @@
   {
     "position": "QB",
     "name": "Josh Rosen",
+    "short": "J.Rosen",
     "rank": "",
     "tier": "28",
     "adp": "#N/A",
