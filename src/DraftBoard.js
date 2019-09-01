@@ -110,16 +110,17 @@ class DraftBoard extends Component {
             format={ this.state.format }
             query={ this.state.query }
           />
-          <UndraftedPositions
-            players={ this.state.players }
-            draft={(p) => this.draft(p)}
-          />
           <Drafted
             currentDraft={ this.state.currentDraft }
             players={ this.state.players }
             undo={ (c) => this.undo(c) }
             reset={ () => this.reset() }
           />
+          <UndraftedPositions
+            players={ this.state.players }
+            draft={(p) => this.draft(p)}
+          />
+                    
         </div>
       );
     }

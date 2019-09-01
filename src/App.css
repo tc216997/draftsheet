@@ -28,6 +28,9 @@ html, body {
 table {
   border-collapse: collapse;
 }
+.td-header {
+  font-weight: strong;
+}
 
 .table-condensed > tbody > tr > td {
   padding: 3px;
@@ -35,6 +38,7 @@ table {
   border: 1px solid black;
   text-align: center;
 }
+
 
 #wrap {
   min-height: 100%;

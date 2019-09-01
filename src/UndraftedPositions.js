@@ -3,54 +3,50 @@ import React from 'react';
 import Undrafted from './Undrafted'
 
 function UndraftedPositions(props) {
-  const fields = ['tier', 'name',  'touches', 'total_yards', 'floor_per_week'] ;
+  const fields = ['tier', 'name',  'touches', 'yards', 'floor', 'proj_yds' ,'proj_fl'] ;
 
   return (
-    <div className='col-md-6 col-sm-12 hidden-xs'>
+    <div className='col-md-12 col-sm-12 hidden-xs'>
       <div className='aid-title'>
         <i className='fa fa-signal'></i> Top Picks By Position
       </div>
 
       <div className='col-sm-6'>
-        <span className="col-sm-12 position-title">Runningbacks</span>
         <Undrafted
           fields={fields}
           players={props.players}
           draft={(p) => props.draft(p)}
-          size={20}
+          size={16}
           position='RB'
         />
       </div>
 
       <div className='col-sm-6'>
-        <span className="col-sm-12 position-title">Wide Receivers</span>
         <Undrafted
           fields={fields}
           players={props.players}
           draft={(p) => props.draft(p)}
-          size={20}
+          size={16}
           position='WR'
         />
       </div>
 
       <div className='col-sm-6'>
-        <span className="col-sm-12 position-title">Quarterbacks</span>
         <Undrafted
           fields={fields}
           players={props.players}
           draft={(p) => props.draft(p)}
-          size={10}
+          size={16}
           position='QB'
         />
       </div>
 
       <div className='col-sm-6'>
-        <span className="col-sm-12 position-title">Tightends</span>
         <Undrafted
           fields={fields}
           players={props.players}
           draft={(p) => props.draft(p)}
-          size={10}
+          size={16}
           position='TE'
         />
       </div>

@@ -17,6 +17,28 @@ class PlayerTable extends PureComponent {
     });
   }
 
+  headers() {
+    let players = this.props.players.slice();
+    if (this.props.size) {
+      players = players.slice(0, this.props.size);
+    }
+    return players.map((player, i) => {
+      if (i === 0) {
+        return (
+          <tr key={i}>
+              {this.tableHeader(player)}
+          </tr>
+        )
+      }
+    });
+  }
+
+  tableHeader(player, fields) {
+    return this.props.fields.map((f, i) => {
+      return <td key={i}><strong>{f.toUpperCase()}</strong></td>     
+    });
+  }
+
   onClick(player) {
     if (this.props.onClick) {
       return this.props.onClick(player);
@@ -43,7 +65,6 @@ class PlayerTable extends PureComponent {
     //this.props.fields === 8
     //this
     return this.props.fields.map((f, i) => {
-      console.log(player.total_yards)
       if (f === 'tier') {
         return <td key={i}>Tier {player[f]}</td>
       } else if (f === 'name') {
@@ -64,25 +85,14 @@ class PlayerTable extends PureComponent {
       else {
         return <td key={i}>{player[f]}</td>
       }        
-
     });
   }
 
   render() {
-    //console.log(this.props.players.length)
-    //console.log(this.props.fields)
-    let headers = []
-    let fields = this.props.fields
-    for (let i = 0; i < fields; i++) {
-      let text = fields[i].toUpperCase()
-      let temp = (<th>{text}</th>)
-      console.log(temp)
-      headers.push(temp)
-    }
-
     return (
       <table className='table table-condensed table-hover table-striped'>
         <tbody>
+          {this.headers()}
           {this.rows()}
         </tbody>
       </table>
