@@ -3,7 +3,7 @@ import React from 'react';
 import Undrafted from './Undrafted'
 
 function UndraftedPositions(props) {
-  const fields = ['value', 'name', 'top12', 'played', 'team', 'total_yards'] ;
+  const fields = ['tier', 'name',  'touches', 'total_yards', 'floor_per_week'] ;
 
   return (
     <div className='col-md-6 col-sm-12 hidden-xs'>
