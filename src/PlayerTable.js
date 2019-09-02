@@ -25,7 +25,7 @@ class PlayerTable extends PureComponent {
     return players.map((player, i) => {
       if (i === 0) {
         return (
-          <tr key={i}>
+          <tr className="header-row" key={i}>
               {this.tableHeader(player)}
           </tr>
         )

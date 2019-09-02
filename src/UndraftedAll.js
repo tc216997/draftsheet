@@ -11,14 +11,8 @@ function UndraftedAll(props) {
       </div>
 
       <div className="row form-group">
-        
-        <div className="form-group col-md-4">
-          <select value={ props.format } onChange={ props.fetch } >
-            <option value="sleeper">sleeper adp</option>
-            <option value="yahoo">yahoo adp</option>
-          </select>
-        </div>
-        <div className="col-md-8">
+
+        <div className="col-md-12">
           <input
             type="text"
             className="form-control"
@@ -32,7 +26,7 @@ function UndraftedAll(props) {
 
       <div className='scrollable overall-rankings'>
         <Undrafted
-          fields={['tier', 'value', 'name', 'top 12', 'top 24', 'gp', 'touches', 'tgt', 'yards', 'floor', 'proj yds', 'proj tds', 'proj fl' ]}
+          fields={['tier','value', 'name', 'proj fl', 'gp', 'proj yds', 'proj tds', 'top 12', 'top 24', 'touches', 'tgt', 'yards', 'tds', 'floor']}
           players={props.players}
           draft={(p) => props.draft(p)}
         />
