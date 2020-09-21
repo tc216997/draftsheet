@@ -1,0 +1,2290 @@
+[
+    {
+        "player": "Lamar Jackson",
+        "stats": 27.8
+    },
+    {
+        "player": "Christian McCaffrey",
+        "stats": 26.4
+    },
+    {
+        "player": "Deshaun Watson",
+        "stats": 22.8
+    },
+    {
+        "player": "Dak Prescott",
+        "stats": 22.7
+    },
+    {
+        "player": "Russell Wilson",
+        "stats": 22.6
+    },
+    {
+        "player": "Patrick Mahomes",
+        "stats": 21.6
+    },
+    {
+        "player": "Matthew Stafford",
+        "stats": 21.4
+    },
+    {
+        "player": "Josh Allen",
+        "stats": 20.7
+    },
+    {
+        "player": "Dalvin Cook",
+        "stats": 20.5
+    },
+    {
+        "player": "Kyler Murray",
+        "stats": 19.9
+    },
+    {
+        "player": "Jameis Winston",
+        "stats": 19.4
+    },
+    {
+        "player": "Matt Ryan",
+        "stats": 19
+    },
+    {
+        "player": "Aaron Rodgers",
+        "stats": 18.9
+    },
+    {
+        "player": "Michael Thomas",
+        "stats": 18.3
+    },
+    {
+        "player": "David Blough",
+        "stats": 18.3
+    },
+    {
+        "player": "Kirk Cousins",
+        "stats": 18
+    },
+    {
+        "player": "Derrick Henry",
+        "stats": 17.9
+    },
+    {
+        "player": "Tom Brady",
+        "stats": 17.8
+    },
+    {
+        "player": "Chris Godwin",
+        "stats": 17.2
+    },
+    {
+        "player": "Carson Wentz",
+        "stats": 17.1
+    },
+    {
+        "player": "New England Patriots",
+        "stats": 17
+    },
+    {
+        "player": "Aaron Jones",
+        "stats": 16.9
+    },
+    {
+        "player": "Ryan Tannehill",
+        "stats": 16.9
+    },
+    {
+        "player": "Austin Ekeler",
+        "stats": 16.7
+    },
+    {
+        "player": "Andy Dalton",
+        "stats": 16.5
+    },
+    {
+        "player": "Drew Brees",
+        "stats": 16.5
+    },
+    {
+        "player": "Ezekiel Elliott",
+        "stats": 16.3
+    },
+    {
+        "player": "Gardner Minshew II",
+        "stats": 16.3
+    },
+    {
+        "player": "Sam Darnold",
+        "stats": 16.3
+    },
+    {
+        "player": "Jimmy Garoppolo",
+        "stats": 16.2
+    },
+    {
+        "player": "Nick Chubb",
+        "stats": 16.1
+    },
+    {
+        "player": "Leonard Fournette",
+        "stats": 16
+    },
+    {
+        "player": "Daniel Jones",
+        "stats": 16
+    },
+    {
+        "player": "Philip Rivers",
+        "stats": 15.9
+    },
+    {
+        "player": "Jacoby Brissett",
+        "stats": 15.8
+    },
+    {
+        "player": "Mike Evans",
+        "stats": 15.6
+    },
+    {
+        "player": "Jeff Driskel",
+        "stats": 15.4
+    },
+    {
+        "player": "Mark Ingram II",
+        "stats": 15.1
+    },
+    {
+        "player": "Baker Mayfield",
+        "stats": 15.1
+    },
+    {
+        "player": "Jared Goff",
+        "stats": 15
+    },
+    {
+        "player": "Alvin Kamara",
+        "stats": 14.8
+    },
+    {
+        "player": "Ryan Fitzpatrick",
+        "stats": 14.7
+    },
+    {
+        "player": "DeAndre Hopkins",
+        "stats": 14.6
+    },
+    {
+        "player": "Derek Carr",
+        "stats": 14.6
+    },
+    {
+        "player": "Marcus Mariota",
+        "stats": 14.4
+    },
+    {
+        "player": "Amari Cooper",
+        "stats": 14.3
+    },
+    {
+        "player": "Kenny Golladay",
+        "stats": 14.2
+    },
+    {
+        "player": "John Ross",
+        "stats": 14.2
+    },
+    {
+        "player": "Chris Carson",
+        "stats": 14.2
+    },
+    {
+        "player": "D.J. Chark",
+        "stats": 14.1
+    },
+    {
+        "player": "Antonio Brown",
+        "stats": 14.1
+    },
+    {
+        "player": "Austin Hooper",
+        "stats": 14.1
+    },
+    {
+        "player": "Josh Jacobs",
+        "stats": 14.1
+    },
+    {
+        "player": "Julian Edelman",
+        "stats": 14
+    },
+    {
+        "player": "Cooper Kupp",
+        "stats": 14
+    },
+    {
+        "player": "James Conner",
+        "stats": 14
+    },
+    {
+        "player": "Drew Lock",
+        "stats": 13.9
+    },
+    {
+        "player": "Davante Adams",
+        "stats": 13.8
+    },
+    {
+        "player": "Tyreek Hill",
+        "stats": 13.8
+    },
+    {
+        "player": "Julio Jones",
+        "stats": 13.7
+    },
+    {
+        "player": "Eli Manning",
+        "stats": 13.5
+    },
+    {
+        "player": "Saquon Barkley",
+        "stats": 13.4
+    },
+    {
+        "player": "Kyle Allen",
+        "stats": 13.4
+    },
+    {
+        "player": "D.J. Moore",
+        "stats": 13.3
+    },
+    {
+        "player": "Mitch Trubisky",
+        "stats": 13.3
+    },
+    {
+        "player": "Marvin Jones",
+        "stats": 13.1
+    },
+    {
+        "player": "Courtland Sutton",
+        "stats": 13.1
+    },
+    {
+        "player": "Keenan Allen",
+        "stats": 13
+    },
+    {
+        "player": "Jarvis Landry",
+        "stats": 13
+    },
+    {
+        "player": "John Brown",
+        "stats": 12.9
+    },
+    {
+        "player": "San Francisco 49ers",
+        "stats": 12.8
+    },
+    {
+        "player": "Le'Veon Bell",
+        "stats": 12.6
+    },
+    {
+        "player": "Todd Gurley",
+        "stats": 12.6
+    },
+    {
+        "player": "Marlon Mack",
+        "stats": 12.6
+    },
+    {
+        "player": "Allen Robinson",
+        "stats": 12.5
+    },
+    {
+        "player": "Tyler Lockett",
+        "stats": 12.5
+    },
+    {
+        "player": "Calvin Ridley",
+        "stats": 12.5
+    },
+    {
+        "player": "Travis Kelce",
+        "stats": 12.5
+    },
+    {
+        "player": "Golden Tate",
+        "stats": 12.4
+    },
+    {
+        "player": "Derrius Guice",
+        "stats": 12.4
+    },
+    {
+        "player": "DeVante Parker",
+        "stats": 12.3
+    },
+    {
+        "player": "Michael Gallup",
+        "stats": 12.2
+    },
+    {
+        "player": "T.Y. Hilton",
+        "stats": 12.2
+    },
+    {
+        "player": "Stefon Diggs",
+        "stats": 12.1
+    },
+    {
+        "player": "Melvin Gordon",
+        "stats": 12.1
+    },
+    {
+        "player": "Mason Rudolph",
+        "stats": 12.1
+    },
+    {
+        "player": "Pittsburgh Steelers",
+        "stats": 11.9
+    },
+    {
+        "player": "Adam Thielen",
+        "stats": 11.8
+    },
+    {
+        "player": "Jordan Howard",
+        "stats": 11.8
+    },
+    {
+        "player": "Robert Woods",
+        "stats": 11.7
+    },
+    {
+        "player": "Phillip Lindsay",
+        "stats": 11.7
+    },
+    {
+        "player": "Devin Singletary",
+        "stats": 11.7
+    },
+    {
+        "player": "Teddy Bridgewater",
+        "stats": 11.6
+    },
+    {
+        "player": "Sterling Shepard",
+        "stats": 11.5
+    },
+    {
+        "player": "George Kittle",
+        "stats": 11.5
+    },
+    {
+        "player": "James White",
+        "stats": 11.5
+    },
+    {
+        "player": "Tevin Coleman",
+        "stats": 11.5
+    },
+    {
+        "player": "Brandon Allen",
+        "stats": 11.5
+    },
+    {
+        "player": "Christian Kirk",
+        "stats": 11.4
+    },
+    {
+        "player": "Mark Andrews",
+        "stats": 11.3
+    },
+    {
+        "player": "Hunter Henry",
+        "stats": 11.3
+    },
+    {
+        "player": "Younghoe Koo",
+        "stats": 11.3
+    },
+    {
+        "player": "Alshon Jeffery",
+        "stats": 11.2
+    },
+    {
+        "player": "Joe Flacco",
+        "stats": 11.2
+    },
+    {
+        "player": "Will Fuller",
+        "stats": 11
+    },
+    {
+        "player": "Darren Waller",
+        "stats": 11
+    },
+    {
+        "player": "Evan Engram",
+        "stats": 10.9
+    },
+    {
+        "player": "David Johnson",
+        "stats": 10.9
+    },
+    {
+        "player": "DeSean Jackson",
+        "stats": 10.8
+    },
+    {
+        "player": "Devonta Freeman",
+        "stats": 10.7
+    },
+    {
+        "player": "Kerryon Johnson",
+        "stats": 10.7
+    },
+    {
+        "player": "Marquise Brown",
+        "stats": 10.6
+    },
+    {
+        "player": "Zach Ertz",
+        "stats": 10.6
+    },
+    {
+        "player": "Tyler Boyd",
+        "stats": 10.5
+    },
+    {
+        "player": "Terry McLaurin",
+        "stats": 10.5
+    },
+    {
+        "player": "Joe Mixon",
+        "stats": 10.5
+    },
+    {
+        "player": "Will Dissly",
+        "stats": 10.4
+    },
+    {
+        "player": "Jamaal Williams",
+        "stats": 10.4
+    },
+    {
+        "player": "Wil Lutz",
+        "stats": 10.4
+    },
+    {
+        "player": "Harrison Butker",
+        "stats": 10.4
+    },
+    {
+        "player": "Cole Beasley",
+        "stats": 10.3
+    },
+    {
+        "player": "David Montgomery",
+        "stats": 10.2
+    },
+    {
+        "player": "Miles Sanders",
+        "stats": 10.2
+    },
+    {
+        "player": "Odell Beckham Jr.",
+        "stats": 10.1
+    },
+    {
+        "player": "Case Keenum",
+        "stats": 10.1
+    },
+    {
+        "player": "Curtis Samuel",
+        "stats": 10
+    },
+    {
+        "player": "D.K. Metcalf",
+        "stats": 10
+    },
+    {
+        "player": "Darius Slayton",
+        "stats": 9.9
+    },
+    {
+        "player": "Nick Foles",
+        "stats": 9.9
+    },
+    {
+        "player": "Justin Tucker",
+        "stats": 9.9
+    },
+    {
+        "player": "Deebo Samuel",
+        "stats": 9.7
+    },
+    {
+        "player": "Los Angeles Rams",
+        "stats": 9.7
+    },
+    {
+        "player": "Tyrell Williams",
+        "stats": 9.5
+    },
+    {
+        "player": "Matt Breida",
+        "stats": 9.5
+    },
+    {
+        "player": "Jonathan Williams",
+        "stats": 9.5
+    },
+    {
+        "player": "Matt Gay",
+        "stats": 9.5
+    },
+    {
+        "player": "Baltimore Ravens",
+        "stats": 9.5
+    },
+    {
+        "player": "Preston Williams",
+        "stats": 9.4
+    },
+    {
+        "player": "Latavius Murray",
+        "stats": 9.4
+    },
+    {
+        "player": "Kenyan Drake",
+        "stats": 9.4
+    },
+    {
+        "player": "Larry Fitzgerald",
+        "stats": 9.3
+    },
+    {
+        "player": "Carlos Hyde",
+        "stats": 9.3
+    },
+    {
+        "player": "Kareem Hunt",
+        "stats": 9.3
+    },
+    {
+        "player": "Randall Cobb",
+        "stats": 9.2
+    },
+    {
+        "player": "Sammy Watkins",
+        "stats": 9.2
+    },
+    {
+        "player": "Sony Michel",
+        "stats": 9.2
+    },
+    {
+        "player": "Bo Scarbrough",
+        "stats": 9.2
+    },
+    {
+        "player": "Matt Prater",
+        "stats": 9.2
+    },
+    {
+        "player": "Tennessee Titans",
+        "stats": 9.2
+    },
+    {
+        "player": "Ronald Jones II",
+        "stats": 9
+    },
+    {
+        "player": "Duke Johnson",
+        "stats": 8.9
+    },
+    {
+        "player": "LeSean McCoy",
+        "stats": 8.9
+    },
+    {
+        "player": "Damien Williams",
+        "stats": 8.9
+    },
+    {
+        "player": "Ryan Finley",
+        "stats": 8.9
+    },
+    {
+        "player": "Cam Newton",
+        "stats": 8.9
+    },
+    {
+        "player": "Greg Zuerlein",
+        "stats": 8.9
+    },
+    {
+        "player": "Zane Gonzalez",
+        "stats": 8.9
+    },
+    {
+        "player": "Jamison Crowder",
+        "stats": 8.8
+    },
+    {
+        "player": "Mike Williams",
+        "stats": 8.8
+    },
+    {
+        "player": "New Orleans Saints",
+        "stats": 8.8
+    },
+    {
+        "player": "Emmanuel Sanders",
+        "stats": 8.7
+    },
+    {
+        "player": "JuJu Smith-Schuster",
+        "stats": 8.7
+    },
+    {
+        "player": "Chase McLaughlin",
+        "stats": 8.7
+    },
+    {
+        "player": "Nick Folk",
+        "stats": 8.7
+    },
+    {
+        "player": "A.J. Brown",
+        "stats": 8.6
+    },
+    {
+        "player": "Dede Westbrook",
+        "stats": 8.6
+    },
+    {
+        "player": "Jared Cook",
+        "stats": 8.6
+    },
+    {
+        "player": "Devlin Hodges",
+        "stats": 8.6
+    },
+    {
+        "player": "Matt Moore",
+        "stats": 8.5
+    },
+    {
+        "player": "Kansas City Chiefs",
+        "stats": 8.5
+    },
+    {
+        "player": "Taylor Gabriel",
+        "stats": 8.4
+    },
+    {
+        "player": "Chase Edmonds",
+        "stats": 8.4
+    },
+    {
+        "player": "Chris Boswell",
+        "stats": 8.4
+    },
+    {
+        "player": "Joey Slye",
+        "stats": 8.3
+    },
+    {
+        "player": "Brett Maher",
+        "stats": 8.3
+    },
+    {
+        "player": "Stephen Gostkowski",
+        "stats": 8.3
+    },
+    {
+        "player": "Buffalo Bills",
+        "stats": 8.3
+    },
+    {
+        "player": "Josh Lambo",
+        "stats": 8.2
+    },
+    {
+        "player": "Michael Badgley",
+        "stats": 8.2
+    },
+    {
+        "player": "Seattle Seahawks",
+        "stats": 8.2
+    },
+    {
+        "player": "New York Jets",
+        "stats": 8.2
+    },
+    {
+        "player": "James Washington",
+        "stats": 8.1
+    },
+    {
+        "player": "Phillip Dorsett",
+        "stats": 8.1
+    },
+    {
+        "player": "Brandon McManus",
+        "stats": 8.1
+    },
+    {
+        "player": "Robbie Gould",
+        "stats": 8
+    },
+    {
+        "player": "Chris Conley",
+        "stats": 7.9
+    },
+    {
+        "player": "Royce Freeman",
+        "stats": 7.9
+    },
+    {
+        "player": "Carolina Panthers",
+        "stats": 7.9
+    },
+    {
+        "player": "Peyton Barber",
+        "stats": 7.8
+    },
+    {
+        "player": "Jason Myers",
+        "stats": 7.8
+    },
+    {
+        "player": "Tampa Bay Buccaneers",
+        "stats": 7.8
+    },
+    {
+        "player": "Raheem Mostert",
+        "stats": 7.7
+    },
+    {
+        "player": "Rashaad Penny",
+        "stats": 7.7
+    },
+    {
+        "player": "Robby Anderson",
+        "stats": 7.6
+    },
+    {
+        "player": "Greg Olsen",
+        "stats": 7.6
+    },
+    {
+        "player": "Tarik Cohen",
+        "stats": 7.6
+    },
+    {
+        "player": "Adrian Peterson",
+        "stats": 7.5
+    },
+    {
+        "player": "Chris Thompson",
+        "stats": 7.5
+    },
+    {
+        "player": "Mohamed Sanu",
+        "stats": 7.4
+    },
+    {
+        "player": "Dan Bailey",
+        "stats": 7.4
+    },
+    {
+        "player": "Zach Pascal",
+        "stats": 7.3
+    },
+    {
+        "player": "Kenny Stills",
+        "stats": 7.3
+    },
+    {
+        "player": "Brandin Cooks",
+        "stats": 7.3
+    },
+    {
+        "player": "Darren Fells",
+        "stats": 7.3
+    },
+    {
+        "player": "Jacob Hollister",
+        "stats": 7.3
+    },
+    {
+        "player": "Austin Seibert",
+        "stats": 7.3
+    },
+    {
+        "player": "Minnesota Vikings",
+        "stats": 7.3
+    },
+    {
+        "player": "Danny Amendola",
+        "stats": 7.2
+    },
+    {
+        "player": "Kyle Rudolph",
+        "stats": 7.1
+    },
+    {
+        "player": "Mecole Hardman",
+        "stats": 7
+    },
+    {
+        "player": "Jason Witten",
+        "stats": 7
+    },
+    {
+        "player": "Dwayne Haskins",
+        "stats": 7
+    },
+    {
+        "player": "Chase Daniel",
+        "stats": 7
+    },
+    {
+        "player": "James O'Shaughnessy",
+        "stats": 6.9
+    },
+    {
+        "player": "Jaylen Samuels",
+        "stats": 6.9
+    },
+    {
+        "player": "Ben Roethlisberger",
+        "stats": 6.9
+    },
+    {
+        "player": "Ka'imi Fairbairn",
+        "stats": 6.9
+    },
+    {
+        "player": "Chicago Bears",
+        "stats": 6.9
+    },
+    {
+        "player": "Nelson Agholor",
+        "stats": 6.8
+    },
+    {
+        "player": "Mason Crosby",
+        "stats": 6.8
+    },
+    {
+        "player": "Indianapolis Colts",
+        "stats": 6.8
+    },
+    {
+        "player": "Dallas Cowboys",
+        "stats": 6.8
+    },
+    {
+        "player": "Dallas Goedert",
+        "stats": 6.7
+    },
+    {
+        "player": "Frank Gore",
+        "stats": 6.7
+    },
+    {
+        "player": "Darrel Williams",
+        "stats": 6.7
+    },
+    {
+        "player": "Stephen Hauschka",
+        "stats": 6.7
+    },
+    {
+        "player": "Jake Elliott",
+        "stats": 6.7
+    },
+    {
+        "player": "Adam Vinatieri",
+        "stats": 6.7
+    },
+    {
+        "player": "Philadelphia Eagles",
+        "stats": 6.7
+    },
+    {
+        "player": "Auden Tate",
+        "stats": 6.6
+    },
+    {
+        "player": "Diontae Johnson",
+        "stats": 6.6
+    },
+    {
+        "player": "Ryan Griffin",
+        "stats": 6.6
+    },
+    {
+        "player": "Jack Doyle",
+        "stats": 6.6
+    },
+    {
+        "player": "Gerald Everett",
+        "stats": 6.5
+    },
+    {
+        "player": "Eric Ebron",
+        "stats": 6.5
+    },
+    {
+        "player": "Washington Football Team",
+        "stats": 6.5
+    },
+    {
+        "player": "Jacksonville Jaguars",
+        "stats": 6.5
+    },
+    {
+        "player": "Corey Davis",
+        "stats": 6.4
+    },
+    {
+        "player": "Hunter Renfrow",
+        "stats": 6.3
+    },
+    {
+        "player": "Delanie Walker",
+        "stats": 6.3
+    },
+    {
+        "player": "Brian Hoyer",
+        "stats": 6.3
+    },
+    {
+        "player": "Dustin Hopkins",
+        "stats": 6.3
+    },
+    {
+        "player": "Cleveland Browns",
+        "stats": 6.3
+    },
+    {
+        "player": "Randy Bullock",
+        "stats": 6.2
+    },
+    {
+        "player": "Green Bay Packers",
+        "stats": 6.1
+    },
+    {
+        "player": "Eddy Pineiro",
+        "stats": 6
+    },
+    {
+        "player": "Matt Bryant",
+        "stats": 6
+    },
+    {
+        "player": "Mike Nugent",
+        "stats": 6
+    },
+    {
+        "player": "David Njoku",
+        "stats": 5.9
+    },
+    {
+        "player": "Nyheim Hines",
+        "stats": 5.9
+    },
+    {
+        "player": "New York Giants",
+        "stats": 5.9
+    },
+    {
+        "player": "Demarcus Robinson",
+        "stats": 5.8
+    },
+    {
+        "player": "Demaryius Thomas",
+        "stats": 5.8
+    },
+    {
+        "player": "J.J. Nelson",
+        "stats": 5.8
+    },
+    {
+        "player": "Vernon Davis",
+        "stats": 5.8
+    },
+    {
+        "player": "Denver Broncos",
+        "stats": 5.8
+    },
+    {
+        "player": "Adam Humphries",
+        "stats": 5.7
+    },
+    {
+        "player": "Josh Gordon",
+        "stats": 5.7
+    },
+    {
+        "player": "Mike Gesicki",
+        "stats": 5.7
+    },
+    {
+        "player": "Rex Burkhead",
+        "stats": 5.7
+    },
+    {
+        "player": "Matt Schaub",
+        "stats": 5.7
+    },
+    {
+        "player": "Daniel Carlson",
+        "stats": 5.7
+    },
+    {
+        "player": "Houston Texans",
+        "stats": 5.7
+    },
+    {
+        "player": "Marquez Valdes-Scantling",
+        "stats": 5.6
+    },
+    {
+        "player": "Cairo Santos",
+        "stats": 5.6
+    },
+    {
+        "player": "Anthony Miller",
+        "stats": 5.5
+    },
+    {
+        "player": "Jimmy Graham",
+        "stats": 5.5
+    },
+    {
+        "player": "Tyler Higbee",
+        "stats": 5.5
+    },
+    {
+        "player": "Jason Sanders",
+        "stats": 5.5
+    },
+    {
+        "player": "Willie Snead",
+        "stats": 5.4
+    },
+    {
+        "player": "T.J. Hockenson",
+        "stats": 5.4
+    },
+    {
+        "player": "Sam Ficken",
+        "stats": 5.4
+    },
+    {
+        "player": "Los Angeles Chargers",
+        "stats": 5.4
+    },
+    {
+        "player": "Vance McDonald",
+        "stats": 5.3
+    },
+    {
+        "player": "Gus Edwards",
+        "stats": 5.3
+    },
+    {
+        "player": "Kendrick Bourne",
+        "stats": 5.2
+    },
+    {
+        "player": "Noah Fant",
+        "stats": 5.2
+    },
+    {
+        "player": "Taysom Hill",
+        "stats": 5.2
+    },
+    {
+        "player": "Las Vegas Raiders",
+        "stats": 5.2
+    },
+    {
+        "player": "Ted Ginn",
+        "stats": 5.1
+    },
+    {
+        "player": "Paul Richardson Jr.",
+        "stats": 5.1
+    },
+    {
+        "player": "Justin Jackson",
+        "stats": 5.1
+    },
+    {
+        "player": "Devin Smith",
+        "stats": 5
+    },
+    {
+        "player": "J.D. McKissic",
+        "stats": 5
+    },
+    {
+        "player": "Brian Hill",
+        "stats": 5
+    },
+    {
+        "player": "Duke Williams",
+        "stats": 4.9
+    },
+    {
+        "player": "Mark Walton",
+        "stats": 4.9
+    },
+    {
+        "player": "Allen Lazard",
+        "stats": 4.8
+    },
+    {
+        "player": "Detroit Lions",
+        "stats": 4.8
+    },
+    {
+        "player": "Alex Erickson",
+        "stats": 4.7
+    },
+    {
+        "player": "Allen Hurns",
+        "stats": 4.7
+    },
+    {
+        "player": "Devin Funchess",
+        "stats": 4.7
+    },
+    {
+        "player": "Dawson Knox",
+        "stats": 4.7
+    },
+    {
+        "player": "Alexander Mattison",
+        "stats": 4.7
+    },
+    {
+        "player": "Jordan Akins",
+        "stats": 4.6
+    },
+    {
+        "player": "Blake Jarwin",
+        "stats": 4.6
+    },
+    {
+        "player": "Jesper Horsted",
+        "stats": 4.6
+    },
+    {
+        "player": "Tony Pollard",
+        "stats": 4.6
+    },
+    {
+        "player": "O.J. Howard",
+        "stats": 4.5
+    },
+    {
+        "player": "Jeff Wilson",
+        "stats": 4.5
+    },
+    {
+        "player": "Cody Parkey",
+        "stats": 4.5
+    },
+    {
+        "player": "Bennie Fowler III",
+        "stats": 4.4
+    },
+    {
+        "player": "Parris Campbell",
+        "stats": 4.4
+    },
+    {
+        "player": "Tyler Eifert",
+        "stats": 4.4
+    },
+    {
+        "player": "Ito Smith",
+        "stats": 4.4
+    },
+    {
+        "player": "Aldrick Rosas",
+        "stats": 4.4
+    },
+    {
+        "player": "Dontrelle Inman",
+        "stats": 4.3
+    },
+    {
+        "player": "Wayne Gallman",
+        "stats": 4.3
+    },
+    {
+        "player": "Keke Coutee",
+        "stats": 4.2
+    },
+    {
+        "player": "Kaden Smith",
+        "stats": 4.2
+    },
+    {
+        "player": "Benny Snell Jr.",
+        "stats": 4.2
+    },
+    {
+        "player": "Geronimo Allison",
+        "stats": 4.1
+    },
+    {
+        "player": "Albert Wilson",
+        "stats": 4.1
+    },
+    {
+        "player": "Marcus Johnson",
+        "stats": 4.1
+    },
+    {
+        "player": "Kalif Raymond",
+        "stats": 4.1
+    },
+    {
+        "player": "Foster Moreau",
+        "stats": 4.1
+    },
+    {
+        "player": "Qadree Ollison",
+        "stats": 4.1
+    },
+    {
+        "player": "Russell Gage",
+        "stats": 4
+    },
+    {
+        "player": "Marvin Hall",
+        "stats": 4
+    },
+    {
+        "player": "Tre'Quan Smith",
+        "stats": 4
+    },
+    {
+        "player": "Jonnu Smith",
+        "stats": 4
+    },
+    {
+        "player": "Cameron Brate",
+        "stats": 4
+    },
+    {
+        "player": "Malcolm Brown",
+        "stats": 4
+    },
+    {
+        "player": "Olabisi Johnson",
+        "stats": 3.9
+    },
+    {
+        "player": "David Moore",
+        "stats": 3.9
+    },
+    {
+        "player": "Jaron Brown",
+        "stats": 3.9
+    },
+    {
+        "player": "Irv Smith Jr.",
+        "stats": 3.9
+    },
+    {
+        "player": "Nick Boyle",
+        "stats": 3.9
+    },
+    {
+        "player": "DeAndre Washington",
+        "stats": 3.9
+    },
+    {
+        "player": "Luke Falk",
+        "stats": 3.9
+    },
+    {
+        "player": "Breshad Perriman",
+        "stats": 3.8
+    },
+    {
+        "player": "Pharoh Cooper",
+        "stats": 3.8
+    },
+    {
+        "player": "Damiere Byrd",
+        "stats": 3.8
+    },
+    {
+        "player": "TJ Jones",
+        "stats": 3.8
+    },
+    {
+        "player": "Dare Ogunbowale",
+        "stats": 3.8
+    },
+    {
+        "player": "Josh Rosen",
+        "stats": 3.8
+    },
+    {
+        "player": "Arizona Cardinals",
+        "stats": 3.8
+    },
+    {
+        "player": "Jakobi Meyers",
+        "stats": 3.7
+    },
+    {
+        "player": "Kalen Ballage",
+        "stats": 3.7
+    },
+    {
+        "player": "Jakeem Grant",
+        "stats": 3.6
+    },
+    {
+        "player": "KeeSean Johnson",
+        "stats": 3.6
+    },
+    {
+        "player": "Marquise Goodwin",
+        "stats": 3.6
+    },
+    {
+        "player": "N'Keal Harry",
+        "stats": 3.6
+    },
+    {
+        "player": "Jalen Richard",
+        "stats": 3.6
+    },
+    {
+        "player": "Brandon Bolden",
+        "stats": 3.6
+    },
+    {
+        "player": "Ryan Succop",
+        "stats": 3.6
+    },
+    {
+        "player": "Cincinnati Bengals",
+        "stats": 3.6
+    },
+    {
+        "player": "Isaiah McKenzie",
+        "stats": 3.5
+    },
+    {
+        "player": "Benjamin Watson",
+        "stats": 3.5
+    },
+    {
+        "player": "T.J. Yeldon",
+        "stats": 3.5
+    },
+    {
+        "player": "Atlanta Falcons",
+        "stats": 3.5
+    },
+    {
+        "player": "Tajae Sharpe",
+        "stats": 3.4
+    },
+    {
+        "player": "Ryan Izzo",
+        "stats": 3.4
+    },
+    {
+        "player": "Giovani Bernard",
+        "stats": 3.4
+    },
+    {
+        "player": "Josh Reynolds",
+        "stats": 3.3
+    },
+    {
+        "player": "Cody Latimer",
+        "stats": 3.3
+    },
+    {
+        "player": "Trey Quinn",
+        "stats": 3.2
+    },
+    {
+        "player": "Keelan Cole",
+        "stats": 3.2
+    },
+    {
+        "player": "Hayden Hurst",
+        "stats": 3.2
+    },
+    {
+        "player": "Ricky Seals-Jones",
+        "stats": 3.2
+    },
+    {
+        "player": "Rhett Ellison",
+        "stats": 3.2
+    },
+    {
+        "player": "C.J. Prosise",
+        "stats": 3.2
+    },
+    {
+        "player": "Chester Rogers",
+        "stats": 3.1
+    },
+    {
+        "player": "Miles Boykin",
+        "stats": 3
+    },
+    {
+        "player": "Ty Johnson",
+        "stats": 3
+    },
+    {
+        "player": "Ty Long",
+        "stats": 3
+    },
+    {
+        "player": "Steven Sims",
+        "stats": 2.9
+    },
+    {
+        "player": "Christian Blake",
+        "stats": 2.9
+    },
+    {
+        "player": "Jeremy Sprinkle",
+        "stats": 2.9
+    },
+    {
+        "player": "Demetrius Harris",
+        "stats": 2.8
+    },
+    {
+        "player": "Josh Hill",
+        "stats": 2.8
+    },
+    {
+        "player": "Dontrell Hilliard",
+        "stats": 2.8
+    },
+    {
+        "player": "Jarius Wright",
+        "stats": 2.7
+    },
+    {
+        "player": "Jake Kumerow",
+        "stats": 2.7
+    },
+    {
+        "player": "Tavon Austin",
+        "stats": 2.7
+    },
+    {
+        "player": "Tevin Jones",
+        "stats": 2.7
+    },
+    {
+        "player": "Chad Beebe",
+        "stats": 2.7
+    },
+    {
+        "player": "Greg Ward",
+        "stats": 2.7
+    },
+    {
+        "player": "Kerrith Whyte Jr.",
+        "stats": 2.7
+    },
+    {
+        "player": "Colt McCoy",
+        "stats": 2.7
+    },
+    {
+        "player": "Kelvin Harmon",
+        "stats": 2.6
+    },
+    {
+        "player": "Seth Roberts",
+        "stats": 2.6
+    },
+    {
+        "player": "Andy Isabella",
+        "stats": 2.6
+    },
+    {
+        "player": "Dante Pettis",
+        "stats": 2.6
+    },
+    {
+        "player": "Antonio Callaway",
+        "stats": 2.6
+    },
+    {
+        "player": "Tim Patrick",
+        "stats": 2.6
+    },
+    {
+        "player": "Dion Lewis",
+        "stats": 2.6
+    },
+    {
+        "player": "Patrick Laird",
+        "stats": 2.6
+    },
+    {
+        "player": "Kyle Juszczyk",
+        "stats": 2.6
+    },
+    {
+        "player": "Malik Turner",
+        "stats": 2.5
+    },
+    {
+        "player": "Zay Jones",
+        "stats": 2.5
+    },
+    {
+        "player": "Stephen Carlson",
+        "stats": 2.5
+    },
+    {
+        "player": "Jordan Wilkins",
+        "stats": 2.5
+    },
+    {
+        "player": "Laquon Treadwell",
+        "stats": 2.4
+    },
+    {
+        "player": "Scott Miller",
+        "stats": 2.4
+    },
+    {
+        "player": "Anthony Firkser",
+        "stats": 2.4
+    },
+    {
+        "player": "Robert Griffin",
+        "stats": 2.4
+    },
+    {
+        "player": "Byron Pringle",
+        "stats": 2.3
+    },
+    {
+        "player": "Charles Clay",
+        "stats": 2.3
+    },
+    {
+        "player": "Trey Edmunds",
+        "stats": 2.3
+    },
+    {
+        "player": "Darren Sproles",
+        "stats": 2.3
+    },
+    {
+        "player": "Trevor Davis",
+        "stats": 2.2
+    },
+    {
+        "player": "Geoff Swaim",
+        "stats": 2.2
+    },
+    {
+        "player": "Ryquell Armstead",
+        "stats": 2.2
+    },
+    {
+        "player": "Tra Carson",
+        "stats": 2.2
+    },
+    {
+        "player": "Jonathan Hilliman",
+        "stats": 2.2
+    },
+    {
+        "player": "C.J. Anderson",
+        "stats": 2.2
+    },
+    {
+        "player": "Javon Wims",
+        "stats": 2.1
+    },
+    {
+        "player": "Keelan Doss",
+        "stats": 2.1
+    },
+    {
+        "player": "Ross Dwelley",
+        "stats": 2.1
+    },
+    {
+        "player": "Maxx Williams",
+        "stats": 2.1
+    },
+    {
+        "player": "Jaeden Graham",
+        "stats": 2.1
+    },
+    {
+        "player": "C.J. Uzomah",
+        "stats": 2.1
+    },
+    {
+        "player": "Marcedes Lewis",
+        "stats": 2.1
+    },
+    {
+        "player": "Ross Travis",
+        "stats": 2.1
+    },
+    {
+        "player": "Boston Scott",
+        "stats": 2.1
+    },
+    {
+        "player": "Matt Barkley",
+        "stats": 2.1
+    },
+    {
+        "player": "Miami Dolphins",
+        "stats": 2.1
+    },
+    {
+        "player": "Richie James",
+        "stats": 2
+    },
+    {
+        "player": "Logan Thomas",
+        "stats": 2
+    },
+    {
+        "player": "Darrell Henderson",
+        "stats": 2
+    },
+    {
+        "player": "Kai Forbath",
+        "stats": 2
+    },
+    {
+        "player": "Vyncint Smith",
+        "stats": 1.9
+    },
+    {
+        "player": "Rashard Higgins",
+        "stats": 1.9
+    },
+    {
+        "player": "Cordarrelle Patterson",
+        "stats": 1.8
+    },
+    {
+        "player": "Justin Hardy",
+        "stats": 1.8
+    },
+    {
+        "player": "Jordan Matthews",
+        "stats": 1.8
+    },
+    {
+        "player": "Derek Carrier",
+        "stats": 1.8
+    },
+    {
+        "player": "Ryan Grant",
+        "stats": 1.7
+    },
+    {
+        "player": "Trey Burton",
+        "stats": 1.7
+    },
+    {
+        "player": "CJ Ham",
+        "stats": 1.7
+    },
+    {
+        "player": "Darwin Thompson",
+        "stats": 1.7
+    },
+    {
+        "player": "J.J. Arcega-Whiteside",
+        "stats": 1.6
+    },
+    {
+        "player": "Damion Ratley",
+        "stats": 1.6
+    },
+    {
+        "player": "Da'Mari Scott",
+        "stats": 1.6
+    },
+    {
+        "player": "Reggie Bonnafon",
+        "stats": 1.6
+    },
+    {
+        "player": "Justice Hill",
+        "stats": 1.6
+    },
+    {
+        "player": "Wendell Smallwood",
+        "stats": 1.6
+    },
+    {
+        "player": "Andy Janovich",
+        "stats": 1.6
+    },
+    {
+        "player": "DaeSean Hamilton",
+        "stats": 1.5
+    },
+    {
+        "player": "Mack Hollins",
+        "stats": 1.5
+    },
+    {
+        "player": "Jeff Heuerman",
+        "stats": 1.5
+    },
+    {
+        "player": "Matt LaCosse",
+        "stats": 1.5
+    },
+    {
+        "player": "Luke Willson",
+        "stats": 1.5
+    },
+    {
+        "player": "Adam Shaheen",
+        "stats": 1.5
+    },
+    {
+        "player": "Robert Tonyan",
+        "stats": 1.5
+    },
+    {
+        "player": "Myles Gaskin",
+        "stats": 1.5
+    },
+    {
+        "player": "Deon Cain",
+        "stats": 1.4
+    },
+    {
+        "player": "Cedrick Wilson",
+        "stats": 1.4
+    },
+    {
+        "player": "Michael Crabtree",
+        "stats": 1.4
+    },
+    {
+        "player": "C.J. Board",
+        "stats": 1.4
+    },
+    {
+        "player": "Nick Vannett",
+        "stats": 1.4
+    },
+    {
+        "player": "Ben Braunecker",
+        "stats": 1.4
+    },
+    {
+        "player": "Nick O'Leary",
+        "stats": 1.4
+    },
+    {
+        "player": "Bilal Powell",
+        "stats": 1.4
+    },
+    {
+        "player": "Mike Glennon",
+        "stats": 1.4
+    },
+    {
+        "player": "Damion Willis",
+        "stats": 1.3
+    },
+    {
+        "player": "Russell Shepard",
+        "stats": 1.3
+    },
+    {
+        "player": "Troy Fumagalli",
+        "stats": 1.3
+    },
+    {
+        "player": "Ty Montgomery",
+        "stats": 1.3
+    },
+    {
+        "player": "Kenjon Barner",
+        "stats": 1.3
+    },
+    {
+        "player": "Robert Foster",
+        "stats": 1.2
+    },
+    {
+        "player": "Travis Benjamin",
+        "stats": 1.2
+    },
+    {
+        "player": "Cody Hollister",
+        "stats": 1.2
+    },
+    {
+        "player": "Dan Arnold",
+        "stats": 1.2
+    },
+    {
+        "player": "Ameer Abdullah",
+        "stats": 1.2
+    },
+    {
+        "player": "Marcell Ateman",
+        "stats": 1.1
+    },
+    {
+        "player": "Seth DeValve",
+        "stats": 1.1
+    },
+    {
+        "player": "Tommy Sweeney",
+        "stats": 1.1
+    },
+    {
+        "player": "Dan Vitale",
+        "stats": 1.1
+    },
+    {
+        "player": "Paul Perkins",
+        "stats": 1.1
+    },
+    {
+        "player": "Ventell Bryant",
+        "stats": 1
+    },
+    {
+        "player": "Chris Hogan",
+        "stats": 1
+    },
+    {
+        "player": "Jesse James",
+        "stats": 1
+    },
+    {
+        "player": "D'Ernest Johnson",
+        "stats": 1
+    },
+    {
+        "player": "Alec Ingold",
+        "stats": 1
+    },
+    {
+        "player": "Mike Davis",
+        "stats": 1
+    },
+    {
+        "player": "Braxton Berrios",
+        "stats": 0.9
+    },
+    {
+        "player": "Jason Moore",
+        "stats": 0.9
+    },
+    {
+        "player": "Lee Smith",
+        "stats": 0.9
+    },
+    {
+        "player": "Virgil Green",
+        "stats": 0.9
+    },
+    {
+        "player": "Tyler Kroft",
+        "stats": 0.9
+    },
+    {
+        "player": "Trent Sherfield",
+        "stats": 0.8
+    },
+    {
+        "player": "Deonte Harris",
+        "stats": 0.8
+    },
+    {
+        "player": "Daniel Brown",
+        "stats": 0.8
+    },
+    {
+        "player": "Lance Kendricks",
+        "stats": 0.8
+    },
+    {
+        "player": "Josh Oliver",
+        "stats": 0.8
+    },
+    {
+        "player": "Troymaine Pope",
+        "stats": 0.8
+    },
+    {
+        "player": "Zach Line",
+        "stats": 0.8
+    },
+    {
+        "player": "Jay Ajayi",
+        "stats": 0.8
+    },
+    {
+        "player": "Ryan Switzer",
+        "stats": 0.7
+    },
+    {
+        "player": "Geremy Davis",
+        "stats": 0.7
+    },
+    {
+        "player": "Deon Yelder",
+        "stats": 0.7
+    },
+    {
+        "player": "Alex Armah",
+        "stats": 0.7
+    },
+    {
+        "player": "Andre Patton",
+        "stats": 0.6
+    },
+    {
+        "player": "Marqise Lee",
+        "stats": 0.6
+    },
+    {
+        "player": "Mo Alie-Cox",
+        "stats": 0.6
+    },
+    {
+        "player": "Luke Stocker",
+        "stats": 0.6
+    },
+    {
+        "player": "Drew Sample",
+        "stats": 0.6
+    },
+    {
+        "player": "Chris Herndon IV",
+        "stats": 0.6
+    },
+    {
+        "player": "Patrick DiMarco",
+        "stats": 0.6
+    },
+    {
+        "player": "Josh Adams",
+        "stats": 0.6
+    },
+    {
+        "player": "Damien Harris",
+        "stats": 0.6
+    },
+    {
+        "player": "Khadarel Hodge",
+        "stats": 0.5
+    },
+    {
+        "player": "Diontae Spencer",
+        "stats": 0.5
+    },
+    {
+        "player": "Donte Moncrief",
+        "stats": 0.5
+    },
+    {
+        "player": "Bobo Wilson",
+        "stats": 0.5
+    },
+    {
+        "player": "Robert Davis",
+        "stats": 0.5
+    },
+    {
+        "player": "Tyler Conklin",
+        "stats": 0.5
+    },
+    {
+        "player": "Andrew Beck",
+        "stats": 0.5
+    },
+    {
+        "player": "Scott Simonson",
+        "stats": 0.5
+    },
+    {
+        "player": "Brandon Wilson",
+        "stats": 0.5
+    },
+    {
+        "player": "Elijhaa Penny",
+        "stats": 0.5
+    },
+    {
+        "player": "Zach Zenner",
+        "stats": 0.5
+    },
+    {
+        "player": "Roosevelt Nix",
+        "stats": 0.5
+    },
+    {
+        "player": "DeAndre Carter",
+        "stats": 0.4
+    },
+    {
+        "player": "Cody Core",
+        "stats": 0.4
+    },
+    {
+        "player": "Chris Moore",
+        "stats": 0.4
+    },
+    {
+        "player": "Stanley Morgan Jr.",
+        "stats": 0.4
+    },
+    {
+        "player": "Josh Bellamy",
+        "stats": 0.4
+    },
+    {
+        "player": "Darius Jennings",
+        "stats": 0.4
+    },
+    {
+        "player": "Isaiah Ford",
+        "stats": 0.4
+    },
+    {
+        "player": "Dwayne Harris",
+        "stats": 0.4
+    },
+    {
+        "player": "Ian Thomas",
+        "stats": 0.4
+    },
+    {
+        "player": "Durham Smythe",
+        "stats": 0.4
+    },
+    {
+        "player": "Pharaoh Brown",
+        "stats": 0.4
+    },
+    {
+        "player": "Sean Culkin",
+        "stats": 0.4
+    },
+    {
+        "player": "Derek Watt",
+        "stats": 0.4
+    },
+    {
+        "player": "Dwayne Washington",
+        "stats": 0.4
+    },
+    {
+        "player": "Nick Bawden",
+        "stats": 0.4
+    },
+    {
+        "player": "Alfred Morris",
+        "stats": 0.4
+    },
+    {
+        "player": "Johnny Holton",
+        "stats": 0.3
+    },
+    {
+        "player": "Fred Brown",
+        "stats": 0.3
+    },
+    {
+        "player": "Andre Roberts",
+        "stats": 0.3
+    },
+    {
+        "player": "Gunner Olszewski",
+        "stats": 0.3
+    },
+    {
+        "player": "J.P. Holtz",
+        "stats": 0.3
+    },
+    {
+        "player": "Hale Hentges",
+        "stats": 0.3
+    },
+    {
+        "player": "Tanner Hudson",
+        "stats": 0.3
+    },
+    {
+        "player": "Clive Walford",
+        "stats": 0.3
+    },
+    {
+        "player": "Xavier Grimble",
+        "stats": 0.3
+    },
+    {
+        "player": "Anthony Sherman",
+        "stats": 0.3
+    },
+    {
+        "player": "T.J. Logan",
+        "stats": 0.3
+    },
+    {
+        "player": "Jakob Johnson",
+        "stats": 0.3
+    },
+    {
+        "player": "Josh McCown",
+        "stats": 0.3
+    },
+    {
+        "player": "Justin Watson",
+        "stats": 0.2
+    },
+    {
+        "player": "Ashton Dulin",
+        "stats": 0.2
+    },
+    {
+        "player": "De'Anthony Thomas",
+        "stats": 0.2
+    },
+    {
+        "player": "Austin Carr",
+        "stats": 0.2
+    },
+    {
+        "player": "DeAndrew White",
+        "stats": 0.2
+    },
+    {
+        "player": "MyCole Pruitt",
+        "stats": 0.2
+    },
+    {
+        "player": "Blake Bell",
+        "stats": 0.2
+    },
+    {
+        "player": "Trevon Wesco",
+        "stats": 0.2
+    },
+    {
+        "player": "Levine Toilolo",
+        "stats": 0.2
+    },
+    {
+        "player": "Antony Auclair",
+        "stats": 0.2
+    },
+    {
+        "player": "Ben Koyack",
+        "stats": 0.2
+    },
+    {
+        "player": "Travis Homer",
+        "stats": 0.2
+    },
+    {
+        "player": "Mike Boone",
+        "stats": 0.2
+    },
+    {
+        "player": "Devontae Booker",
+        "stats": 0.2
+    },
+    {
+        "player": "John Kelly",
+        "stats": 0.2
+    },
+    {
+        "player": "Tony Brooks-James",
+        "stats": 0.2
+    },
+    {
+        "player": "James Develin",
+        "stats": 0.2
+    },
+    {
+        "player": "Dalyn Dawkins",
+        "stats": 0.2
+    },
+    {
+        "player": "Mike Thomas",
+        "stats": 0.1
+    },
+    {
+        "player": "Johnny Mundt",
+        "stats": 0.1
+    },
+    {
+        "player": "Dalton Schultz",
+        "stats": 0.1
+    },
+    {
+        "player": "Darrell Daniels",
+        "stats": 0.1
+    },
+    {
+        "player": "Eric Tomlinson",
+        "stats": 0.1
+    },
+    {
+        "player": "Jordan Scarlett",
+        "stats": 0.1
+    },
+    {
+        "player": "Keith Smith",
+        "stats": 0.1
+    },
+    {
+        "player": "Javorius Allen",
+        "stats": 0.1
+    },
+    {
+        "player": "Dexter Williams",
+        "stats": 0.1
+    },
+    {
+        "player": "Trevor Siemian",
+        "stats": 0.1
+    }
+]

@@ -4,7 +4,7 @@ import Undrafted from './Undrafted'
 
 function UndraftedAll(props) {
   return (
-    <div className='col-md-9 col-sm-12 col-xs-12'>
+    <div className='col-md-8 col-sm-8 col-xs-8'>
 
       <div className="aid-title hidden-xs">
         <i className="fa fa-sort-amount-asc"></i> Overall Rankings
@@ -26,7 +26,7 @@ function UndraftedAll(props) {
 
       <div className='scrollable overall-rankings'>
         <Undrafted
-          fields={['tier','value', 'name', 'proj fl', 'gp', 'proj yds', 'proj tds', 'top 12', 'top 24', 'touches', 'tgt', 'yards', 'tds', 'floor']}
+          fields={['tier', 'player', 'position', 'floor', 'team', 'ceil', '2019', 'age', 'value']}
           players={props.players}
           draft={(p) => props.draft(p)}
         />

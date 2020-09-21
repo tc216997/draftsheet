@@ -1,0 +1,3202 @@
+[
+    {
+        "player": "Christian McCaffrey",
+        "bye": 13,
+        "short": "C. McCaffrey",
+        "age": 24,
+        "s_adp": 1.3,
+        "s_ppg": 24.43
+    },
+    {
+        "player": "Saquon Barkley",
+        "bye": 11,
+        "short": "S. Barkley",
+        "age": 23,
+        "s_adp": 2.5,
+        "s_ppg": 18.35
+    },
+    {
+        "player": "Ezekiel Elliott",
+        "bye": 10,
+        "short": "E. Elliott",
+        "age": 25,
+        "s_adp": 4,
+        "s_ppg": 18.14
+    },
+    {
+        "player": "Derrick Henry",
+        "bye": 7,
+        "short": "D. Henry",
+        "age": 26,
+        "s_adp": 5.8,
+        "s_ppg": 16.13
+    },
+    {
+        "player": "Clyde Edwards-Helaire",
+        "bye": 10,
+        "short": "C. Edwards-Helaire",
+        "age": 21,
+        "s_adp": 6,
+        "s_ppg": 16.19
+    },
+    {
+        "player": "Alvin Kamara",
+        "bye": 6,
+        "short": "A. Kamara",
+        "age": 25,
+        "s_adp": 6.2,
+        "s_ppg": 17.43
+    },
+    {
+        "player": "Dalvin Cook",
+        "bye": 7,
+        "short": "D. Cook",
+        "age": 25,
+        "s_adp": 5.8,
+        "s_ppg": 17.48
+    },
+    {
+        "player": "Michael Thomas",
+        "bye": 6,
+        "short": "M. Thomas",
+        "age": 27,
+        "s_adp": 6.8,
+        "s_ppg": 17.59
+    },
+    {
+        "player": "Josh Jacobs",
+        "bye": 6,
+        "short": "J. Jacobs",
+        "age": 22,
+        "s_adp": 9.1,
+        "s_ppg": 15.49
+    },
+    {
+        "player": "Nick Chubb",
+        "bye": 9,
+        "short": "N. Chubb",
+        "age": 24,
+        "s_adp": 13,
+        "s_ppg": 14.86
+    },
+    {
+        "player": "Joe Mixon",
+        "bye": 9,
+        "short": "J. Mixon",
+        "age": 24,
+        "s_adp": 10.6,
+        "s_ppg": 16.53
+    },
+    {
+        "player": "Patrick Mahomes",
+        "bye": 10,
+        "short": "P. Mahomes",
+        "age": 24,
+        "s_adp": 15.3,
+        "s_ppg": 22.83
+    },
+    {
+        "player": "Miles Sanders",
+        "bye": 9,
+        "short": "M. Sanders",
+        "age": 23,
+        "s_adp": 13.4,
+        "s_ppg": 15.39
+    },
+    {
+        "player": "Kenyan Drake",
+        "bye": 8,
+        "short": "K. Drake",
+        "age": 26,
+        "s_adp": 13.3,
+        "s_ppg": 14.21
+    },
+    {
+        "player": "Davante Adams",
+        "bye": 5,
+        "short": "D. Adams",
+        "age": 27,
+        "s_adp": 12.8,
+        "s_ppg": 16.43
+    },
+    {
+        "player": "Aaron Jones",
+        "bye": 5,
+        "short": "A. Jones",
+        "age": 25,
+        "s_adp": 16.5,
+        "s_ppg": 14.91
+    },
+    {
+        "player": "Tyreek Hill",
+        "bye": 10,
+        "short": "T. Hill",
+        "age": 26,
+        "s_adp": 16.3,
+        "s_ppg": 15.27
+    },
+    {
+        "player": "Austin Ekeler",
+        "bye": 10,
+        "short": "A. Ekeler",
+        "age": 25,
+        "s_adp": 14.5,
+        "s_ppg": 14.99
+    },
+    {
+        "player": "Lamar Jackson",
+        "bye": 8,
+        "short": "L. Jackson",
+        "age": 23,
+        "s_adp": 20.5,
+        "s_ppg": 23.19
+    },
+    {
+        "player": "Julio Jones",
+        "bye": 10,
+        "short": "J. Jones",
+        "age": 31,
+        "s_adp": 16.9,
+        "s_ppg": 15.84
+    },
+    {
+        "player": "Travis Kelce",
+        "bye": 10,
+        "short": "T. Kelce",
+        "age": 30,
+        "s_adp": 20.2,
+        "s_ppg": 14.08
+    },
+    {
+        "player": "DeAndre Hopkins",
+        "bye": 8,
+        "short": "D. Hopkins",
+        "age": 28,
+        "s_adp": 20.1,
+        "s_ppg": 15.25
+    },
+    {
+        "player": "James Conner",
+        "bye": 8,
+        "short": "J. Conner",
+        "age": 25,
+        "s_adp": 22.1,
+        "s_ppg": 13.29
+    },
+    {
+        "player": "Chris Carson",
+        "bye": 6,
+        "short": "C. Carson",
+        "age": 25,
+        "s_adp": 23.9,
+        "s_ppg": 14.17
+    },
+    {
+        "player": "Chris Godwin",
+        "bye": 13,
+        "short": "C. Godwin",
+        "age": 24,
+        "s_adp": 23.4,
+        "s_ppg": 14.77
+    },
+    {
+        "player": "Kenny Golladay",
+        "bye": 5,
+        "short": "K. Golladay",
+        "age": 26,
+        "s_adp": 26.5,
+        "s_ppg": 13.87
+    },
+    {
+        "player": "George Kittle",
+        "bye": 11,
+        "short": "G. Kittle",
+        "age": 26,
+        "s_adp": 25.8,
+        "s_ppg": 13.62
+    },
+    {
+        "player": "David Johnson",
+        "bye": 8,
+        "short": "D. Johnson",
+        "age": 28,
+        "s_adp": 28.1,
+        "s_ppg": 13.52
+    },
+    {
+        "player": "Mike Evans",
+        "bye": 13,
+        "short": "M. Evans",
+        "age": 27,
+        "s_adp": 28.2,
+        "s_ppg": 15.31
+    },
+    {
+        "player": "Todd Gurley II",
+        "bye": 10,
+        "short": "T. Gurley II",
+        "age": 26,
+        "s_adp": 29.9,
+        "s_ppg": 13.45
+    },
+    {
+        "player": "Jonathan Taylor",
+        "bye": 7,
+        "short": "J. Taylor",
+        "age": 21,
+        "s_adp": 30.4,
+        "s_ppg": 12.05
+    },
+    {
+        "player": "Adam Thielen",
+        "bye": 7,
+        "short": "A. Thielen",
+        "age": 30,
+        "s_adp": 30.7,
+        "s_ppg": 13.57
+    },
+    {
+        "player": "Melvin Gordon III",
+        "bye": 8,
+        "short": "M. Gordon III",
+        "age": 27,
+        "s_adp": 35.1,
+        "s_ppg": 12.93
+    },
+    {
+        "player": "Le'Veon Bell",
+        "bye": 11,
+        "short": "L. Bell",
+        "age": 28,
+        "s_adp": 34.5,
+        "s_ppg": 14.17
+    },
+    {
+        "player": "Amari Cooper",
+        "bye": 10,
+        "short": "A. Cooper",
+        "age": 26,
+        "s_adp": 36.5,
+        "s_ppg": 13.33
+    },
+    {
+        "player": "Mark Ingram II",
+        "bye": 8,
+        "short": "M. Ingram II",
+        "age": 30,
+        "s_adp": 39.2,
+        "s_ppg": 10.91
+    },
+    {
+        "player": "Cooper Kupp",
+        "bye": 9,
+        "short": "C. Kupp",
+        "age": 27,
+        "s_adp": 38.8,
+        "s_ppg": 13.13
+    },
+    {
+        "player": "Calvin Ridley",
+        "bye": 10,
+        "short": "C. Ridley",
+        "age": 25,
+        "s_adp": 38.3,
+        "s_ppg": 12.2
+    },
+    {
+        "player": "Odell Beckham Jr.",
+        "bye": 9,
+        "short": "O. Beckham Jr.",
+        "age": 27,
+        "s_adp": 36.5,
+        "s_ppg": 12.8
+    },
+    {
+        "player": "JuJu Smith-Schuster",
+        "bye": 8,
+        "short": "J. Smith-Schuster",
+        "age": 23,
+        "s_adp": 37.6,
+        "s_ppg": 12.53
+    },
+    {
+        "player": "Allen Robinson II",
+        "bye": 11,
+        "short": "A. Robinson II",
+        "age": 27,
+        "s_adp": 36.4,
+        "s_ppg": 13.23
+    },
+    {
+        "player": "A.J. Brown",
+        "bye": 7,
+        "short": "A. Brown",
+        "age": 23,
+        "s_adp": 41.5,
+        "s_ppg": 13.25
+    },
+    {
+        "player": "Mark Andrews",
+        "bye": 8,
+        "short": "M. Andrews",
+        "age": 25,
+        "s_adp": 41.5,
+        "s_ppg": 11.59
+    },
+    {
+        "player": "Raheem Mostert",
+        "bye": 11,
+        "short": "R. Mostert",
+        "age": 28,
+        "s_adp": 42.8,
+        "s_ppg": 12.71
+    },
+    {
+        "player": "DK Metcalf",
+        "bye": 6,
+        "short": "D. Metcalf",
+        "age": 22,
+        "s_adp": 43.5,
+        "s_ppg": 11.82
+    },
+    {
+        "player": "Devin Singletary",
+        "bye": 11,
+        "short": "D. Singletary",
+        "age": 23,
+        "s_adp": 47.6,
+        "s_ppg": 11.7
+    },
+    {
+        "player": "Leonard Fournette",
+        "bye": 13,
+        "short": "L. Fournette",
+        "age": 25,
+        "s_adp": 66,
+        "s_ppg": 11.72
+    },
+    {
+        "player": "D.J. Moore",
+        "bye": 13,
+        "short": "D. Moore",
+        "age": 23,
+        "s_adp": 39.4,
+        "s_ppg": 12.84
+    },
+    {
+        "player": "Russell Wilson",
+        "bye": 6,
+        "short": "R. Wilson",
+        "age": 31,
+        "s_adp": 53.7,
+        "s_ppg": 20.46
+    },
+    {
+        "player": "Robert Woods",
+        "bye": 9,
+        "short": "R. Woods",
+        "age": 28,
+        "s_adp": 44.6,
+        "s_ppg": 13.14
+    },
+    {
+        "player": "David Montgomery",
+        "bye": 11,
+        "short": "D. Montgomery",
+        "age": 23,
+        "s_adp": 54.5,
+        "s_ppg": 12.22
+    },
+    {
+        "player": "Tyler Lockett",
+        "bye": 6,
+        "short": "T. Lockett",
+        "age": 27,
+        "s_adp": 49.9,
+        "s_ppg": 13.1
+    },
+    {
+        "player": "Dak Prescott",
+        "bye": 10,
+        "short": "D. Prescott",
+        "age": 27,
+        "s_adp": 52.3,
+        "s_ppg": 21.45
+    },
+    {
+        "player": "Kareem Hunt",
+        "bye": 9,
+        "short": "K. Hunt",
+        "age": 25,
+        "s_adp": 52.1,
+        "s_ppg": 10.98
+    },
+    {
+        "player": "DJ Chark Jr.",
+        "bye": 7,
+        "short": "D. Chark Jr.",
+        "age": 23,
+        "s_adp": 49.8,
+        "s_ppg": 11.47
+    },
+    {
+        "player": "Terry McLaurin",
+        "bye": 8,
+        "short": "T. McLaurin",
+        "age": 24,
+        "s_adp": 52.1,
+        "s_ppg": 11.85
+    },
+    {
+        "player": "Zach Ertz",
+        "bye": 9,
+        "short": "Z. Ertz",
+        "age": 29,
+        "s_adp": 52,
+        "s_ppg": 11.84
+    },
+    {
+        "player": "Ronald Jones II",
+        "bye": 13,
+        "short": "R. Jones II",
+        "age": 23,
+        "s_adp": 56.8,
+        "s_ppg": 7.3
+    },
+    {
+        "player": "Cam Akers",
+        "bye": 9,
+        "short": "C. Akers",
+        "age": 21,
+        "s_adp": 51,
+        "s_ppg": 10.83
+    },
+    {
+        "player": "Kyler Murray",
+        "bye": 8,
+        "short": "K. Murray",
+        "age": 23,
+        "s_adp": 59.7,
+        "s_ppg": 19.95
+    },
+    {
+        "player": "Stefon Diggs",
+        "bye": 11,
+        "short": "S. Diggs",
+        "age": 26,
+        "s_adp": 61,
+        "s_ppg": 10.81
+    },
+    {
+        "player": "T.Y. Hilton",
+        "bye": 7,
+        "short": "T. Hilton",
+        "age": 30,
+        "s_adp": 58,
+        "s_ppg": 12.78
+    },
+    {
+        "player": "D'Andre Swift",
+        "bye": 5,
+        "short": "D. Swift",
+        "age": 21,
+        "s_adp": 59.8,
+        "s_ppg": 9.98
+    },
+    {
+        "player": "Marquise Brown",
+        "bye": 8,
+        "short": "M. Brown",
+        "age": 23,
+        "s_adp": 59.5,
+        "s_ppg": 11.43
+    },
+    {
+        "player": "Deshaun Watson",
+        "bye": 8,
+        "short": "D. Watson",
+        "age": 24,
+        "s_adp": 64.4,
+        "s_ppg": 20.01
+    },
+    {
+        "player": "Keenan Allen",
+        "bye": 10,
+        "short": "K. Allen",
+        "age": 28,
+        "s_adp": 57.7,
+        "s_ppg": 12.7
+    },
+    {
+        "player": "Courtland Sutton",
+        "bye": 8,
+        "short": "C. Sutton",
+        "age": 24,
+        "s_adp": 60.5,
+        "s_ppg": 12.69
+    },
+    {
+        "player": "J.K. Dobbins",
+        "bye": 8,
+        "short": "J. Dobbins",
+        "age": 21,
+        "s_adp": 63.9,
+        "s_ppg": 10.03
+    },
+    {
+        "player": "Darren Waller",
+        "bye": 6,
+        "short": "D. Waller",
+        "age": 27,
+        "s_adp": 61.5,
+        "s_ppg": 10.51
+    },
+    {
+        "player": "Marlon Mack",
+        "bye": 7,
+        "short": "M. Mack",
+        "age": 24,
+        "s_adp": 70.6,
+        "s_ppg": 6.57
+    },
+    {
+        "player": "A.J. Green",
+        "bye": 9,
+        "short": "A. Green",
+        "age": 32,
+        "s_adp": 70.1,
+        "s_ppg": 12.31
+    },
+    {
+        "player": "Rob Gronkowski",
+        "bye": 13,
+        "short": "R. Gronkowski",
+        "age": 31,
+        "s_adp": 70,
+        "s_ppg": 9.59
+    },
+    {
+        "player": "DeVante Parker",
+        "bye": 11,
+        "short": "D. Parker",
+        "age": 27,
+        "s_adp": 69.9,
+        "s_ppg": 10.99
+    },
+    {
+        "player": "Michael Gallup",
+        "bye": 10,
+        "short": "M. Gallup",
+        "age": 24,
+        "s_adp": 72.8,
+        "s_ppg": 11.12
+    },
+    {
+        "player": "Jordan Howard",
+        "bye": 11,
+        "short": "J. Howard",
+        "age": 25,
+        "s_adp": 78.6,
+        "s_ppg": 9.03
+    },
+    {
+        "player": "Drew Brees",
+        "bye": 6,
+        "short": "D. Brees",
+        "age": 41,
+        "s_adp": 75.8,
+        "s_ppg": 18.78
+    },
+    {
+        "player": "Will Fuller V",
+        "bye": 8,
+        "short": "W. Fuller V",
+        "age": 26,
+        "s_adp": 72.3,
+        "s_ppg": 9.15
+    },
+    {
+        "player": "Evan Engram",
+        "bye": 11,
+        "short": "E. Engram",
+        "age": 26,
+        "s_adp": 75.6,
+        "s_ppg": 9.15
+    },
+    {
+        "player": "Brandin Cooks",
+        "bye": 8,
+        "short": "B. Cooks",
+        "age": 26,
+        "s_adp": 80,
+        "s_ppg": 10.99
+    },
+    {
+        "player": "Kerryon Johnson",
+        "bye": 5,
+        "short": "K. Johnson",
+        "age": 23,
+        "s_adp": 84.8,
+        "s_ppg": 6.97
+    },
+    {
+        "player": "Sony Michel",
+        "bye": 6,
+        "short": "S. Michel",
+        "age": 25,
+        "s_adp": 92.7,
+        "s_ppg": 7.92
+    },
+    {
+        "player": "Deebo Samuel",
+        "bye": 11,
+        "short": "D. Samuel",
+        "age": 24,
+        "s_adp": 83.4,
+        "s_ppg": 8.48
+    },
+    {
+        "player": "Aaron Rodgers",
+        "bye": 5,
+        "short": "A. Rodgers",
+        "age": 36,
+        "s_adp": 87.8,
+        "s_ppg": 18.63
+    },
+    {
+        "player": "Matt Ryan",
+        "bye": 10,
+        "short": "M. Ryan",
+        "age": 35,
+        "s_adp": 82.7,
+        "s_ppg": 18.27
+    },
+    {
+        "player": "Phillip Lindsay",
+        "bye": 8,
+        "short": "P. Lindsay",
+        "age": 26,
+        "s_adp": 83.8,
+        "s_ppg": 8.13
+    },
+    {
+        "player": "Zack Moss",
+        "bye": 11,
+        "short": "Z. Moss",
+        "age": 22,
+        "s_adp": 78.6,
+        "s_ppg": 6.64
+    },
+    {
+        "player": "Hunter Henry",
+        "bye": 10,
+        "short": "H. Henry",
+        "age": 25,
+        "s_adp": 89.2,
+        "s_ppg": 8.86
+    },
+    {
+        "player": "Tyler Boyd",
+        "bye": 9,
+        "short": "T. Boyd",
+        "age": 25,
+        "s_adp": 79.3,
+        "s_ppg": 11.56
+    },
+    {
+        "player": "Tevin Coleman",
+        "bye": 11,
+        "short": "T. Coleman",
+        "age": 27,
+        "s_adp": 94.4,
+        "s_ppg": 9.19
+    },
+    {
+        "player": "Jarvis Landry",
+        "bye": 9,
+        "short": "J. Landry",
+        "age": 27,
+        "s_adp": 86.4,
+        "s_ppg": 10.68
+    },
+    {
+        "player": "Tom Brady",
+        "bye": 13,
+        "short": "T. Brady",
+        "age": 43,
+        "s_adp": 87.4,
+        "s_ppg": 18.65
+    },
+    {
+        "player": "Antonio Gibson",
+        "bye": 8,
+        "short": "A. Gibson",
+        "age": 22,
+        "s_adp": 80,
+        "s_ppg": 8.25
+    },
+    {
+        "player": "Latavius Murray",
+        "bye": 6,
+        "short": "L. Murray",
+        "age": 30,
+        "s_adp": 88.7,
+        "s_ppg": 8.85
+    },
+    {
+        "player": "Julian Edelman",
+        "bye": 6,
+        "short": "J. Edelman",
+        "age": 34,
+        "s_adp": 84.9,
+        "s_ppg": 10.11
+    },
+    {
+        "player": "Marvin Jones Jr.",
+        "bye": 5,
+        "short": "M. Jones Jr.",
+        "age": 30,
+        "s_adp": 94.5,
+        "s_ppg": 10.27
+    },
+    {
+        "player": "Matt Breida",
+        "bye": 11,
+        "short": "M. Breida",
+        "age": 25,
+        "s_adp": 93.3,
+        "s_ppg": 10.58
+    },
+    {
+        "player": "Josh Allen",
+        "bye": 11,
+        "short": "J. Allen",
+        "age": 24,
+        "s_adp": 95.8,
+        "s_ppg": 19.2
+    },
+    {
+        "player": "Mecole Hardman",
+        "bye": 10,
+        "short": "M. Hardman",
+        "age": 22,
+        "s_adp": 100,
+        "s_ppg": 9.37
+    },
+    {
+        "player": "Alexander Mattison",
+        "bye": 7,
+        "short": "A. Mattison",
+        "age": 22,
+        "s_adp": 94.9,
+        "s_ppg": 5.79
+    },
+    {
+        "player": "CeeDee Lamb",
+        "bye": 10,
+        "short": "C. Lamb",
+        "age": 21,
+        "s_adp": 92.7,
+        "s_ppg": 9.56
+    },
+    {
+        "player": "Jared Cook",
+        "bye": 6,
+        "short": "J. Cook",
+        "age": 33,
+        "s_adp": 106.1,
+        "s_ppg": 8.33
+    },
+    {
+        "player": "Carson Wentz",
+        "bye": 9,
+        "short": "C. Wentz",
+        "age": 27,
+        "s_adp": 104.1,
+        "s_ppg": 18.87
+    },
+    {
+        "player": "San Francisco 49ers",
+        "bye": 11,
+        "short": "49ers",
+        "age": "N/A",
+        "s_adp": 102.4,
+        "s_ppg": 7
+    },
+    {
+        "player": "James White",
+        "bye": 6,
+        "short": "J. White",
+        "age": 28,
+        "s_adp": 85.8,
+        "s_ppg": 10.69
+    },
+    {
+        "player": "Diontae Johnson",
+        "bye": 8,
+        "short": "D. Johnson",
+        "age": 24,
+        "s_adp": 96.8,
+        "s_ppg": 9.27
+    },
+    {
+        "player": "Emmanuel Sanders",
+        "bye": 6,
+        "short": "E. Sanders",
+        "age": 33,
+        "s_adp": 101.7,
+        "s_ppg": 8.94
+    },
+    {
+        "player": "Damien Harris",
+        "bye": 6,
+        "short": "D. Harris",
+        "age": 23,
+        "s_adp": 100.6,
+        "s_ppg": 5.08
+    },
+    {
+        "player": "Matthew Stafford",
+        "bye": 5,
+        "short": "M. Stafford",
+        "age": 32,
+        "s_adp": 106,
+        "s_ppg": 17.18
+    },
+    {
+        "player": "Chase Edmonds",
+        "bye": 8,
+        "short": "C. Edmonds",
+        "age": 24,
+        "s_adp": 103.5,
+        "s_ppg": 3.99
+    },
+    {
+        "player": "Darius Slayton",
+        "bye": 11,
+        "short": "D. Slayton",
+        "age": 23,
+        "s_adp": 110.1,
+        "s_ppg": 9.06
+    },
+    {
+        "player": "Darrell Henderson Jr.",
+        "bye": 9,
+        "short": "D. Henderson Jr.",
+        "age": 23,
+        "s_adp": 113.3,
+        "s_ppg": 7.39
+    },
+    {
+        "player": "Jerry Jeudy",
+        "bye": 8,
+        "short": "J. Jeudy",
+        "age": 21,
+        "s_adp": 108.9,
+        "s_ppg": 8.33
+    },
+    {
+        "player": "Henry Ruggs III",
+        "bye": 6,
+        "short": "H. Ruggs III",
+        "age": 21,
+        "s_adp": 105.8,
+        "s_ppg": 8.97
+    },
+    {
+        "player": "Tyler Higbee",
+        "bye": 9,
+        "short": "T. Higbee",
+        "age": 27,
+        "s_adp": 99.4,
+        "s_ppg": 9.08
+    },
+    {
+        "player": "Adrian Peterson",
+        "bye": null,
+        "short": "A. Peterson",
+        "age": 35,
+        "s_adp": 114.7,
+        "s_ppg": 0
+    },
+    {
+        "player": "Baltimore Ravens",
+        "bye": 8,
+        "short": "Ravens",
+        "age": "N/A",
+        "s_adp": 116.5,
+        "s_ppg": 7.2
+    },
+    {
+        "player": "Hayden Hurst",
+        "bye": 10,
+        "short": "H. Hurst",
+        "age": 27,
+        "s_adp": 95.7,
+        "s_ppg": 10.53
+    },
+    {
+        "player": "Daniel Jones",
+        "bye": 11,
+        "short": "D. Jones",
+        "age": 23,
+        "s_adp": 120.3,
+        "s_ppg": 16.9
+    },
+    {
+        "player": "Christian Kirk",
+        "bye": 8,
+        "short": "C. Kirk",
+        "age": 23,
+        "s_adp": 114.2,
+        "s_ppg": 9.13
+    },
+    {
+        "player": "Tarik Cohen",
+        "bye": 11,
+        "short": "T. Cohen",
+        "age": 25,
+        "s_adp": 99,
+        "s_ppg": 9.16
+    },
+    {
+        "player": "Pittsburgh Steelers",
+        "bye": 8,
+        "short": "Steelers",
+        "age": "N/A",
+        "s_adp": 115.9,
+        "s_ppg": 7.67
+    },
+    {
+        "player": "Austin Hooper",
+        "bye": 9,
+        "short": "A. Hooper",
+        "age": 25,
+        "s_adp": 126.1,
+        "s_ppg": 7.75
+    },
+    {
+        "player": "Tony Pollard",
+        "bye": 10,
+        "short": "T. Pollard",
+        "age": 23,
+        "s_adp": 118.1,
+        "s_ppg": 5.36
+    },
+    {
+        "player": "Buffalo Bills",
+        "bye": 11,
+        "short": "Bills",
+        "age": "N/A",
+        "s_adp": 122.4,
+        "s_ppg": 6.53
+    },
+    {
+        "player": "Ke'Shawn Vaughn",
+        "bye": 13,
+        "short": "K. Vaughn",
+        "age": 23,
+        "s_adp": 136.1,
+        "s_ppg": 3.69
+    },
+    {
+        "player": "Sterling Shepard",
+        "bye": 11,
+        "short": "S. Shepard",
+        "age": 27,
+        "s_adp": 116.5,
+        "s_ppg": 9.91
+    },
+    {
+        "player": "Ben Roethlisberger",
+        "bye": 8,
+        "short": "B. Roethlisberger",
+        "age": 38,
+        "s_adp": 126.3,
+        "s_ppg": 17.3
+    },
+    {
+        "player": "A.J. Dillon",
+        "bye": 5,
+        "short": "A. Dillon",
+        "age": 22,
+        "s_adp": 118.3,
+        "s_ppg": 4.86
+    },
+    {
+        "player": "Justin Jefferson",
+        "bye": 7,
+        "short": "J. Jefferson",
+        "age": 21,
+        "s_adp": 123.2,
+        "s_ppg": 7.34
+    },
+    {
+        "player": "Baker Mayfield",
+        "bye": 9,
+        "short": "B. Mayfield",
+        "age": 25,
+        "s_adp": 137.9,
+        "s_ppg": 15.95
+    },
+    {
+        "player": "Noah Fant",
+        "bye": 8,
+        "short": "N. Fant",
+        "age": 22,
+        "s_adp": 120.6,
+        "s_ppg": 7.94
+    },
+    {
+        "player": "DeSean Jackson",
+        "bye": 9,
+        "short": "D. Jackson",
+        "age": 33,
+        "s_adp": 123.4,
+        "s_ppg": 10.47
+    },
+    {
+        "player": "John Brown",
+        "bye": 11,
+        "short": "J. Brown",
+        "age": 30,
+        "s_adp": 135.8,
+        "s_ppg": 9.3
+    },
+    {
+        "player": "Cam Newton",
+        "bye": 6,
+        "short": "C. Newton",
+        "age": 31,
+        "s_adp": 121.8,
+        "s_ppg": 17.95
+    },
+    {
+        "player": "New England Patriots",
+        "bye": 6,
+        "short": "Patriots",
+        "age": "N/A",
+        "s_adp": 133.3,
+        "s_ppg": 6.93
+    },
+    {
+        "player": "Damien Williams",
+        "bye": 10,
+        "short": "D. Williams",
+        "age": 28,
+        "s_adp": 420.3,
+        "s_ppg": 0
+    },
+    {
+        "player": "Jalen Reagor",
+        "bye": 9,
+        "short": "J. Reagor",
+        "age": 21,
+        "s_adp": 128.8,
+        "s_ppg": 7.99
+    },
+    {
+        "player": "Mike Williams",
+        "bye": 10,
+        "short": "M. Williams",
+        "age": 25,
+        "s_adp": 145.5,
+        "s_ppg": 8.72
+    },
+    {
+        "player": "Sammy Watkins",
+        "bye": 10,
+        "short": "S. Watkins",
+        "age": 27,
+        "s_adp": 136.1,
+        "s_ppg": 8.14
+    },
+    {
+        "player": "Chicago Bears",
+        "bye": 11,
+        "short": "Bears",
+        "age": "N/A",
+        "s_adp": 131.9,
+        "s_ppg": 6.13
+    },
+    {
+        "player": "Jared Goff",
+        "bye": 9,
+        "short": "J. Goff",
+        "age": 25,
+        "s_adp": 139.1,
+        "s_ppg": 17.17
+    },
+    {
+        "player": "Justin Jackson",
+        "bye": 10,
+        "short": "J. Jackson",
+        "age": 24,
+        "s_adp": 144.3,
+        "s_ppg": 7.35
+    },
+    {
+        "player": "Jamison Crowder",
+        "bye": 11,
+        "short": "J. Crowder",
+        "age": 27,
+        "s_adp": 119.7,
+        "s_ppg": 10.06
+    },
+    {
+        "player": "Ryquell Armstead",
+        "bye": 7,
+        "short": "R. Armstead",
+        "age": 23,
+        "s_adp": 126.8,
+        "s_ppg": 8.36
+    },
+    {
+        "player": "Bryce Love",
+        "bye": 8,
+        "short": "B. Love",
+        "age": 23,
+        "s_adp": 137.3,
+        "s_ppg": 5.88
+    },
+    {
+        "player": "Anthony Miller",
+        "bye": 11,
+        "short": "A. Miller",
+        "age": 25,
+        "s_adp": 132.6,
+        "s_ppg": 8.53
+    },
+    {
+        "player": "Boston Scott",
+        "bye": 9,
+        "short": "B. Scott",
+        "age": 25,
+        "s_adp": 125.1,
+        "s_ppg": 7.08
+    },
+    {
+        "player": "Preston Williams",
+        "bye": 11,
+        "short": "P. Williams",
+        "age": 23,
+        "s_adp": 133.1,
+        "s_ppg": 9.26
+    },
+    {
+        "player": "Los Angeles Chargers",
+        "bye": 10,
+        "short": "Chargers",
+        "age": "N/A",
+        "s_adp": 148.8,
+        "s_ppg": 6
+    },
+    {
+        "player": "Justin Tucker",
+        "bye": 8,
+        "short": "J. Tucker",
+        "age": 30,
+        "s_adp": 144.5,
+        "s_ppg": 7.87
+    },
+    {
+        "player": "Joe Burrow",
+        "bye": 9,
+        "short": "J. Burrow",
+        "age": 23,
+        "s_adp": 139.3,
+        "s_ppg": 17.08
+    },
+    {
+        "player": "Ryan Tannehill",
+        "bye": 7,
+        "short": "R. Tannehill",
+        "age": 32,
+        "s_adp": 151.7,
+        "s_ppg": 15.62
+    },
+    {
+        "player": "Harrison Butker",
+        "bye": 10,
+        "short": "H. Butker",
+        "age": 25,
+        "s_adp": 147.1,
+        "s_ppg": 7.93
+    },
+    {
+        "player": "Kansas City Chiefs",
+        "bye": 10,
+        "short": "Chiefs",
+        "age": "N/A",
+        "s_adp": 156.8,
+        "s_ppg": 7.07
+    },
+    {
+        "player": "Minnesota Vikings",
+        "bye": 7,
+        "short": "Vikings",
+        "age": "N/A",
+        "s_adp": 147.1,
+        "s_ppg": 6.13
+    },
+    {
+        "player": "Chris Thompson",
+        "bye": 7,
+        "short": "C. Thompson",
+        "age": 29,
+        "s_adp": 137.8,
+        "s_ppg": 6.68
+    },
+    {
+        "player": "T.J. Hockenson",
+        "bye": 5,
+        "short": "T. Hockenson",
+        "age": 23,
+        "s_adp": 145.9,
+        "s_ppg": 7.49
+    },
+    {
+        "player": "Carlos Hyde",
+        "bye": 6,
+        "short": "C. Hyde",
+        "age": 29,
+        "s_adp": 154.3,
+        "s_ppg": 5.15
+    },
+    {
+        "player": "Alshon Jeffery",
+        "bye": 9,
+        "short": "A. Jeffery",
+        "age": 30,
+        "s_adp": 172.9,
+        "s_ppg": 5.07
+    },
+    {
+        "player": "Allen Lazard",
+        "bye": 5,
+        "short": "A. Lazard",
+        "age": 24,
+        "s_adp": 142.7,
+        "s_ppg": 8.11
+    },
+    {
+        "player": "Mike Gesicki",
+        "bye": 11,
+        "short": "M. Gesicki",
+        "age": 24,
+        "s_adp": 150.6,
+        "s_ppg": 8.49
+    },
+    {
+        "player": "Greg Zuerlein",
+        "bye": 10,
+        "short": "G. Zuerlein",
+        "age": 32,
+        "s_adp": 155.3,
+        "s_ppg": 7.47
+    },
+    {
+        "player": "Duke Johnson",
+        "bye": 8,
+        "short": "D. Johnson",
+        "age": 26,
+        "s_adp": 141.6,
+        "s_ppg": 7.42
+    },
+    {
+        "player": "LeSean McCoy",
+        "bye": 13,
+        "short": "L. McCoy",
+        "age": 32,
+        "s_adp": 192.1,
+        "s_ppg": 3.48
+    },
+    {
+        "player": "Wil Lutz",
+        "bye": 6,
+        "short": "W. Lutz",
+        "age": 26,
+        "s_adp": 154.9,
+        "s_ppg": 7.73
+    },
+    {
+        "player": "Darrel Williams",
+        "bye": 10,
+        "short": "D. Williams",
+        "age": 25,
+        "s_adp": 153.9,
+        "s_ppg": 5.83
+    },
+    {
+        "player": "N'Keal Harry",
+        "bye": 6,
+        "short": "N. Harry",
+        "age": 22,
+        "s_adp": 155.7,
+        "s_ppg": 8.83
+    },
+    {
+        "player": "Dallas Goedert",
+        "bye": 9,
+        "short": "D. Goedert",
+        "age": 25,
+        "s_adp": 210.9,
+        "s_ppg": 8.93
+    },
+    {
+        "player": "Robby Anderson",
+        "bye": 13,
+        "short": "R. Anderson",
+        "age": 27,
+        "s_adp": 158.4,
+        "s_ppg": 8.08
+    },
+    {
+        "player": "Denver Broncos",
+        "bye": 8,
+        "short": "Broncos",
+        "age": "N/A",
+        "s_adp": 160.5,
+        "s_ppg": 6.2
+    },
+    {
+        "player": "Nyheim Hines",
+        "bye": 7,
+        "short": "N. Hines",
+        "age": 23,
+        "s_adp": 148.3,
+        "s_ppg": 7.57
+    },
+    {
+        "player": "Green Bay Packers",
+        "bye": 5,
+        "short": "Packers",
+        "age": "N/A",
+        "s_adp": 161.8,
+        "s_ppg": 6.13
+    },
+    {
+        "player": "Chris Herndon",
+        "bye": 11,
+        "short": "C. Herndon",
+        "age": 24,
+        "s_adp": 154.4,
+        "s_ppg": 6.24
+    },
+    {
+        "player": "Rashaad Penny",
+        "bye": 6,
+        "short": "R. Penny",
+        "age": 24,
+        "s_adp": 210.6,
+        "s_ppg": 2.65
+    },
+    {
+        "player": "Bryan Edwards",
+        "bye": 6,
+        "short": "B. Edwards",
+        "age": 21,
+        "s_adp": 157.9,
+        "s_ppg": 4.35
+    },
+    {
+        "player": "O.J. Howard",
+        "bye": 13,
+        "short": "O. Howard",
+        "age": 25,
+        "s_adp": 260.2,
+        "s_ppg": 2.79
+    },
+    {
+        "player": "Benny Snell Jr.",
+        "bye": 8,
+        "short": "B. Snell Jr.",
+        "age": 22,
+        "s_adp": 156.4,
+        "s_ppg": 6.29
+    },
+    {
+        "player": "Philip Rivers",
+        "bye": 7,
+        "short": "P. Rivers",
+        "age": 38,
+        "s_adp": 158.8,
+        "s_ppg": 16.75
+    },
+    {
+        "player": "Jamaal Williams",
+        "bye": 5,
+        "short": "J. Williams",
+        "age": 25,
+        "s_adp": 176.8,
+        "s_ppg": 5.79
+    },
+    {
+        "player": "Brandon Aiyuk",
+        "bye": 11,
+        "short": "B. Aiyuk",
+        "age": 22,
+        "s_adp": 148.4,
+        "s_ppg": 9.43
+    },
+    {
+        "player": "Jonnu Smith",
+        "bye": 7,
+        "short": "J. Smith",
+        "age": 25,
+        "s_adp": 155.8,
+        "s_ppg": 6.49
+    },
+    {
+        "player": "Jerick McKinnon",
+        "bye": 11,
+        "short": "J. McKinnon",
+        "age": 28,
+        "s_adp": 156.6,
+        "s_ppg": 5.86
+    },
+    {
+        "player": "Blake Jarwin",
+        "bye": 10,
+        "short": "B. Jarwin",
+        "age": 26,
+        "s_adp": 156.1,
+        "s_ppg": 7.17
+    },
+    {
+        "player": "Gardner Minshew II",
+        "bye": 7,
+        "short": "G. Minshew II",
+        "age": 24,
+        "s_adp": 160.8,
+        "s_ppg": 17.49
+    },
+    {
+        "player": "Curtis Samuel",
+        "bye": 13,
+        "short": "C. Samuel",
+        "age": 24,
+        "s_adp": 167.7,
+        "s_ppg": 8.56
+    },
+    {
+        "player": "Breshad Perriman",
+        "bye": 11,
+        "short": "B. Perriman",
+        "age": 26,
+        "s_adp": 160.3,
+        "s_ppg": 9.29
+    },
+    {
+        "player": "Kirk Cousins",
+        "bye": 7,
+        "short": "K. Cousins",
+        "age": 32,
+        "s_adp": 186.2,
+        "s_ppg": 16.41
+    },
+    {
+        "player": "Michael Pittman Jr.",
+        "bye": 7,
+        "short": "M. Pittman Jr.",
+        "age": 22,
+        "s_adp": 156,
+        "s_ppg": 8.31
+    },
+    {
+        "player": "Joshua Kelley",
+        "bye": 10,
+        "short": "J. Kelley",
+        "age": 22,
+        "s_adp": 158.4,
+        "s_ppg": 4.11
+    },
+    {
+        "player": "Golden Tate",
+        "bye": 11,
+        "short": "G. Tate",
+        "age": 32,
+        "s_adp": 153.7,
+        "s_ppg": 8.87
+    },
+    {
+        "player": "Seattle Seahawks",
+        "bye": 6,
+        "short": "Seahawks",
+        "age": "N/A",
+        "s_adp": 162.4,
+        "s_ppg": 6.2
+    },
+    {
+        "player": "Robbie Gould",
+        "bye": 11,
+        "short": "R. Gould",
+        "age": 37,
+        "s_adp": 162.8,
+        "s_ppg": 8
+    },
+    {
+        "player": "Indianapolis Colts",
+        "bye": 7,
+        "short": "Colts",
+        "age": "N/A",
+        "s_adp": 165.9,
+        "s_ppg": 6.87
+    },
+    {
+        "player": "Younghoe Koo",
+        "bye": 10,
+        "short": "Y. Koo",
+        "age": 26,
+        "s_adp": 166.6,
+        "s_ppg": 7.33
+    },
+    {
+        "player": "Drew Lock",
+        "bye": 8,
+        "short": "D. Lock",
+        "age": 23,
+        "s_adp": 165.6,
+        "s_ppg": 14.69
+    },
+    {
+        "player": "Tampa Bay Buccaneers",
+        "bye": 13,
+        "short": "Buccaneers",
+        "age": "N/A",
+        "s_adp": 162.4,
+        "s_ppg": 6.33
+    },
+    {
+        "player": "Zane Gonzalez",
+        "bye": 8,
+        "short": "Z. Gonzalez",
+        "age": 25,
+        "s_adp": 166.3,
+        "s_ppg": 6.67
+    },
+    {
+        "player": "Larry Fitzgerald",
+        "bye": 8,
+        "short": "L. Fitzgerald",
+        "age": 37,
+        "s_adp": 164.1,
+        "s_ppg": 7.75
+    },
+    {
+        "player": "New Orleans Saints",
+        "bye": 6,
+        "short": "Saints",
+        "age": "N/A",
+        "s_adp": 166.2,
+        "s_ppg": 7.07
+    },
+    {
+        "player": "Jake Elliott",
+        "bye": 9,
+        "short": "J. Elliott",
+        "age": 25,
+        "s_adp": 169.9,
+        "s_ppg": 7.2
+    },
+    {
+        "player": "Los Angeles Rams",
+        "bye": 9,
+        "short": "Rams",
+        "age": "N/A",
+        "s_adp": 169.2,
+        "s_ppg": 6.8
+    },
+    {
+        "player": "Arizona Cardinals",
+        "bye": 8,
+        "short": "Cardinals",
+        "age": "N/A",
+        "s_adp": 387.3,
+        "s_ppg": 5.53
+    },
+    {
+        "player": "Parris Campbell",
+        "bye": 7,
+        "short": "P. Campbell",
+        "age": 23,
+        "s_adp": 162.6,
+        "s_ppg": 8.17
+    },
+    {
+        "player": "Dallas Cowboys",
+        "bye": 10,
+        "short": "Cowboys",
+        "age": "N/A",
+        "s_adp": 164.7,
+        "s_ppg": 5.73
+    },
+    {
+        "player": "Philadelphia Eagles",
+        "bye": 9,
+        "short": "Eagles",
+        "age": "N/A",
+        "s_adp": 170.3,
+        "s_ppg": 6.4
+    },
+    {
+        "player": "Matt Gay",
+        "bye": null,
+        "short": "M. Gay",
+        "age": 26,
+        "s_adp": 169.6,
+        "s_ppg": 0
+    },
+    {
+        "player": "Matt Prater",
+        "bye": 5,
+        "short": "M. Prater",
+        "age": 36,
+        "s_adp": 169.3,
+        "s_ppg": 6.87
+    },
+    {
+        "player": "Ka'imi Fairbairn",
+        "bye": 8,
+        "short": "K. Fairbairn",
+        "age": 26,
+        "s_adp": 171.7,
+        "s_ppg": 6.53
+    },
+    {
+        "player": "Tennessee Titans",
+        "bye": 7,
+        "short": "Titans",
+        "age": "N/A",
+        "s_adp": 170.1,
+        "s_ppg": 5.73
+    },
+    {
+        "player": "Cleveland Browns",
+        "bye": 9,
+        "short": "Browns",
+        "age": "N/A",
+        "s_adp": 170.7,
+        "s_ppg": 5.93
+    },
+    {
+        "player": "Dan Bailey",
+        "bye": 7,
+        "short": "D. Bailey",
+        "age": 32,
+        "s_adp": 173.2,
+        "s_ppg": 7
+    },
+    {
+        "player": "Miami Dolphins",
+        "bye": 11,
+        "short": "Dolphins",
+        "age": "N/A",
+        "s_adp": 168.4,
+        "s_ppg": 5.53
+    },
+    {
+        "player": "Jason Myers",
+        "bye": 6,
+        "short": "J. Myers",
+        "age": 29,
+        "s_adp": 293.5,
+        "s_ppg": 7.2
+    },
+    {
+        "player": "Mason Crosby",
+        "bye": 5,
+        "short": "M. Crosby",
+        "age": 36,
+        "s_adp": 294.7,
+        "s_ppg": 7.13
+    },
+    {
+        "player": "Dede Westbrook",
+        "bye": 7,
+        "short": "D. Westbrook",
+        "age": 26,
+        "s_adp": 176,
+        "s_ppg": 7.97
+    },
+    {
+        "player": "James Washington",
+        "bye": 8,
+        "short": "J. Washington",
+        "age": 24,
+        "s_adp": 178,
+        "s_ppg": 7.11
+    },
+    {
+        "player": "Hunter Renfrow",
+        "bye": 6,
+        "short": "H. Renfrow",
+        "age": 24,
+        "s_adp": 177.5,
+        "s_ppg": 7.48
+    },
+    {
+        "player": "Chris Conley",
+        "bye": 7,
+        "short": "C. Conley",
+        "age": 27,
+        "s_adp": 181,
+        "s_ppg": 6.84
+    },
+    {
+        "player": "Corey Davis",
+        "bye": 7,
+        "short": "C. Davis",
+        "age": 25,
+        "s_adp": 181,
+        "s_ppg": 6.79
+    },
+    {
+        "player": "Cole Beasley",
+        "bye": 11,
+        "short": "C. Beasley",
+        "age": 31,
+        "s_adp": 179.5,
+        "s_ppg": 7.1
+    },
+    {
+        "player": "Josh Reynolds",
+        "bye": 9,
+        "short": "J. Reynolds",
+        "age": 25,
+        "s_adp": 183,
+        "s_ppg": 6.49
+    },
+    {
+        "player": "Darrynton Evans",
+        "bye": 7,
+        "short": "D. Evans",
+        "age": 22,
+        "s_adp": 185,
+        "s_ppg": 6.77
+    },
+    {
+        "player": "Randall Cobb",
+        "bye": 8,
+        "short": "R. Cobb",
+        "age": 30,
+        "s_adp": 182,
+        "s_ppg": 6.77
+    },
+    {
+        "player": "Denzel Mims",
+        "bye": 11,
+        "short": "D. Mims",
+        "age": 22,
+        "s_adp": 185,
+        "s_ppg": 6.4
+    },
+    {
+        "player": "Devine Ozigbo",
+        "bye": 7,
+        "short": "D. Ozigbo",
+        "age": 23,
+        "s_adp": 189.5,
+        "s_ppg": 6.07
+    },
+    {
+        "player": "Josh Gordon",
+        "bye": 6,
+        "short": "J. Gordon",
+        "age": 29,
+        "s_adp": 189,
+        "s_ppg": 6.09
+    },
+    {
+        "player": "Frank Gore",
+        "bye": 11,
+        "short": "F. Gore",
+        "age": 37,
+        "s_adp": 195,
+        "s_ppg": 5.68
+    },
+    {
+        "player": "Jalen Richard",
+        "bye": 6,
+        "short": "J. Richard",
+        "age": 26,
+        "s_adp": 189,
+        "s_ppg": 6.46
+    },
+    {
+        "player": "Derek Carr",
+        "bye": 6,
+        "short": "D. Carr",
+        "age": 29,
+        "s_adp": 201.5,
+        "s_ppg": 15.47
+    },
+    {
+        "player": "Danny Amendola",
+        "bye": 5,
+        "short": "D. Amendola",
+        "age": 34,
+        "s_adp": 186,
+        "s_ppg": 6.46
+    },
+    {
+        "player": "Jimmy Garoppolo",
+        "bye": 11,
+        "short": "J. Garoppolo",
+        "age": 28,
+        "s_adp": 177.2,
+        "s_ppg": 15.41
+    },
+    {
+        "player": "Steven Sims Jr.",
+        "bye": 8,
+        "short": "S. Sims Jr.",
+        "age": 23,
+        "s_adp": 189.5,
+        "s_ppg": 6.04
+    },
+    {
+        "player": "Adam Humphries",
+        "bye": 7,
+        "short": "A. Humphries",
+        "age": 27,
+        "s_adp": 192,
+        "s_ppg": 5.83
+    },
+    {
+        "player": "Sam Darnold",
+        "bye": 11,
+        "short": "S. Darnold",
+        "age": 23,
+        "s_adp": 206,
+        "s_ppg": 14.4
+    },
+    {
+        "player": "Marquez Valdes-Scantling",
+        "bye": 5,
+        "short": "M. Valdes-Scantling",
+        "age": 25,
+        "s_adp": 194,
+        "s_ppg": 5.42
+    },
+    {
+        "player": "Teddy Bridgewater",
+        "bye": 13,
+        "short": "T. Bridgewater",
+        "age": 27,
+        "s_adp": 208.5,
+        "s_ppg": 14.1
+    },
+    {
+        "player": "Phillip Dorsett II",
+        "bye": 6,
+        "short": "P. Dorsett II",
+        "age": 27,
+        "s_adp": 198.5,
+        "s_ppg": 5.05
+    },
+    {
+        "player": "John Ross III",
+        "bye": 9,
+        "short": "J. Ross III",
+        "age": 24,
+        "s_adp": 201,
+        "s_ppg": 4.81
+    },
+    {
+        "player": "Russell Gage",
+        "bye": 10,
+        "short": "R. Gage",
+        "age": 24,
+        "s_adp": 194,
+        "s_ppg": 5.62
+    },
+    {
+        "player": "Tua Tagovailoa",
+        "bye": 11,
+        "short": "T. Tagovailoa",
+        "age": 22,
+        "s_adp": 214.5,
+        "s_ppg": 12.7
+    },
+    {
+        "player": "Miles Boykin",
+        "bye": 8,
+        "short": "M. Boykin",
+        "age": 23,
+        "s_adp": 201.5,
+        "s_ppg": 4.85
+    },
+    {
+        "player": "Tyrod Taylor",
+        "bye": 10,
+        "short": "T. Taylor",
+        "age": 31,
+        "s_adp": 217,
+        "s_ppg": 12.58
+    },
+    {
+        "player": "K.J. Hamler",
+        "bye": 8,
+        "short": "K. Hamler",
+        "age": 21,
+        "s_adp": 202,
+        "s_ppg": 4.85
+    },
+    {
+        "player": "Tee Higgins",
+        "bye": 9,
+        "short": "T. Higgins",
+        "age": 21,
+        "s_adp": 201.5,
+        "s_ppg": 4.88
+    },
+    {
+        "player": "Jakeem Grant",
+        "bye": 11,
+        "short": "J. Grant",
+        "age": 27,
+        "s_adp": 201.5,
+        "s_ppg": 4.88
+    },
+    {
+        "player": "Rex Burkhead",
+        "bye": 6,
+        "short": "R. Burkhead",
+        "age": 30,
+        "s_adp": 208.5,
+        "s_ppg": 4.53
+    },
+    {
+        "player": "Trent Taylor",
+        "bye": 11,
+        "short": "T. Taylor",
+        "age": 26,
+        "s_adp": 202,
+        "s_ppg": 4.92
+    },
+    {
+        "player": "Lynn Bowden Jr.",
+        "bye": 11,
+        "short": "L. Bowden Jr.",
+        "age": 22,
+        "s_adp": 208.5,
+        "s_ppg": 4.62
+    },
+    {
+        "player": "Anthony McFarland Jr.",
+        "bye": 8,
+        "short": "A. McFarland Jr.",
+        "age": 21,
+        "s_adp": 217.5,
+        "s_ppg": 3.98
+    },
+    {
+        "player": "Giovani Bernard",
+        "bye": 9,
+        "short": "G. Bernard",
+        "age": 28,
+        "s_adp": 207.5,
+        "s_ppg": 4.73
+    },
+    {
+        "player": "Malcolm Brown",
+        "bye": 9,
+        "short": "M. Brown",
+        "age": 27,
+        "s_adp": 219,
+        "s_ppg": 3.89
+    },
+    {
+        "player": "Ted Ginn Jr.",
+        "bye": 11,
+        "short": "T. Ginn Jr.",
+        "age": 35,
+        "s_adp": 209,
+        "s_ppg": 4.32
+    },
+    {
+        "player": "Peyton Barber",
+        "bye": 8,
+        "short": "P. Barber",
+        "age": 26,
+        "s_adp": 218.5,
+        "s_ppg": 4
+    },
+    {
+        "player": "James Robinson",
+        "bye": 7,
+        "short": "J. Robinson",
+        "age": 22,
+        "s_adp": 219.5,
+        "s_ppg": 3.95
+    },
+    {
+        "player": "Dontrelle Inman",
+        "bye": 8,
+        "short": "D. Inman",
+        "age": 31,
+        "s_adp": 211.5,
+        "s_ppg": 4.25
+    },
+    {
+        "player": "Dwayne Haskins Jr.",
+        "bye": 8,
+        "short": "D. Haskins Jr.",
+        "age": 23,
+        "s_adp": 231,
+        "s_ppg": 10.97
+    },
+    {
+        "player": "Damiere Byrd",
+        "bye": 6,
+        "short": "D. Byrd",
+        "age": 27,
+        "s_adp": 212,
+        "s_ppg": 4.23
+    },
+    {
+        "player": "Ito Smith",
+        "bye": 10,
+        "short": "I. Smith",
+        "age": 24,
+        "s_adp": 220,
+        "s_ppg": 3.91
+    },
+    {
+        "player": "Willie Snead IV",
+        "bye": 8,
+        "short": "W. Snead IV",
+        "age": 27,
+        "s_adp": 216,
+        "s_ppg": 4.01
+    },
+    {
+        "player": "Antonio Gandy-Golden",
+        "bye": 8,
+        "short": "A. Gandy-Golden",
+        "age": 22,
+        "s_adp": 215,
+        "s_ppg": 4.12
+    },
+    {
+        "player": "Tre'Quan Smith",
+        "bye": 6,
+        "short": "T. Smith",
+        "age": 24,
+        "s_adp": 218.5,
+        "s_ppg": 3.7
+    },
+    {
+        "player": "Nick Foles",
+        "bye": 11,
+        "short": "N. Foles",
+        "age": 31,
+        "s_adp": 239.5,
+        "s_ppg": 9.85
+    },
+    {
+        "player": "J.D. McKissic",
+        "bye": 8,
+        "short": "J. McKissic",
+        "age": 27,
+        "s_adp": 220,
+        "s_ppg": 3.83
+    },
+    {
+        "player": "Lamical Perine",
+        "bye": 11,
+        "short": "L. Perine",
+        "age": 22,
+        "s_adp": 230.5,
+        "s_ppg": 3.45
+    },
+    {
+        "player": "Gus Edwards",
+        "bye": 8,
+        "short": "G. Edwards",
+        "age": 25,
+        "s_adp": 239.5,
+        "s_ppg": 3.05
+    },
+    {
+        "player": "Chase Claypool",
+        "bye": 8,
+        "short": "C. Claypool",
+        "age": 22,
+        "s_adp": 223,
+        "s_ppg": 3.45
+    },
+    {
+        "player": "Royce Freeman",
+        "bye": 8,
+        "short": "R. Freeman",
+        "age": 24,
+        "s_adp": 238.5,
+        "s_ppg": 3.1
+    },
+    {
+        "player": "Kendrick Bourne",
+        "bye": 11,
+        "short": "K. Bourne",
+        "age": 25,
+        "s_adp": 221.5,
+        "s_ppg": 3.57
+    },
+    {
+        "player": "Laviska Shenault Jr.",
+        "bye": 7,
+        "short": "L. Shenault Jr.",
+        "age": 21,
+        "s_adp": 224,
+        "s_ppg": 3.44
+    },
+    {
+        "player": "Eno Benjamin",
+        "bye": 8,
+        "short": "E. Benjamin",
+        "age": 21,
+        "s_adp": 242.5,
+        "s_ppg": 2.97
+    },
+    {
+        "player": "Greg Ward",
+        "bye": 9,
+        "short": "G. Ward",
+        "age": 25,
+        "s_adp": 227,
+        "s_ppg": 3.35
+    },
+    {
+        "player": "Keelan Cole",
+        "bye": 7,
+        "short": "K. Cole",
+        "age": 27,
+        "s_adp": 235,
+        "s_ppg": 3.07
+    },
+    {
+        "player": "Kenny Stills",
+        "bye": 8,
+        "short": "K. Stills",
+        "age": 28,
+        "s_adp": 234,
+        "s_ppg": 3.05
+    },
+    {
+        "player": "Kalif Raymond",
+        "bye": 7,
+        "short": "K. Raymond",
+        "age": 26,
+        "s_adp": 233.5,
+        "s_ppg": 3.05
+    },
+    {
+        "player": "Ty Montgomery",
+        "bye": 6,
+        "short": "T. Montgomery",
+        "age": 27,
+        "s_adp": 241,
+        "s_ppg": 2.99
+    },
+    {
+        "player": "Isaiah Coulter",
+        "bye": 8,
+        "short": "I. Coulter",
+        "age": 21,
+        "s_adp": 235,
+        "s_ppg": 3.01
+    },
+    {
+        "player": "Equanimeous St. Brown",
+        "bye": 5,
+        "short": "E. St. Brown",
+        "age": 23,
+        "s_adp": 236.5,
+        "s_ppg": 2.99
+    },
+    {
+        "player": "Darnell Mooney",
+        "bye": 11,
+        "short": "D. Mooney",
+        "age": 22,
+        "s_adp": 238.5,
+        "s_ppg": 2.95
+    },
+    {
+        "player": "John Hightower",
+        "bye": 9,
+        "short": "J. Hightower",
+        "age": 24,
+        "s_adp": 239.5,
+        "s_ppg": 2.91
+    },
+    {
+        "player": "Brian Hill",
+        "bye": 10,
+        "short": "B. Hill",
+        "age": 24,
+        "s_adp": 249,
+        "s_ppg": 2.71
+    },
+    {
+        "player": "Rashard Higgins",
+        "bye": 9,
+        "short": "R. Higgins",
+        "age": 25,
+        "s_adp": 242,
+        "s_ppg": 2.85
+    },
+    {
+        "player": "Tim Patrick",
+        "bye": 8,
+        "short": "T. Patrick",
+        "age": 26,
+        "s_adp": 235,
+        "s_ppg": 2.99
+    },
+    {
+        "player": "Dion Lewis",
+        "bye": 11,
+        "short": "D. Lewis",
+        "age": 29,
+        "s_adp": 244,
+        "s_ppg": 2.91
+    },
+    {
+        "player": "Mitchell Trubisky",
+        "bye": 11,
+        "short": "M. Trubisky",
+        "age": 26,
+        "s_adp": 265.5,
+        "s_ppg": 7.19
+    },
+    {
+        "player": "Mike Thomas",
+        "bye": 9,
+        "short": "M. Thomas",
+        "age": 26,
+        "s_adp": 244.5,
+        "s_ppg": 2.79
+    },
+    {
+        "player": "Darwin Thompson",
+        "bye": 10,
+        "short": "D. Thompson",
+        "age": 23,
+        "s_adp": 253.5,
+        "s_ppg": 2.64
+    },
+    {
+        "player": "DeeJay Dallas",
+        "bye": 6,
+        "short": "D. Dallas",
+        "age": 21,
+        "s_adp": 250,
+        "s_ppg": 2.74
+    },
+    {
+        "player": "Demarcus Robinson",
+        "bye": 10,
+        "short": "D. Robinson",
+        "age": 25,
+        "s_adp": 248.5,
+        "s_ppg": 2.63
+    },
+    {
+        "player": "David Moore",
+        "bye": 6,
+        "short": "D. Moore",
+        "age": 25,
+        "s_adp": 250.5,
+        "s_ppg": 2.55
+    },
+    {
+        "player": "Scotty Miller",
+        "bye": 13,
+        "short": "S. Miller",
+        "age": 23,
+        "s_adp": 240,
+        "s_ppg": 2.91
+    },
+    {
+        "player": "Ty Johnson",
+        "bye": 5,
+        "short": "T. Johnson",
+        "age": 22,
+        "s_adp": 265,
+        "s_ppg": 2.27
+    },
+    {
+        "player": "Mike Davis",
+        "bye": 13,
+        "short": "M. Davis",
+        "age": 27,
+        "s_adp": 259.5,
+        "s_ppg": 2.48
+    },
+    {
+        "player": "Kyle Juszczyk",
+        "bye": 11,
+        "short": "K. Juszczyk",
+        "age": 29,
+        "s_adp": 247.5,
+        "s_ppg": 2.91
+    },
+    {
+        "player": "Quez Watkins",
+        "bye": 9,
+        "short": "Q. Watkins",
+        "age": 22,
+        "s_adp": 247.5,
+        "s_ppg": 2.74
+    },
+    {
+        "player": "Gunner Olszewski",
+        "bye": 6,
+        "short": "G. Olszewski",
+        "age": 23,
+        "s_adp": 251.5,
+        "s_ppg": 2.57
+    },
+    {
+        "player": "Chris Hogan",
+        "bye": 11,
+        "short": "C. Hogan",
+        "age": 32,
+        "s_adp": 253.5,
+        "s_ppg": 2.49
+    },
+    {
+        "player": "Keke Coutee",
+        "bye": 8,
+        "short": "K. Coutee",
+        "age": 23,
+        "s_adp": 256.5,
+        "s_ppg": 2.4
+    },
+    {
+        "player": "Justice Hill",
+        "bye": 8,
+        "short": "J. Hill",
+        "age": 22,
+        "s_adp": 266.5,
+        "s_ppg": 2.21
+    },
+    {
+        "player": "Jalen Guyton",
+        "bye": 10,
+        "short": "J. Guyton",
+        "age": 23,
+        "s_adp": 259.5,
+        "s_ppg": 2.33
+    },
+    {
+        "player": "Myles Gaskin",
+        "bye": 11,
+        "short": "M. Gaskin",
+        "age": 23,
+        "s_adp": 268,
+        "s_ppg": 2.17
+    },
+    {
+        "player": "Jaylen Samuels",
+        "bye": 8,
+        "short": "J. Samuels",
+        "age": 24,
+        "s_adp": 265,
+        "s_ppg": 2.34
+    },
+    {
+        "player": "Mike Boone",
+        "bye": 7,
+        "short": "M. Boone",
+        "age": 25,
+        "s_adp": 277.5,
+        "s_ppg": 1.97
+    },
+    {
+        "player": "Tajaé Sharpe",
+        "bye": 7,
+        "short": "T. Sharpe",
+        "age": 25,
+        "s_adp": 263.5,
+        "s_ppg": 2.21
+    },
+    {
+        "player": "Bisi Johnson",
+        "bye": 7,
+        "short": "B. Johnson",
+        "age": 23,
+        "s_adp": 263,
+        "s_ppg": 2.22
+    },
+    {
+        "player": "Ryan Nall",
+        "bye": 11,
+        "short": "R. Nall",
+        "age": 24,
+        "s_adp": 275.5,
+        "s_ppg": 2.01
+    },
+    {
+        "player": "Bo Scarbrough",
+        "bye": 5,
+        "short": "B. Scarbrough",
+        "age": 23,
+        "s_adp": 284,
+        "s_ppg": 1.87
+    },
+    {
+        "player": "Cordarrelle Patterson",
+        "bye": 11,
+        "short": "C. Patterson",
+        "age": 29,
+        "s_adp": 273.5,
+        "s_ppg": 1.95
+    },
+    {
+        "player": "Devin Duvernay",
+        "bye": 8,
+        "short": "D. Duvernay",
+        "age": 22,
+        "s_adp": 270,
+        "s_ppg": 2.12
+    },
+    {
+        "player": "DaeSean Hamilton",
+        "bye": 8,
+        "short": "D. Hamilton",
+        "age": 25,
+        "s_adp": 269.5,
+        "s_ppg": 2.13
+    },
+    {
+        "player": "J.J. Arcega-Whiteside",
+        "bye": 9,
+        "short": "J. Arcega-Whiteside",
+        "age": 23,
+        "s_adp": 268,
+        "s_ppg": 2.16
+    },
+    {
+        "player": "Patrick Laird",
+        "bye": 11,
+        "short": "P. Laird",
+        "age": 25,
+        "s_adp": 267,
+        "s_ppg": 2.32
+    },
+    {
+        "player": "Javon Wims",
+        "bye": 11,
+        "short": "J. Wims",
+        "age": 25,
+        "s_adp": 271.5,
+        "s_ppg": 2.09
+    },
+    {
+        "player": "Jakobi Meyers",
+        "bye": 6,
+        "short": "J. Meyers",
+        "age": 23,
+        "s_adp": 273,
+        "s_ppg": 2.05
+    },
+    {
+        "player": "Seth Roberts",
+        "bye": 13,
+        "short": "S. Roberts",
+        "age": 29,
+        "s_adp": 266.5,
+        "s_ppg": 2.21
+    },
+    {
+        "player": "Marvin Hall",
+        "bye": 5,
+        "short": "M. Hall",
+        "age": 27,
+        "s_adp": 281.5,
+        "s_ppg": 1.81
+    },
+    {
+        "player": "Andy Isabella",
+        "bye": 8,
+        "short": "A. Isabella",
+        "age": 23,
+        "s_adp": 280,
+        "s_ppg": 1.83
+    },
+    {
+        "player": "Donovan Peoples-Jones",
+        "bye": 9,
+        "short": "D. Peoples-Jones",
+        "age": 21,
+        "s_adp": 277,
+        "s_ppg": 1.92
+    },
+    {
+        "player": "Qadree Ollison",
+        "bye": 10,
+        "short": "Q. Ollison",
+        "age": 23,
+        "s_adp": 295.5,
+        "s_ppg": 1.64
+    },
+    {
+        "player": "Eric Ebron",
+        "bye": 8,
+        "short": "E. Ebron",
+        "age": 27,
+        "s_adp": 281,
+        "s_ppg": 7.54
+    },
+    {
+        "player": "Andy Janovich",
+        "bye": 9,
+        "short": "A. Janovich",
+        "age": 27,
+        "s_adp": 289,
+        "s_ppg": 1.8
+    },
+    {
+        "player": "Olamide Zaccheaus",
+        "bye": 10,
+        "short": "O. Zaccheaus",
+        "age": 23,
+        "s_adp": 279.5,
+        "s_ppg": 1.87
+    },
+    {
+        "player": "James Proche",
+        "bye": 8,
+        "short": "J. Proche",
+        "age": 23,
+        "s_adp": 282,
+        "s_ppg": 1.8
+    },
+    {
+        "player": "Mack Hollins",
+        "bye": 11,
+        "short": "M. Hollins",
+        "age": 26,
+        "s_adp": 287.5,
+        "s_ppg": 1.74
+    },
+    {
+        "player": "Van Jefferson",
+        "bye": 9,
+        "short": "V. Jefferson",
+        "age": 24,
+        "s_adp": 279,
+        "s_ppg": 1.97
+    },
+    {
+        "player": "Jack Doyle",
+        "bye": 7,
+        "short": "J. Doyle",
+        "age": 30,
+        "s_adp": 222.6,
+        "s_ppg": 7.48
+    },
+    {
+        "player": "Justin Herbert",
+        "bye": 10,
+        "short": "J. Herbert",
+        "age": 22,
+        "s_adp": 307,
+        "s_ppg": 4.51
+    },
+    {
+        "player": "Greg Olsen",
+        "bye": 6,
+        "short": "G. Olsen",
+        "age": 35,
+        "s_adp": 288.5,
+        "s_ppg": 7.13
+    },
+    {
+        "player": "Corey Clement",
+        "bye": 9,
+        "short": "C. Clement",
+        "age": 25,
+        "s_adp": 297.5,
+        "s_ppg": 1.65
+    },
+    {
+        "player": "Jordan Wilkins",
+        "bye": 7,
+        "short": "J. Wilkins",
+        "age": 26,
+        "s_adp": 302.5,
+        "s_ppg": 1.54
+    },
+    {
+        "player": "Joe Reed",
+        "bye": 10,
+        "short": "J. Reed",
+        "age": 22,
+        "s_adp": 285.5,
+        "s_ppg": 1.75
+    },
+    {
+        "player": "KeeSean Johnson",
+        "bye": 8,
+        "short": "K. Johnson",
+        "age": 23,
+        "s_adp": 290,
+        "s_ppg": 1.71
+    },
+    {
+        "player": "Taysom Hill",
+        "bye": 6,
+        "short": "T. Hill",
+        "age": 30,
+        "s_adp": 301.5,
+        "s_ppg": 5.04
+    },
+    {
+        "player": "Jimmy Graham",
+        "bye": 11,
+        "short": "J. Graham",
+        "age": 33,
+        "s_adp": 293.5,
+        "s_ppg": 6.79
+    },
+    {
+        "player": "Ventell Bryant",
+        "bye": 10,
+        "short": "V. Bryant",
+        "age": 24,
+        "s_adp": 296.5,
+        "s_ppg": 1.57
+    },
+    {
+        "player": "Quintez Cephus",
+        "bye": 5,
+        "short": "Q. Cephus",
+        "age": 22,
+        "s_adp": 297.5,
+        "s_ppg": 1.56
+    },
+    {
+        "player": "Zach Pascal",
+        "bye": 7,
+        "short": "Z. Pascal",
+        "age": 25,
+        "s_adp": 290.5,
+        "s_ppg": 1.68
+    },
+    {
+        "player": "Dante Pettis",
+        "bye": 11,
+        "short": "D. Pettis",
+        "age": 24,
+        "s_adp": 300,
+        "s_ppg": 1.54
+    },
+    {
+        "player": "Jace Sternberger",
+        "bye": 5,
+        "short": "J. Sternberger",
+        "age": 24,
+        "s_adp": 299.5,
+        "s_ppg": 6.41
+    },
+    {
+        "player": "Jeff Wilson Jr.",
+        "bye": 11,
+        "short": "J. Wilson Jr.",
+        "age": 24,
+        "s_adp": 312,
+        "s_ppg": 1.36
+    },
+    {
+        "player": "Irv Smith Jr.",
+        "bye": 7,
+        "short": "I. Smith Jr.",
+        "age": 22,
+        "s_adp": 298.5,
+        "s_ppg": 6.49
+    },
+    {
+        "player": "Alex Erickson",
+        "bye": 9,
+        "short": "A. Erickson",
+        "age": 27,
+        "s_adp": 296,
+        "s_ppg": 1.61
+    },
+    {
+        "player": "Noah Brown",
+        "bye": 10,
+        "short": "N. Brown",
+        "age": 24,
+        "s_adp": 305,
+        "s_ppg": 1.43
+    },
+    {
+        "player": "Richie James Jr.",
+        "bye": 11,
+        "short": "R. James Jr.",
+        "age": 25,
+        "s_adp": 309,
+        "s_ppg": 1.35
+    },
+    {
+        "player": "Freddie Swain",
+        "bye": 6,
+        "short": "F. Swain",
+        "age": 22,
+        "s_adp": 299.5,
+        "s_ppg": 1.55
+    },
+    {
+        "player": "Braxton Berrios",
+        "bye": 11,
+        "short": "B. Berrios",
+        "age": 24,
+        "s_adp": 311,
+        "s_ppg": 1.3
+    },
+    {
+        "player": "Devontae Booker",
+        "bye": 6,
+        "short": "D. Booker",
+        "age": 28,
+        "s_adp": 314.5,
+        "s_ppg": 1.3
+    },
+    {
+        "player": "Ian Thomas",
+        "bye": 13,
+        "short": "I. Thomas",
+        "age": 24,
+        "s_adp": 305.5,
+        "s_ppg": 5.93
+    },
+    {
+        "player": "Gerald Everett",
+        "bye": 9,
+        "short": "G. Everett",
+        "age": 26,
+        "s_adp": 306.5,
+        "s_ppg": 5.86
+    },
+    {
+        "player": "C.J. Ham",
+        "bye": 7,
+        "short": "C. Ham",
+        "age": 27,
+        "s_adp": 302.5,
+        "s_ppg": 1.58
+    },
+    {
+        "player": "Dawson Knox",
+        "bye": 11,
+        "short": "D. Knox",
+        "age": 23,
+        "s_adp": 312,
+        "s_ppg": 5.4
+    },
+    {
+        "player": "Nelson Agholor",
+        "bye": 6,
+        "short": "N. Agholor",
+        "age": 27,
+        "s_adp": 310,
+        "s_ppg": 1.36
+    },
+    {
+        "player": "Chandler Cox",
+        "bye": 11,
+        "short": "C. Cox",
+        "age": 24,
+        "s_adp": 315.5,
+        "s_ppg": 1.33
+    },
+    {
+        "player": "Kyle Rudolph",
+        "bye": 7,
+        "short": "K. Rudolph",
+        "age": 30,
+        "s_adp": 315.5,
+        "s_ppg": 5.19
+    },
+    {
+        "player": "Devin Asiasi",
+        "bye": 6,
+        "short": "D. Asiasi",
+        "age": 23,
+        "s_adp": 317,
+        "s_ppg": 5.03
+    },
+    {
+        "player": "Cody Hollister",
+        "bye": 7,
+        "short": "C. Hollister",
+        "age": 26,
+        "s_adp": 323,
+        "s_ppg": 1.13
+    },
+    {
+        "player": "Ryan Fitzpatrick",
+        "bye": 11,
+        "short": "R. Fitzpatrick",
+        "age": 37,
+        "s_adp": 337,
+        "s_ppg": 3.11
+    },
+    {
+        "player": "Wayne Gallman",
+        "bye": 11,
+        "short": "W. Gallman",
+        "age": 25,
+        "s_adp": 321.5,
+        "s_ppg": 1.21
+    },
+    {
+        "player": "Isaiah Ford",
+        "bye": 11,
+        "short": "I. Ford",
+        "age": 24,
+        "s_adp": 312,
+        "s_ppg": 1.35
+    },
+    {
+        "player": "Darren Fells",
+        "bye": 8,
+        "short": "D. Fells",
+        "age": 34,
+        "s_adp": 320.5,
+        "s_ppg": 4.78
+    },
+    {
+        "player": "Isaiah McKenzie",
+        "bye": 11,
+        "short": "I. McKenzie",
+        "age": 25,
+        "s_adp": 320.5,
+        "s_ppg": 1.17
+    },
+    {
+        "player": "Jason Moore",
+        "bye": 10,
+        "short": "J. Moore",
+        "age": 25,
+        "s_adp": 329,
+        "s_ppg": 1.07
+    },
+    {
+        "player": "Tyler Eifert",
+        "bye": 7,
+        "short": "T. Eifert",
+        "age": 29,
+        "s_adp": 324.5,
+        "s_ppg": 4.59
+    },
+    {
+        "player": "Corey Coleman",
+        "bye": 11,
+        "short": "C. Coleman",
+        "age": 26,
+        "s_adp": 317.5,
+        "s_ppg": 1.25
+    },
+    {
+        "player": "Zay Jones",
+        "bye": 6,
+        "short": "Z. Jones",
+        "age": 25,
+        "s_adp": 317,
+        "s_ppg": 1.27
+    },
+    {
+        "player": "Cole Kmet",
+        "bye": 11,
+        "short": "C. Kmet",
+        "age": 21,
+        "s_adp": 333,
+        "s_ppg": 4.23
+    },
+    {
+        "player": "Jarrett Stidham",
+        "bye": 6,
+        "short": "J. Stidham",
+        "age": 24,
+        "s_adp": 348.5,
+        "s_ppg": 2.69
+    },
+    {
+        "player": "Nick Boyle",
+        "bye": 8,
+        "short": "N. Boyle",
+        "age": 27,
+        "s_adp": 332.5,
+        "s_ppg": 4.19
+    },
+    {
+        "player": "K.J. Osborn",
+        "bye": 7,
+        "short": "K. Osborn",
+        "age": 23,
+        "s_adp": 326,
+        "s_ppg": 1.07
+    },
+    {
+        "player": "Ameer Abdullah",
+        "bye": 7,
+        "short": "A. Abdullah",
+        "age": 27,
+        "s_adp": 332.5,
+        "s_ppg": 1.09
+    },
+    {
+        "player": "Travis Benjamin",
+        "bye": 11,
+        "short": "T. Benjamin",
+        "age": 30,
+        "s_adp": 329.5,
+        "s_ppg": 1.04
+    },
+    {
+        "player": "Vyncint Smith",
+        "bye": 11,
+        "short": "V. Smith",
+        "age": 24,
+        "s_adp": 330.5,
+        "s_ppg": 1.04
+    },
+    {
+        "player": "Cedrick Wilson",
+        "bye": 10,
+        "short": "C. Wilson",
+        "age": 25,
+        "s_adp": 332,
+        "s_ppg": 1.03
+    },
+    {
+        "player": "Marcus Mariota",
+        "bye": 6,
+        "short": "M. Mariota",
+        "age": 26,
+        "s_adp": 354.5,
+        "s_ppg": 2.46
+    },
+    {
+        "player": "Travis Homer",
+        "bye": 6,
+        "short": "T. Homer",
+        "age": 22,
+        "s_adp": 337,
+        "s_ppg": 1.04
+    },
+    {
+        "player": "Dezmon Patmon",
+        "bye": 7,
+        "short": "D. Patmon",
+        "age": 22,
+        "s_adp": 334,
+        "s_ppg": 1.03
+    },
+    {
+        "player": "Deonte Harris",
+        "bye": 6,
+        "short": "D. Harris",
+        "age": 22,
+        "s_adp": 335,
+        "s_ppg": 1.02
+    },
+    {
+        "player": "T.J. Yeldon",
+        "bye": 11,
+        "short": "T. Yeldon",
+        "age": 26,
+        "s_adp": 339.5,
+        "s_ppg": 1.03
+    },
+    {
+        "player": "Trey Burton",
+        "bye": 7,
+        "short": "T. Burton",
+        "age": 28,
+        "s_adp": 340.5,
+        "s_ppg": 3.99
+    },
+    {
+        "player": "DeAndre Carter",
+        "bye": 8,
+        "short": "D. Carter",
+        "age": 27,
+        "s_adp": 339,
+        "s_ppg": 0.97
+    },
+    {
+        "player": "Logan Thomas",
+        "bye": 8,
+        "short": "L. Thomas",
+        "age": 29,
+        "s_adp": 342,
+        "s_ppg": 3.91
+    },
+    {
+        "player": "Jameis Winston",
+        "bye": 6,
+        "short": "J. Winston",
+        "age": 26,
+        "s_adp": 360.5,
+        "s_ppg": 2.29
+    },
+    {
+        "player": "John Ursua",
+        "bye": 6,
+        "short": "J. Ursua",
+        "age": 26,
+        "s_adp": 338.5,
+        "s_ppg": 0.98
+    },
+    {
+        "player": "C.J. Uzomah",
+        "bye": 9,
+        "short": "C. Uzomah",
+        "age": 27,
+        "s_adp": 345,
+        "s_ppg": 3.67
+    },
+    {
+        "player": "KhaDarel Hodge",
+        "bye": 9,
+        "short": "K. Hodge",
+        "age": 25,
+        "s_adp": 346.5,
+        "s_ppg": 0.87
+    },
+    {
+        "player": "Dan Arnold",
+        "bye": 8,
+        "short": "D. Arnold",
+        "age": 25,
+        "s_adp": 347.5,
+        "s_ppg": 3.53
+    },
+    {
+        "player": "Jalen Hurts",
+        "bye": 9,
+        "short": "J. Hurts",
+        "age": 22,
+        "s_adp": 367.5,
+        "s_ppg": 2.05
+    },
+    {
+        "player": "Dalton Keene",
+        "bye": 6,
+        "short": "D. Keene",
+        "age": 21,
+        "s_adp": 349,
+        "s_ppg": 3.46
+    },
+    {
+        "player": "Pharoh Cooper",
+        "bye": 13,
+        "short": "P. Cooper",
+        "age": 25,
+        "s_adp": 346.5,
+        "s_ppg": 0.85
+    },
+    {
+        "player": "Tyrie Cleveland",
+        "bye": 8,
+        "short": "T. Cleveland",
+        "age": 22,
+        "s_adp": 347.5,
+        "s_ppg": 0.85
+    },
+    {
+        "player": "David Njoku",
+        "bye": 9,
+        "short": "D. Njoku",
+        "age": 24,
+        "s_adp": 353.5,
+        "s_ppg": 3.18
+    },
+    {
+        "player": "Jamize Olawale",
+        "bye": 10,
+        "short": "J. Olawale",
+        "age": 31,
+        "s_adp": 373,
+        "s_ppg": 0.61
+    },
+    {
+        "player": "Isaiah Hodgins",
+        "bye": 11,
+        "short": "I. Hodgins",
+        "age": 21,
+        "s_adp": 350,
+        "s_ppg": 0.84
+    },
+    {
+        "player": "Jordan Reed",
+        "bye": 11,
+        "short": "J. Reed",
+        "age": 30,
+        "s_adp": 356.5,
+        "s_ppg": 3.05
+    },
+    {
+        "player": "Tyler Ervin",
+        "bye": 5,
+        "short": "T. Ervin",
+        "age": 26,
+        "s_adp": 353,
+        "s_ppg": 0.84
+    },
+    {
+        "player": "Alex Armah",
+        "bye": 13,
+        "short": "A. Armah",
+        "age": 26,
+        "s_adp": 369,
+        "s_ppg": 0.64
+    },
+    {
+        "player": "Cameron Brate",
+        "bye": 13,
+        "short": "C. Brate",
+        "age": 29,
+        "s_adp": 359,
+        "s_ppg": 2.91
+    },
+    {
+        "player": "Chad Beebe",
+        "bye": 7,
+        "short": "C. Beebe",
+        "age": 26,
+        "s_adp": 358,
+        "s_ppg": 0.73
+    },
+    {
+        "player": "D'Ernest Johnson",
+        "bye": 9,
+        "short": "D. Johnson",
+        "age": 24,
+        "s_adp": 366,
+        "s_ppg": 0.69
+    },
+    {
+        "player": "Jeremy Sprinkle",
+        "bye": 8,
+        "short": "J. Sprinkle",
+        "age": 26,
+        "s_adp": 360,
+        "s_ppg": 2.95
+    },
+    {
+        "player": "Jason Witten",
+        "bye": 6,
+        "short": "J. Witten",
+        "age": 38,
+        "s_adp": 356.5,
+        "s_ppg": 3.2
+    }
+]

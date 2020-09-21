@@ -1,0 +1,1002 @@
+[
+    {
+        "player": "Christian McCaffrey",
+        "y_adp": 1
+    },
+    {
+        "player": "Saquon Barkley",
+        "y_adp": 2
+    },
+    {
+        "player": "Ezekiel Elliott",
+        "y_adp": 3
+    },
+    {
+        "player": "Alvin Kamara",
+        "y_adp": 4
+    },
+    {
+        "player": "Michael Thomas",
+        "y_adp": 6
+    },
+    {
+        "player": "Dalvin Cook",
+        "y_adp": 7
+    },
+    {
+        "player": "Derrick Henry",
+        "y_adp": 5
+    },
+    {
+        "player": "Davante Adams",
+        "y_adp": 8
+    },
+    {
+        "player": "Clyde Edwards-Helaire",
+        "y_adp": 11
+    },
+    {
+        "player": "Nick Chubb",
+        "y_adp": 13
+    },
+    {
+        "player": "Tyreek Hill",
+        "y_adp": 10
+    },
+    {
+        "player": "Patrick Mahomes",
+        "y_adp": 9
+    },
+    {
+        "player": "Josh Jacobs",
+        "y_adp": 19
+    },
+    {
+        "player": "Joe Mixon",
+        "y_adp": 12
+    },
+    {
+        "player": "Miles Sanders",
+        "y_adp": 21
+    },
+    {
+        "player": "Julio Jones",
+        "y_adp": 14
+    },
+    {
+        "player": "Travis Kelce",
+        "y_adp": 18
+    },
+    {
+        "player": "Lamar Jackson",
+        "y_adp": 15
+    },
+    {
+        "player": "DeAndre Hopkins",
+        "y_adp": 17
+    },
+    {
+        "player": "Kenyan Drake",
+        "y_adp": 16
+    },
+    {
+        "player": "Austin Ekeler",
+        "y_adp": 23
+    },
+    {
+        "player": "Aaron Jones",
+        "y_adp": 22
+    },
+    {
+        "player": "George Kittle",
+        "y_adp": 20
+    },
+    {
+        "player": "Chris Godwin",
+        "y_adp": 24
+    },
+    {
+        "player": "Kenny Golladay",
+        "y_adp": 25
+    },
+    {
+        "player": "Mike Evans",
+        "y_adp": 26
+    },
+    {
+        "player": "Amari Cooper",
+        "y_adp": 36
+    },
+    {
+        "player": "Adam Thielen",
+        "y_adp": 30
+    },
+    {
+        "player": "Todd Gurley",
+        "y_adp": 32
+    },
+    {
+        "player": "Allen Robinson",
+        "y_adp": 27
+    },
+    {
+        "player": "Chris Carson",
+        "y_adp": 31
+    },
+    {
+        "player": "D.J. Moore",
+        "y_adp": 38
+    },
+    {
+        "player": "James Conner",
+        "y_adp": 29
+    },
+    {
+        "player": "Odell Beckham",
+        "y_adp": 28
+    },
+    {
+        "player": "JuJu Smith-Schuster",
+        "y_adp": 34
+    },
+    {
+        "player": "Mark Andrews",
+        "y_adp": 35
+    },
+    {
+        "player": "Zach Ertz",
+        "y_adp": 43
+    },
+    {
+        "player": "Cooper Kupp",
+        "y_adp": 45
+    },
+    {
+        "player": "Melvin Gordon",
+        "y_adp": 33
+    },
+    {
+        "player": "Calvin Ridley",
+        "y_adp": 47
+    },
+    {
+        "player": "Le'Veon Bell",
+        "y_adp": 44
+    },
+    {
+        "player": "Dak Prescott",
+        "y_adp": 42
+    },
+    {
+        "player": "A.J. Brown",
+        "y_adp": 39
+    },
+    {
+        "player": "Leonard Fournette",
+        "y_adp": 46
+    },
+    {
+        "player": "David Johnson",
+        "y_adp": 56
+    },
+    {
+        "player": "Jonathan Taylor",
+        "y_adp": 37
+    },
+    {
+        "player": "Russell Wilson",
+        "y_adp": 41
+    },
+    {
+        "player": "Deshaun Watson",
+        "y_adp": 52
+    },
+    {
+        "player": "Tyler Lockett",
+        "y_adp": 50
+    },
+    {
+        "player": "Robert Woods",
+        "y_adp": 64
+    },
+    {
+        "player": "Kyler Murray",
+        "y_adp": 49
+    },
+    {
+        "player": "Darren Waller",
+        "y_adp": 57
+    },
+    {
+        "player": "Courtland Sutton",
+        "y_adp": 55
+    },
+    {
+        "player": "Mark Ingram",
+        "y_adp": 40
+    },
+    {
+        "player": "DK Metcalf",
+        "y_adp": 53
+    },
+    {
+        "player": "Keenan Allen",
+        "y_adp": 60
+    },
+    {
+        "player": "D.J. Chark",
+        "y_adp": 54
+    },
+    {
+        "player": "Terry McLaurin",
+        "y_adp": 48
+    },
+    {
+        "player": "Devin Singletary",
+        "y_adp": 58
+    },
+    {
+        "player": "Raheem Mostert",
+        "y_adp": 51
+    },
+    {
+        "player": "T.Y. Hilton",
+        "y_adp": 66
+    },
+    {
+        "player": "Stefon Diggs",
+        "y_adp": 67
+    },
+    {
+        "player": "Evan Engram",
+        "y_adp": 84
+    },
+    {
+        "player": "Cam Akers",
+        "y_adp": 70
+    },
+    {
+        "player": "Kareem Hunt",
+        "y_adp": 74
+    },
+    {
+        "player": "D'Andre Swift",
+        "y_adp": 63
+    },
+    {
+        "player": "DeVante Parker",
+        "y_adp": 61
+    },
+    {
+        "player": "David Montgomery",
+        "y_adp": 59
+    },
+    {
+        "player": "Marquise Brown",
+        "y_adp": 80
+    },
+    {
+        "player": "Michael Gallup",
+        "y_adp": 76
+    },
+    {
+        "player": "Ronald Jones",
+        "y_adp": 83
+    },
+    {
+        "player": "Hunter Henry",
+        "y_adp": 69
+    },
+    {
+        "player": "Josh Allen",
+        "y_adp": 68
+    },
+    {
+        "player": "Tyler Higbee",
+        "y_adp": 62
+    },
+    {
+        "player": "Jarvis Landry",
+        "y_adp": 87
+    },
+    {
+        "player": "Matt Ryan",
+        "y_adp": 72
+    },
+    {
+        "player": "Tom Brady",
+        "y_adp": 81
+    },
+    {
+        "player": "Drew Brees",
+        "y_adp": 71
+    },
+    {
+        "player": "Tyler Boyd",
+        "y_adp": 86
+    },
+    {
+        "player": "Rob Gronkowski",
+        "y_adp": 77
+    },
+    {
+        "player": "A.J. Green",
+        "y_adp": 85
+    },
+    {
+        "player": "Will Fuller",
+        "y_adp": 96
+    },
+    {
+        "player": "Julian Edelman",
+        "y_adp": 100
+    },
+    {
+        "player": "J.K. Dobbins",
+        "y_adp": 91
+    },
+    {
+        "player": "Carson Wentz",
+        "y_adp": 93
+    },
+    {
+        "player": "Jared Cook",
+        "y_adp": 73
+    },
+    {
+        "player": "San Francisco 49ers",
+        "y_adp": 65
+    },
+    {
+        "player": "James White",
+        "y_adp": 106
+    },
+    {
+        "player": "Brandin Cooks",
+        "y_adp": 114
+    },
+    {
+        "player": "Phillip Lindsay",
+        "y_adp": 103
+    },
+    {
+        "player": "Aaron Rodgers",
+        "y_adp": 97
+    },
+    {
+        "player": "Tarik Cohen",
+        "y_adp": 121
+    },
+    {
+        "player": "Hayden Hurst",
+        "y_adp": 104
+    },
+    {
+        "player": "Marvin Jones",
+        "y_adp": 111
+    },
+    {
+        "player": "Marlon Mack",
+        "y_adp": 107
+    },
+    {
+        "player": "Pittsburgh Steelers",
+        "y_adp": 79
+    },
+    {
+        "player": "Jordan Howard",
+        "y_adp": 92
+    },
+    {
+        "player": "Kerryon Johnson",
+        "y_adp": 132
+    },
+    {
+        "player": "Diontae Johnson",
+        "y_adp": 109
+    },
+    {
+        "player": "Matt Breida",
+        "y_adp": 98
+    },
+    {
+        "player": "Baltimore Ravens",
+        "y_adp": 75
+    },
+    {
+        "player": "Austin Hooper",
+        "y_adp": 116
+    },
+    {
+        "player": "CeeDee Lamb",
+        "y_adp": 112
+    },
+    {
+        "player": "Zack Moss",
+        "y_adp": 118
+    },
+    {
+        "player": "Noah Fant",
+        "y_adp": 128
+    },
+    {
+        "player": "Matthew Stafford",
+        "y_adp": 101
+    },
+    {
+        "player": "Tevin Coleman",
+        "y_adp": 122
+    },
+    {
+        "player": "Buffalo Bills",
+        "y_adp": 89
+    },
+    {
+        "player": "Christian Kirk",
+        "y_adp": 168
+    },
+    {
+        "player": "Jamison Crowder",
+        "y_adp": 146
+    },
+    {
+        "player": "Jerry Jeudy",
+        "y_adp": 125
+    },
+    {
+        "player": "Darius Slayton",
+        "y_adp": 126
+    },
+    {
+        "player": "Emmanuel Sanders",
+        "y_adp": 133
+    },
+    {
+        "player": "Henry Ruggs",
+        "y_adp": 144
+    },
+    {
+        "player": "John Brown",
+        "y_adp": 117
+    },
+    {
+        "player": "Latavius Murray",
+        "y_adp": 139
+    },
+    {
+        "player": "New England Patriots",
+        "y_adp": 113
+    },
+    {
+        "player": "Mike Gesicki",
+        "y_adp": 138
+    },
+    {
+        "player": "Cam Newton",
+        "y_adp": 119
+    },
+    {
+        "player": "Sterling Shepard",
+        "y_adp": 163
+    },
+    {
+        "player": "Sony Michel",
+        "y_adp": 105
+    },
+    {
+        "player": "Alexander Mattison",
+        "y_adp": 130
+    },
+    {
+        "player": "Mecole Hardman",
+        "y_adp": 154
+    },
+    {
+        "player": "T.J. Hockenson",
+        "y_adp": 160
+    },
+    {
+        "player": "Darrell Henderson",
+        "y_adp": 142
+    },
+    {
+        "player": "Antonio Gibson",
+        "y_adp": 124
+    },
+    {
+        "player": "Daniel Jones",
+        "y_adp": 161
+    },
+    {
+        "player": "Ben Roethlisberger",
+        "y_adp": 120
+    },
+    {
+        "player": "Joe Burrow",
+        "y_adp": 129
+    },
+    {
+        "player": "Baker Mayfield",
+        "y_adp": 141
+    },
+    {
+        "player": "Jalen Reagor",
+        "y_adp": 152
+    },
+    {
+        "player": "New Orleans Saints",
+        "y_adp": 108
+    },
+    {
+        "player": "Jared Goff",
+        "y_adp": 172
+    },
+    {
+        "player": "Tony Pollard",
+        "y_adp": 165
+    },
+    {
+        "player": "Deebo Samuel",
+        "y_adp": 95
+    },
+    {
+        "player": "Ke'Shawn Vaughn",
+        "y_adp": 123
+    },
+    {
+        "player": "Preston Williams",
+        "y_adp": 180
+    },
+    {
+        "player": "Jimmy Garoppolo",
+        "y_adp": 140
+    },
+    {
+        "player": "Chicago Bears",
+        "y_adp": 102
+    },
+    {
+        "player": "Justin Jefferson",
+        "y_adp": 164
+    },
+    {
+        "player": "Damien Harris",
+        "y_adp": 145
+    },
+    {
+        "player": "Justin Tucker",
+        "y_adp": 78
+    },
+    {
+        "player": "Duke Johnson",
+        "y_adp": 183
+    },
+    {
+        "player": "Jonnu Smith",
+        "y_adp": 178
+    },
+    {
+        "player": "Sammy Watkins",
+        "y_adp": 166
+    },
+    {
+        "player": "Mike Williams",
+        "y_adp": 170
+    },
+    {
+        "player": "DeSean Jackson",
+        "y_adp": 173
+    },
+    {
+        "player": "Golden Tate",
+        "y_adp": 185
+    },
+    {
+        "player": "Kansas City Chiefs",
+        "y_adp": 110
+    },
+    {
+        "player": "Adrian Peterson",
+        "y_adp": 148
+    },
+    {
+        "player": "Ryan Tannehill",
+        "y_adp": 169
+    },
+    {
+        "player": "Harrison Butker",
+        "y_adp": 82
+    },
+    {
+        "player": "Dallas Goedert",
+        "y_adp": 193
+    },
+    {
+        "player": "Minnesota Vikings",
+        "y_adp": 135
+    },
+    {
+        "player": "Chase Edmonds",
+        "y_adp": 159
+    },
+    {
+        "player": "Blake Jarwin",
+        "y_adp": 176
+    },
+    {
+        "player": "Wil Lutz",
+        "y_adp": 94
+    },
+    {
+        "player": "Anthony Miller",
+        "y_adp": 202
+    },
+    {
+        "player": "Curtis Samuel",
+        "y_adp": 186
+    },
+    {
+        "player": "Boston Scott",
+        "y_adp": 189
+    },
+    {
+        "player": "Eric Ebron",
+        "y_adp": 177
+    },
+    {
+        "player": "Gardner Minshew",
+        "y_adp": 127
+    },
+    {
+        "player": "Kirk Cousins",
+        "y_adp": 182
+    },
+    {
+        "player": "Ryquell Armstead",
+        "y_adp": 143
+    },
+    {
+        "player": "Robby Anderson",
+        "y_adp": 201
+    },
+    {
+        "player": "Jack Doyle",
+        "y_adp": 206
+    },
+    {
+        "player": "Chris Herndon",
+        "y_adp": 211
+    },
+    {
+        "player": "A.J. Dillon",
+        "y_adp": 179
+    },
+    {
+        "player": "Drew Lock",
+        "y_adp": 156
+    },
+    {
+        "player": "Teddy Bridgewater",
+        "y_adp": 147
+    },
+    {
+        "player": "N'Keal Harry",
+        "y_adp": 204
+    },
+    {
+        "player": "Larry Fitzgerald",
+        "y_adp": 150
+    },
+    {
+        "player": "Allen Lazard",
+        "y_adp": 187
+    },
+    {
+        "player": "O.J. Howard",
+        "y_adp": 153
+    },
+    {
+        "player": "Greg Zuerlein",
+        "y_adp": 99
+    },
+    {
+        "player": "Philip Rivers",
+        "y_adp": 155
+    },
+    {
+        "player": "Brandon Aiyuk",
+        "y_adp": 196
+    },
+    {
+        "player": "Los Angeles Chargers",
+        "y_adp": 222
+    },
+    {
+        "player": "Breshad Perriman",
+        "y_adp": 200
+    },
+    {
+        "player": "Tampa Bay Buccaneers",
+        "y_adp": 208
+    },
+    {
+        "player": "Greg Olsen",
+        "y_adp": 151
+    },
+    {
+        "player": "Michael Pittman Jr.",
+        "y_adp": 194
+    },
+    {
+        "player": "Robbie Gould",
+        "y_adp": 115
+    },
+    {
+        "player": "Jerick McKinnon",
+        "y_adp": 184
+    },
+    {
+        "player": "Los Angeles Rams",
+        "y_adp": 212
+    },
+    {
+        "player": "Indianapolis Colts",
+        "y_adp": 213
+    },
+    {
+        "player": "Chris Thompson",
+        "y_adp": 167
+    },
+    {
+        "player": "Denver Broncos",
+        "y_adp": 223
+    },
+    {
+        "player": "Kyle Rudolph",
+        "y_adp": 131
+    },
+    {
+        "player": "Seattle Seahawks",
+        "y_adp": 209
+    },
+    {
+        "player": "Dallas Cowboys",
+        "y_adp": 216
+    },
+    {
+        "player": "Justin Jackson",
+        "y_adp": 198
+    },
+    {
+        "player": "Carlos Hyde",
+        "y_adp": 181
+    },
+    {
+        "player": "Matt Prater",
+        "y_adp": 137
+    },
+    {
+        "player": "LeSean McCoy",
+        "y_adp": 157
+    },
+    {
+        "player": "Philadelphia Eagles",
+        "y_adp": 221
+    },
+    {
+        "player": "Green Bay Packers",
+        "y_adp": 191
+    },
+    {
+        "player": "Tennessee Titans",
+        "y_adp": 225
+    },
+    {
+        "player": "Zane Gonzalez",
+        "y_adp": 174
+    },
+    {
+        "player": "Washington Football Team",
+        "y_adp": 197
+    },
+    {
+        "player": "Matt Gay",
+        "y_adp": 195
+    },
+    {
+        "player": "Nyheim Hines",
+        "y_adp": "N/A"
+    },
+    {
+        "player": "Derek Carr",
+        "y_adp": 136
+    },
+    {
+        "player": "Hunter Renfrow",
+        "y_adp": 171
+    },
+    {
+        "player": "Devonta Freeman",
+        "y_adp": 188
+    },
+    {
+        "player": "Younghoe Koo",
+        "y_adp": 217
+    },
+    {
+        "player": "Mason Crosby",
+        "y_adp": 192
+    },
+    {
+        "player": "Irv Smith Jr.",
+        "y_adp": 199
+    },
+    {
+        "player": "Jake Elliott",
+        "y_adp": 218
+    },
+    {
+        "player": "Tua Tagovailoa",
+        "y_adp": 149
+    },
+    {
+        "player": "Ka'imi Fairbairn",
+        "y_adp": 190
+    },
+    {
+        "player": "Derrius Guice",
+        "y_adp": 90
+    },
+    {
+        "player": "Jimmy Graham",
+        "y_adp": 134
+    },
+    {
+        "player": "Chris Boswell",
+        "y_adp": 210
+    },
+    {
+        "player": "Dan Bailey",
+        "y_adp": 219
+    },
+    {
+        "player": "Will Dissly",
+        "y_adp": 158
+    },
+    {
+        "player": "Darrel Williams",
+        "y_adp": "N/A"
+    },
+    {
+        "player": "Antonio Brown",
+        "y_adp": 203
+    },
+    {
+        "player": "Damien Williams",
+        "y_adp": 88
+    },
+    {
+        "player": "David Njoku",
+        "y_adp": "N/A"
+    },
+    {
+        "player": "Carolina Panthers",
+        "y_adp": "N/A"
+    },
+    {
+        "player": "Ian Thomas",
+        "y_adp": "N/A"
+    },
+    {
+        "player": "Randall Cobb",
+        "y_adp": "N/A"
+    },
+    {
+        "player": "Parris Campbell",
+        "y_adp": "N/A"
+    },
+    {
+        "player": "Dede Westbrook",
+        "y_adp": "N/A"
+    },
+    {
+        "player": "Alshon Jeffery",
+        "y_adp": 205
+    },
+    {
+        "player": "Sam Darnold",
+        "y_adp": "N/A"
+    },
+    {
+        "player": "Tyler Eifert",
+        "y_adp": 175
+    },
+    {
+        "player": "Cordarrelle Patterson",
+        "y_adp": "N/A"
+    },
+    {
+        "player": "Jason Myers",
+        "y_adp": 220
+    },
+    {
+        "player": "Mike Badgley",
+        "y_adp": 162
+    },
+    {
+        "player": "Brandon McManus",
+        "y_adp": 215
+    },
+    {
+        "player": "Joshua Kelley",
+        "y_adp": "N/A"
+    },
+    {
+        "player": "Bryce Love",
+        "y_adp": "N/A"
+    },
+    {
+        "player": "Josh Lambo",
+        "y_adp": 207
+    },
+    {
+        "player": "Darrynton Evans",
+        "y_adp": "N/A"
+    },
+    {
+        "player": "Cole Beasley",
+        "y_adp": "N/A"
+    },
+    {
+        "player": "Tee Higgins",
+        "y_adp": "N/A"
+    },
+    {
+        "player": "Benny Snell Jr.",
+        "y_adp": "N/A"
+    },
+    {
+        "player": "Cleveland Browns",
+        "y_adp": 226
+    },
+    {
+        "player": "Dwayne Haskins",
+        "y_adp": "N/A"
+    },
+    {
+        "player": "Giovani Bernard",
+        "y_adp": "N/A"
+    },
+    {
+        "player": "Houston Texans",
+        "y_adp": "N/A"
+    },
+    {
+        "player": "New York Jets",
+        "y_adp": 227
+    },
+    {
+        "player": "Arizona Cardinals",
+        "y_adp": "N/A"
+    },
+    {
+        "player": "Jalen Richard",
+        "y_adp": "N/A"
+    },
+    {
+        "player": "Nick Foles",
+        "y_adp": "N/A"
+    },
+    {
+        "player": "Vance McDonald",
+        "y_adp": "N/A"
+    },
+    {
+        "player": "Darwin Thompson",
+        "y_adp": "N/A"
+    },
+    {
+        "player": "Mitch Trubisky",
+        "y_adp": "N/A"
+    }
+]

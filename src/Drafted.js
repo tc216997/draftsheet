@@ -7,7 +7,7 @@ function Drafted(props) {
   players = players.sort((a, b) => b.drafted - a.drafted);
 
   return (
-    <div className='col-md-3 col-sm-2 col-xs-2 scrollable overall-rankings'>
+    <div className='col-md-4 col-sm-4 col-xs-4 scrollable overall-rankings'>
       <div className='aid-title hidden-xs'>
         <i className='fa fa-history'></i> Draft History
       </div>
@@ -29,7 +29,7 @@ function Drafted(props) {
       </div>
 
       <PlayerTable
-        fields={['drafted', 'short', 'position']}
+        fields={['drafted', 'short', 'floor']}
         players={players}
         disableColor={true}
       />

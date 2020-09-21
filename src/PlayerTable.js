@@ -46,60 +46,37 @@ class PlayerTable extends PureComponent {
   }
 
   trClassName(tier, disable, position) {
-    if (disable) {
+    if (tier === 'N/A') {
       return 'pointer'
     }
-    if (position === 'RB') {
-      return 'success pointer runningback'
+    if (tier % 4 === 0) {
+      return 'success pointer'
     }
-    if (position === 'WR') {
-      return 'info pointer wide-receiver'
+    if (tier % 4 === 1) {
+      return 'info pointer'
     }
-    if (position === 'TE') {
-      return 'warning pointer tightend'
+    if (tier % 4 === 2) {
+      return 'warning pointer'
     }
-    return 'danger pointer quarterback'
+    if (tier % 4 === 3) {
+      return 'danger pointer'
+    }
   }
 
   columns(player) {
     //this.props.fields === 8
     //this
     return this.props.fields.map((f, i) => {
-      if (f === 'tier') {
-        return <td key={i}>Tier {player[f]}</td>
-      }
-       if (f === 'name') {
-        return <td key={i}><strong>{player[f]}</strong></td>
-      } 
-      if (f === 'yards') {
-        if (player.position === 'QB') {
-          return <td key={i}>{player.pass_yards}</td>
-        } else {
-          return <td key={i}>{player[f]}</td>
-        }
-      }
-      if (f === 'tds') {
-        if (player.position === 'QB') {
-          return <td key={i}>{player.pass_tds}</td>
-        } else {
-          return <td key={i}>{player[f]}</td>
-        }
-      }
-      if (f === 'proj yds') {
-        if (player.position === 'QB') {
-          return <td key={i}>{player['proj pyds']}</td>
-        } else {
-          return <td key={i}>{player[f]}</td>
-        }
-      }
-      if (f === 'proj tds') {
-        if (player.position === 'QB') {
-          return <td key={i}>{player['proj ptds']}</td>
-        } else {
-          return <td key={i}>{player[f]}</td>
-        }
-      } 
-      return <td key={i}>{player[f]}</td>
+      // if (f === 'tier') {
+      //   return <td key={i}><strong>{player[f]}</strong></td>
+      // }
+      // if (f === 'player') {
+      //   return <td key={i}><strong>{player[f]}</strong></td>
+      // } 
+      // if (f === 'short') {
+      //   return <td key={i}><strong>{player[f]}</strong></td>
+      // } 
+      return <td key={i}><strong>{player[f]}</strong></td>
       
     });
   }

@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
-    "react-scripts": "^3.1.1"
+    "react-scripts": "^3.4.3"
   },
   "homepage": "https://draftsheet.herokuapp.com/",
   "main": "server.js",
@@ -13,12 +13,13 @@
   },
   "dependencies": {
     "bootstrap": "^3.3.7",
-    "csv-parser": "^2.3.0",
+    "csv-parser": "^2.3.3",
     "express": "^4.17.1",
     "express-favicon": "^2.0.1",
     "fuzzy-string-matching": "^1.0.2",
     "react": "^15.4.2",
-    "react-dom": "^15.4.2"
+    "react-dom": "^15.4.2",
+    "request": "^2.88.2"
   },
   "scripts": {
     "start": "react-scripts start",

@@ -5,6 +5,7 @@ import Drafted from './Drafted'
 const yahoo = require('./yahoo.json')
 const sleeper = require('./sleeper.json')
 
+
 class DraftBoard extends Component {
     constructor() {
       super();
@@ -15,14 +16,13 @@ class DraftBoard extends Component {
           isLoading: true,
           currentDraft: 0,
           fetchError: null,
-          format: 'sleeper',
+          format: 'yahoo',
           query: '',
       };
     }
 
     componentDidMount() {
       this.getPlayers(this.state.format)
-
     }
 
     getPlayers(format) {
@@ -38,7 +38,7 @@ class DraftBoard extends Component {
 
     searchPlayers(query) {
       let players = this.state.players.filter(player =>
-        player.name.toUpperCase().includes(query.toUpperCase())
+        player.player.toUpperCase().includes(query.toUpperCase())
       );
 
       this.setState({
@@ -115,12 +115,13 @@ class DraftBoard extends Component {
             players={ this.state.players }
             undo={ (c) => this.undo(c) }
             reset={ () => this.reset() }
-          />
+          /> 
           <UndraftedPositions
             players={ this.state.players }
             draft={(p) => this.draft(p)}
-          />                    
+          />                  
         </div>
+        
       );
     }
 }

@@ -1,0 +1,4192 @@
+[
+    {
+        "player": "Lamar Jackson",
+        "adp": "21.0",
+        "value": "0.79"
+    },
+    {
+        "player": "Patrick Mahomes",
+        "adp": "18.0",
+        "value": "0.62"
+    },
+    {
+        "player": "Dak Prescott",
+        "adp": "47.0",
+        "value": "0.5"
+    },
+    {
+        "player": "Deshaun Watson",
+        "adp": "59.0",
+        "value": "0.4"
+    },
+    {
+        "player": "Russell Wilson",
+        "adp": "52.0",
+        "value": "0.32"
+    },
+    {
+        "player": "Kyler Murray",
+        "adp": "58.0",
+        "value": "0.23"
+    },
+    {
+        "player": "Josh Allen",
+        "adp": "69.0",
+        "value": "0.18"
+    },
+    {
+        "player": "Matt Ryan",
+        "adp": "76.0",
+        "value": "0.14"
+    },
+    {
+        "player": "Carson Wentz",
+        "adp": "89.0",
+        "value": "0.11"
+    },
+    {
+        "player": "Tom Brady",
+        "adp": "83.0",
+        "value": "0.07"
+    },
+    {
+        "player": "Drew Brees",
+        "adp": "73.0",
+        "value": "0.04"
+    },
+    {
+        "player": "Aaron Rodgers",
+        "adp": "85.0",
+        "value": "0.02"
+    },
+    {
+        "player": "Daniel Jones",
+        "adp": "134.0",
+        "value": "0.01"
+    },
+    {
+        "player": "Matthew Stafford",
+        "adp": "99.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Cam Newton",
+        "adp": "159.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Ryan Tannehill",
+        "adp": "142.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Jared Goff",
+        "adp": "143.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Ben Roethlisberger",
+        "adp": "115.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Gardner Minshew",
+        "adp": "141.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Joe Burrow",
+        "adp": "131.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Kirk Cousins",
+        "adp": "163.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Baker Mayfield",
+        "adp": "124.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Jimmy Garoppolo",
+        "adp": "137.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Philip Rivers",
+        "adp": "149.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Drew Lock",
+        "adp": "160.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Derek Carr",
+        "adp": "170.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Teddy Bridgewater",
+        "adp": "161.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Sam Darnold",
+        "adp": "196.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Dwayne Haskins",
+        "adp": "284.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Tyrod Taylor",
+        "adp": "254.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Ryan Fitzpatrick",
+        "adp": "246.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Nick Foles",
+        "adp": "312.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Mitchell Trubisky",
+        "adp": "323.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Tua Tagovailoa",
+        "adp": "185.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Justin Herbert",
+        "adp": "306.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Jameis Winston",
+        "adp": "346.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Marcus Mariota",
+        "adp": "334.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Taysom Hill",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Kyle Allen",
+        "adp": "366.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Jarrett Stidham",
+        "adp": "299.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Christian McCaffrey",
+        "adp": "1.0",
+        "value": "0.93"
+    },
+    {
+        "player": "Saquon Barkley",
+        "adp": "2.0",
+        "value": "0.88"
+    },
+    {
+        "player": "Ezekiel Elliott",
+        "adp": "3.0",
+        "value": "0.83"
+    },
+    {
+        "player": "Derrick Henry",
+        "adp": "6.0",
+        "value": "0.79"
+    },
+    {
+        "player": "Dalvin Cook",
+        "adp": "7.0",
+        "value": "0.74"
+    },
+    {
+        "player": "Alvin Kamara",
+        "adp": "5.0",
+        "value": "0.7"
+    },
+    {
+        "player": "Clyde Edwards-Helaire",
+        "adp": "17.0",
+        "value": "0.66"
+    },
+    {
+        "player": "Joe Mixon",
+        "adp": "9.0",
+        "value": "0.62"
+    },
+    {
+        "player": "Aaron Jones",
+        "adp": "22.0",
+        "value": "0.59"
+    },
+    {
+        "player": "Josh Jacobs",
+        "adp": "15.0",
+        "value": "0.55"
+    },
+    {
+        "player": "Nick Chubb",
+        "adp": "12.0",
+        "value": "0.51"
+    },
+    {
+        "player": "Miles Sanders",
+        "adp": "23.0",
+        "value": "0.48"
+    },
+    {
+        "player": "Kenyan Drake",
+        "adp": "14.0",
+        "value": "0.44"
+    },
+    {
+        "player": "Austin Ekeler",
+        "adp": "24.0",
+        "value": "0.41"
+    },
+    {
+        "player": "Chris Carson",
+        "adp": "33.0",
+        "value": "0.38"
+    },
+    {
+        "player": "James Conner",
+        "adp": "42.0",
+        "value": "0.35"
+    },
+    {
+        "player": "Todd Gurley",
+        "adp": "30.0",
+        "value": "0.33"
+    },
+    {
+        "player": "David Johnson",
+        "adp": "50.0",
+        "value": "0.3"
+    },
+    {
+        "player": "Melvin Gordon",
+        "adp": "37.0",
+        "value": "0.28"
+    },
+    {
+        "player": "LeVeon Bell",
+        "adp": "44.0",
+        "value": "0.25"
+    },
+    {
+        "player": "Jonathan Taylor",
+        "adp": "40.0",
+        "value": "0.23"
+    },
+    {
+        "player": "Raheem Mostert",
+        "adp": "60.0",
+        "value": "0.21"
+    },
+    {
+        "player": "Mark Ingram",
+        "adp": "46.0",
+        "value": "0.19"
+    },
+    {
+        "player": "Antonio Gibson",
+        "adp": "165.0",
+        "value": "0.17"
+    },
+    {
+        "player": "Cam Akers",
+        "adp": "66.0",
+        "value": "0.16"
+    },
+    {
+        "player": "Devin Singletary",
+        "adp": "61.0",
+        "value": "0.14"
+    },
+    {
+        "player": "Kareem Hunt",
+        "adp": "71.0",
+        "value": "0.12"
+    },
+    {
+        "player": "DAndre Swift",
+        "adp": "65.0",
+        "value": "0.11"
+    },
+    {
+        "player": "David Montgomery",
+        "adp": "64.0",
+        "value": "0.1"
+    },
+    {
+        "player": "Leonard Fournette",
+        "adp": "38.0",
+        "value": "0.08"
+    },
+    {
+        "player": "James White",
+        "adp": "94.0",
+        "value": "0.07"
+    },
+    {
+        "player": "Tarik Cohen",
+        "adp": "108.0",
+        "value": "0.07"
+    },
+    {
+        "player": "Jordan Howard",
+        "adp": "88.0",
+        "value": "0.06"
+    },
+    {
+        "player": "Kerryon Johnson",
+        "adp": "107.0",
+        "value": "0.05"
+    },
+    {
+        "player": "Phillip Lindsay",
+        "adp": "93.0",
+        "value": "0.04"
+    },
+    {
+        "player": "JK Dobbins",
+        "adp": "92.0",
+        "value": "0.03"
+    },
+    {
+        "player": "Ronald Jones",
+        "adp": "86.0",
+        "value": "0.03"
+    },
+    {
+        "player": "Matt Breida",
+        "adp": "91.0",
+        "value": "0.02"
+    },
+    {
+        "player": "Zack Moss",
+        "adp": "123.0",
+        "value": "0.02"
+    },
+    {
+        "player": "Latavius Murray",
+        "adp": "120.0",
+        "value": "0.01"
+    },
+    {
+        "player": "Marlon Mack",
+        "adp": "100.0",
+        "value": "0.01"
+    },
+    {
+        "player": "Tevin Coleman",
+        "adp": "112.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Duke Johnson",
+        "adp": "152.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Sony Michel",
+        "adp": "87.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Boston Scott",
+        "adp": "174.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Chris Thompson",
+        "adp": "199.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Alexander Mattison",
+        "adp": "126.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Nyheim Hines",
+        "adp": "189.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Ryquell Armstead",
+        "adp": "182.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Darrell Henderson",
+        "adp": "119.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Tony Pollard",
+        "adp": "144.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Justin Jackson",
+        "adp": "192.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Chase Edmonds",
+        "adp": "166.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Devine Ozigbo",
+        "adp": "364.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Damien Harris",
+        "adp": "183.0",
+        "value": "0.0"
+    },
+    {
+        "player": "AJ Dillon",
+        "adp": "184.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Bryce Love",
+        "adp": "319.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Joshua Kelley",
+        "adp": "247.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Jamaal Williams",
+        "adp": "197.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Jerick McKinnon",
+        "adp": "209.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Jalen Richard",
+        "adp": "265.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Darrel Williams",
+        "adp": "193.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Darrynton Evans",
+        "adp": "229.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Frank Gore",
+        "adp": "263.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Giovani Bernard",
+        "adp": "242.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Benny Snell",
+        "adp": "267.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Ito Smith",
+        "adp": "285.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Rex Burkhead",
+        "adp": "298.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Malcolm Brown",
+        "adp": "234.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Devonta Freeman",
+        "adp": "211.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Carlos Hyde",
+        "adp": "207.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Lynn Bowden",
+        "adp": "237.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Peyton Barber",
+        "adp": "308.0",
+        "value": "0.0"
+    },
+    {
+        "player": "JD McKissic",
+        "adp": "360.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Rashaad Penny",
+        "adp": "202.0",
+        "value": "0.0"
+    },
+    {
+        "player": "LeSean McCoy",
+        "adp": "181.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Brian Hill",
+        "adp": "257.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Anthony McFarland",
+        "adp": "239.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Jaylen Samuels",
+        "adp": "272.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Dion Lewis",
+        "adp": "275.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Royce Freeman",
+        "adp": "248.0",
+        "value": "0.0"
+    },
+    {
+        "player": "KeShawn Vaughn",
+        "adp": "102.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Lamar Miller",
+        "adp": "210.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Patrick Laird",
+        "adp": "324.0",
+        "value": "0.0"
+    },
+    {
+        "player": "DeAndre Washington",
+        "adp": "290.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Gus Edwards",
+        "adp": "269.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Michael Davis",
+        "adp": "376.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Lamical Perine",
+        "adp": "282.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Ryan Nall",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Cordarrelle Patterson",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Darwin Thompson",
+        "adp": "304.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Myles Gaskin",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "DeeJay Dallas",
+        "adp": "377.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Travis Homer",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Eno Ben",
+        "adp": "300.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Elijhaa Penny",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Justice Hill",
+        "adp": "227.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Michael Boone",
+        "adp": "332.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Alec Ingold",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Jeff Wilson",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Trayveon Williams",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Kalen Ballage",
+        "adp": "362.0",
+        "value": "0.0"
+    },
+    {
+        "player": "TJ Yeldon",
+        "adp": "359.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Qadree Ollison",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Ty Johnson",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Jordan Wilkins",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Reggie Bonnafon",
+        "adp": "340.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Buddy Howell",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Josh Adams",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Kerrith Whyte",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Wayne Gallman",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Jason Huntley",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Travis Kelce",
+        "adp": "16.0",
+        "value": "0.81"
+    },
+    {
+        "player": "George Kittle",
+        "adp": "20.0",
+        "value": "0.64"
+    },
+    {
+        "player": "Mark Andrews",
+        "adp": "36.0",
+        "value": "0.52"
+    },
+    {
+        "player": "Zach Ertz",
+        "adp": "41.0",
+        "value": "0.41"
+    },
+    {
+        "player": "Darren Waller",
+        "adp": "56.0",
+        "value": "0.32"
+    },
+    {
+        "player": "Evan Engram",
+        "adp": "78.0",
+        "value": "0.27"
+    },
+    {
+        "player": "Hunter Henry",
+        "adp": "68.0",
+        "value": "0.22"
+    },
+    {
+        "player": "Jared Cook",
+        "adp": "79.0",
+        "value": "0.18"
+    },
+    {
+        "player": "Tyler Higbee",
+        "adp": "67.0",
+        "value": "0.14"
+    },
+    {
+        "player": "Michael Gesicki",
+        "adp": "125.0",
+        "value": "0.11"
+    },
+    {
+        "player": "Hayden Hurst",
+        "adp": "113.0",
+        "value": "0.09"
+    },
+    {
+        "player": "Rob Gronkowski",
+        "adp": "81.0",
+        "value": "0.07"
+    },
+    {
+        "player": "Austin Hooper",
+        "adp": "98.0",
+        "value": "0.05"
+    },
+    {
+        "player": "Noah Fant",
+        "adp": "111.0",
+        "value": "0.03"
+    },
+    {
+        "player": "TJ Hockenson",
+        "adp": "136.0",
+        "value": "0.01"
+    },
+    {
+        "player": "Dallas Goedert",
+        "adp": "158.0",
+        "value": "0.01"
+    },
+    {
+        "player": "Jonnu Smith",
+        "adp": "153.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Chris Herndon",
+        "adp": "204.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Blake Jarwin",
+        "adp": "172.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Jack Doyle",
+        "adp": "180.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Eric Ebron",
+        "adp": "168.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Irv Smith",
+        "adp": "217.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Ian Thomas",
+        "adp": "191.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Greg Olsen",
+        "adp": "178.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Kyle Rudolph",
+        "adp": "169.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Tyler Eifert",
+        "adp": "203.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Dawson Knox",
+        "adp": "243.0",
+        "value": "0.0"
+    },
+    {
+        "player": "OJ Howard",
+        "adp": "188.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Gerald Everett",
+        "adp": "288.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Jimmy Graham",
+        "adp": "175.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Will Dissly",
+        "adp": "190.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Darren Fells",
+        "adp": "328.0",
+        "value": "0.0"
+    },
+    {
+        "player": "CJ Uzomah",
+        "adp": "252.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Jace Sternberger",
+        "adp": "262.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Dan Arnold",
+        "adp": "349.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Nick Boyle",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Jordan Akins",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Vance McDonald",
+        "adp": "297.0",
+        "value": "0.0"
+    },
+    {
+        "player": "David Njoku",
+        "adp": "266.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Devin Asiasi",
+        "adp": "271.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Logan Thomas",
+        "adp": "322.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Trey Burton",
+        "adp": "335.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Jason Witten",
+        "adp": "368.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Cameron Brate",
+        "adp": "317.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Anthony Firkser",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Robert Tonyan",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Ryan Griffin",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Cole Kmet",
+        "adp": "296.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Jordan Reed",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Jeremy Sprinkle",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Harrison Bryant",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Dalton Keene",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "James OShaughnessy",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Dalton Schultz",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Kaden Smith",
+        "adp": "342.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Maxx Williams",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Delanie Walker",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Mo Alie-Cox",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Foster Moreau",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Jesse James",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Josh Hill",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Ricky Seals-Jones",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Drew Sample",
+        "adp": "356.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Demetrius Harris",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Jaeden Graham",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Josiah Deguara",
+        "adp": "361.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Albert Okwuegbunam",
+        "adp": "383.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Virgil Green",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Levine Toilolo",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "MyCole Pruitt",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Jacob Hollister",
+        "adp": "321.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Jeff Heuerman",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Cethan Carter",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Adam Shaheen",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Nick Vannett",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Tyler Kroft",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Adam Trautman",
+        "adp": "371.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Jordan Thomas",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Marcedes Lewis",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Blake Bell",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Tyler Conklin",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Chris Manhertz",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Durham Smythe",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Khari Lee",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Luke Willson",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Jesper Horsted",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Ryan Izzo",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Jason Croom",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Colby Parkinson",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "JP Holtz",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Ross Dwelley",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Derek Carrier",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Brycen Hopkins",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Michael Thomas",
+        "adp": "4.0",
+        "value": "0.95"
+    },
+    {
+        "player": "Davante Adams",
+        "adp": "8.0",
+        "value": "0.9"
+    },
+    {
+        "player": "Julio Jones",
+        "adp": "11.0",
+        "value": "0.86"
+    },
+    {
+        "player": "Tyreek Hill",
+        "adp": "10.0",
+        "value": "0.82"
+    },
+    {
+        "player": "DeAndre Hopkins",
+        "adp": "13.0",
+        "value": "0.79"
+    },
+    {
+        "player": "Chris Godwin",
+        "adp": "19.0",
+        "value": "0.76"
+    },
+    {
+        "player": "Kenny Golladay",
+        "adp": "25.0",
+        "value": "0.72"
+    },
+    {
+        "player": "Michael Evans",
+        "adp": "26.0",
+        "value": "0.69"
+    },
+    {
+        "player": "Allen Robinson",
+        "adp": "27.0",
+        "value": "0.67"
+    },
+    {
+        "player": "DJ Moore",
+        "adp": "34.0",
+        "value": "0.64"
+    },
+    {
+        "player": "Amari Cooper",
+        "adp": "31.0",
+        "value": "0.61"
+    },
+    {
+        "player": "AJ Brown",
+        "adp": "35.0",
+        "value": "0.58"
+    },
+    {
+        "player": "Adam Thielen",
+        "adp": "32.0",
+        "value": "0.56"
+    },
+    {
+        "player": "Calvin Ridley",
+        "adp": "43.0",
+        "value": "0.53"
+    },
+    {
+        "player": "Cooper Kupp",
+        "adp": "39.0",
+        "value": "0.5"
+    },
+    {
+        "player": "Odell Beckham",
+        "adp": "28.0",
+        "value": "0.48"
+    },
+    {
+        "player": "Robert Woods",
+        "adp": "57.0",
+        "value": "0.45"
+    },
+    {
+        "player": "JuJu Smith-Schuster",
+        "adp": "29.0",
+        "value": "0.43"
+    },
+    {
+        "player": "Courtland Sutton",
+        "adp": "45.0",
+        "value": "0.4"
+    },
+    {
+        "player": "Terry McLaurin",
+        "adp": "54.0",
+        "value": "0.38"
+    },
+    {
+        "player": "DeVante Parker",
+        "adp": "55.0",
+        "value": "0.36"
+    },
+    {
+        "player": "Tyler Lockett",
+        "adp": "48.0",
+        "value": "0.34"
+    },
+    {
+        "player": "DJ Chark",
+        "adp": "51.0",
+        "value": "0.31"
+    },
+    {
+        "player": "Keenan Allen",
+        "adp": "49.0",
+        "value": "0.29"
+    },
+    {
+        "player": "DK Metcalf",
+        "adp": "53.0",
+        "value": "0.27"
+    },
+    {
+        "player": "TY Hilton",
+        "adp": "62.0",
+        "value": "0.25"
+    },
+    {
+        "player": "Stefon Diggs",
+        "adp": "63.0",
+        "value": "0.23"
+    },
+    {
+        "player": "Michael Gallup",
+        "adp": "72.0",
+        "value": "0.21"
+    },
+    {
+        "player": "Marquise Brown",
+        "adp": "77.0",
+        "value": "0.2"
+    },
+    {
+        "player": "Jarvis Landry",
+        "adp": "74.0",
+        "value": "0.18"
+    },
+    {
+        "player": "AJ Green",
+        "adp": "70.0",
+        "value": "0.16"
+    },
+    {
+        "player": "Julian Edelman",
+        "adp": "82.0",
+        "value": "0.15"
+    },
+    {
+        "player": "Tyler Boyd",
+        "adp": "75.0",
+        "value": "0.13"
+    },
+    {
+        "player": "Marvin Jones",
+        "adp": "90.0",
+        "value": "0.12"
+    },
+    {
+        "player": "Will Fuller",
+        "adp": "84.0",
+        "value": "0.11"
+    },
+    {
+        "player": "Jamison Crowder",
+        "adp": "118.0",
+        "value": "0.1"
+    },
+    {
+        "player": "Brandin Cooks",
+        "adp": "95.0",
+        "value": "0.09"
+    },
+    {
+        "player": "Sterling Shepard",
+        "adp": "122.0",
+        "value": "0.08"
+    },
+    {
+        "player": "Diontae Johnson",
+        "adp": "105.0",
+        "value": "0.07"
+    },
+    {
+        "player": "Darius Slayton",
+        "adp": "106.0",
+        "value": "0.06"
+    },
+    {
+        "player": "CeeDee Lamb",
+        "adp": "103.0",
+        "value": "0.05"
+    },
+    {
+        "player": "Deebo Samuel",
+        "adp": "80.0",
+        "value": "0.05"
+    },
+    {
+        "player": "Christian Kirk",
+        "adp": "121.0",
+        "value": "0.04"
+    },
+    {
+        "player": "John Brown",
+        "adp": "97.0",
+        "value": "0.03"
+    },
+    {
+        "player": "Preston Williams",
+        "adp": "148.0",
+        "value": "0.03"
+    },
+    {
+        "player": "Anthony Miller",
+        "adp": "156.0",
+        "value": "0.02"
+    },
+    {
+        "player": "Golden Tate",
+        "adp": "151.0",
+        "value": "0.02"
+    },
+    {
+        "player": "Emmanuel Sanders",
+        "adp": "110.0",
+        "value": "0.01"
+    },
+    {
+        "player": "Jerry Jeudy",
+        "adp": "109.0",
+        "value": "0.01"
+    },
+    {
+        "player": "Henry Ruggs",
+        "adp": "129.0",
+        "value": "0.01"
+    },
+    {
+        "player": "Michael Williams",
+        "adp": "130.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Breshad Perriman",
+        "adp": "179.0",
+        "value": "0.0"
+    },
+    {
+        "player": "DeSean Jackson",
+        "adp": "164.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Robby Anderson",
+        "adp": "157.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Curtis Samuel",
+        "adp": "176.0",
+        "value": "0.0"
+    },
+    {
+        "player": "NKeal Harry",
+        "adp": "187.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Allen Lazard",
+        "adp": "194.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Mecole Hardman",
+        "adp": "139.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Sammy Watkins",
+        "adp": "145.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Justin Jefferson",
+        "adp": "132.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Larry Fitzgerald",
+        "adp": "171.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Corey Davis",
+        "adp": "208.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Michael Pittman",
+        "adp": "186.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Bryan Edwards",
+        "adp": "223.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Brandon Aiyuk",
+        "adp": "213.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Cole Beasley",
+        "adp": "238.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Hunter Renfrow",
+        "adp": "177.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Steven Sims",
+        "adp": "314.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Jalen Reagor",
+        "adp": "140.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Parris Campbell",
+        "adp": "214.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Dede Westbrook",
+        "adp": "198.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Randall Cobb",
+        "adp": "231.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Laviska Shenault",
+        "adp": "240.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Danny Amendola",
+        "adp": "279.0",
+        "value": "0.0"
+    },
+    {
+        "player": "James Washington",
+        "adp": "220.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Russell Gage",
+        "adp": "320.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Adam Humphries",
+        "adp": "316.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Chris Conley",
+        "adp": "291.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Alshon Jeffery",
+        "adp": "162.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Denzel Mims",
+        "adp": "200.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Tee Higgins",
+        "adp": "212.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Josh Reynolds",
+        "adp": "268.0",
+        "value": "0.0"
+    },
+    {
+        "player": "John Ross",
+        "adp": "206.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Kenny Stills",
+        "adp": "225.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Miles Boykin",
+        "adp": "301.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Kendrick Bourne",
+        "adp": "270.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Marquez Valdes-Scantling",
+        "adp": "318.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Chase Claypool",
+        "adp": "261.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Olabisi Johnson",
+        "adp": "355.0",
+        "value": "0.0"
+    },
+    {
+        "player": "TreQuan Smith",
+        "adp": "281.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Van Jefferson",
+        "adp": "337.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Willie Snead",
+        "adp": "235.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Jakeem Grant",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Zach Pascal",
+        "adp": "307.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Antonio Gandy-Golden",
+        "adp": "344.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Isaiah Ford",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "KJ Hamler",
+        "adp": "292.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Jakobi Meyers",
+        "adp": "341.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Dontrelle Inman",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Andy Isabella",
+        "adp": "264.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Damiere Byrd",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Demarcus Robinson",
+        "adp": "326.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Scott Miller",
+        "adp": "358.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Auden Tate",
+        "adp": "305.0",
+        "value": "0.0"
+    },
+    {
+        "player": "JJ Arcega-Whiteside",
+        "adp": "330.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Phillip Dorsett",
+        "adp": "315.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Gunner Olszewski",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Gary Jennings",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Devin Duvernay",
+        "adp": "233.0",
+        "value": "0.0"
+    },
+    {
+        "player": "David Moore",
+        "adp": "333.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Quincy Enunwa",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Joe Reed",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Nelson Agholor",
+        "adp": "311.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Tim Patrick",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Keke Coutee",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Keelan Cole",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Greg Ward",
+        "adp": "348.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Trey Quinn",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Justin Watson",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Kalif Raymond",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "John Hightower",
+        "adp": "385.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Dante Pettis",
+        "adp": "367.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Darnell Mooney",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Isaiah McKenzie",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Tajae Sharpe",
+        "adp": "336.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Jake Kumerow",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Rashard Higgins",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Cedrick Wilson",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Christian Blake",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Duke Williams",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Javon Wims",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "DaeSean Hamilton",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Marcus Johnson",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Cody Hollister",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Riley Ridley",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Chris Moore",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Tyler Johnson",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Quintez Cephus",
+        "adp": "375.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Seth Roberts",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Vyncint Smith",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Deonte Harris",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Corey Coleman",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "KeeSean Johnson",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Freddie Swain",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Gabriel Davis",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Laquon Treadwell",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Braxton Berrios",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Marvin Hall",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Alex Erickson",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "KJ Hill",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Isaiah Coulter",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Andre Patton",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Robert Foster",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Pharoh Cooper",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Hakeem Butler",
+        "adp": "374.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Darius Jennings",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Noah Brown",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Ryan Switzer",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Olamide Zaccheaus",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Keelan Doss",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Zay Jones",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Donovan Peoples-Jones",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Damion Ratley",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "James Proche",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Mack Hollins",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Ventell Bryant",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "John Ursua",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "DeAndre Carter",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Trent Sherfield",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Richie James",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Isaiah Hodgins",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Byron Pringle",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "KJ Osborn",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Cam Sims",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Lamar Jackson",
+        "adp": "21.0",
+        "value": "0.81"
+    },
+    {
+        "player": "Patrick Mahomes",
+        "adp": "18.0",
+        "value": "0.62"
+    },
+    {
+        "player": "Dak Prescott",
+        "adp": "47.0",
+        "value": "0.51"
+    },
+    {
+        "player": "Russell Wilson",
+        "adp": "52.0",
+        "value": "0.41"
+    },
+    {
+        "player": "Deshaun Watson",
+        "adp": "59.0",
+        "value": "0.32"
+    },
+    {
+        "player": "Kyler Murray",
+        "adp": "58.0",
+        "value": "0.25"
+    },
+    {
+        "player": "Drew Brees",
+        "adp": "73.0",
+        "value": "0.2"
+    },
+    {
+        "player": "Tom Brady",
+        "adp": "83.0",
+        "value": "0.16"
+    },
+    {
+        "player": "Carson Wentz",
+        "adp": "89.0",
+        "value": "0.12"
+    },
+    {
+        "player": "Matt Ryan",
+        "adp": "76.0",
+        "value": "0.08"
+    },
+    {
+        "player": "Josh Allen",
+        "adp": "69.0",
+        "value": "0.05"
+    },
+    {
+        "player": "Aaron Rodgers",
+        "adp": "85.0",
+        "value": "0.03"
+    },
+    {
+        "player": "Daniel Jones",
+        "adp": "134.0",
+        "value": "0.01"
+    },
+    {
+        "player": "Matthew Stafford",
+        "adp": "99.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Jared Goff",
+        "adp": "143.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Ryan Tannehill",
+        "adp": "142.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Cam Newton",
+        "adp": "159.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Ben Roethlisberger",
+        "adp": "115.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Kirk Cousins",
+        "adp": "163.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Baker Mayfield",
+        "adp": "124.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Joe Burrow",
+        "adp": "131.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Gardner Minshew",
+        "adp": "141.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Jimmy Garoppolo",
+        "adp": "137.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Philip Rivers",
+        "adp": "149.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Drew Lock",
+        "adp": "160.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Derek Carr",
+        "adp": "170.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Sam Darnold",
+        "adp": "196.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Teddy Bridgewater",
+        "adp": "161.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Dwayne Haskins",
+        "adp": "284.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Tyrod Taylor",
+        "adp": "254.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Ryan Fitzpatrick",
+        "adp": "246.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Nick Foles",
+        "adp": "312.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Mitchell Trubisky",
+        "adp": "323.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Tua Tagovailoa",
+        "adp": "185.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Justin Herbert",
+        "adp": "306.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Jameis Winston",
+        "adp": "346.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Marcus Mariota",
+        "adp": "334.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Taysom Hill",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Kyle Allen",
+        "adp": "366.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Jarrett Stidham",
+        "adp": "299.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Christian McCaffrey",
+        "adp": "1.0",
+        "value": "0.93"
+    },
+    {
+        "player": "Saquon Barkley",
+        "adp": "2.0",
+        "value": "0.88"
+    },
+    {
+        "player": "Ezekiel Elliott",
+        "adp": "3.0",
+        "value": "0.83"
+    },
+    {
+        "player": "Derrick Henry",
+        "adp": "6.0",
+        "value": "0.79"
+    },
+    {
+        "player": "Dalvin Cook",
+        "adp": "7.0",
+        "value": "0.74"
+    },
+    {
+        "player": "Alvin Kamara",
+        "adp": "5.0",
+        "value": "0.7"
+    },
+    {
+        "player": "Clyde Edwards-Helaire",
+        "adp": "17.0",
+        "value": "0.66"
+    },
+    {
+        "player": "Joe Mixon",
+        "adp": "9.0",
+        "value": "0.62"
+    },
+    {
+        "player": "Aaron Jones",
+        "adp": "22.0",
+        "value": "0.59"
+    },
+    {
+        "player": "Josh Jacobs",
+        "adp": "15.0",
+        "value": "0.55"
+    },
+    {
+        "player": "Nick Chubb",
+        "adp": "12.0",
+        "value": "0.51"
+    },
+    {
+        "player": "Miles Sanders",
+        "adp": "23.0",
+        "value": "0.48"
+    },
+    {
+        "player": "Kenyan Drake",
+        "adp": "14.0",
+        "value": "0.44"
+    },
+    {
+        "player": "Austin Ekeler",
+        "adp": "24.0",
+        "value": "0.41"
+    },
+    {
+        "player": "Chris Carson",
+        "adp": "33.0",
+        "value": "0.38"
+    },
+    {
+        "player": "James Conner",
+        "adp": "42.0",
+        "value": "0.35"
+    },
+    {
+        "player": "Todd Gurley",
+        "adp": "30.0",
+        "value": "0.33"
+    },
+    {
+        "player": "David Johnson",
+        "adp": "50.0",
+        "value": "0.3"
+    },
+    {
+        "player": "Melvin Gordon",
+        "adp": "37.0",
+        "value": "0.28"
+    },
+    {
+        "player": "LeVeon Bell",
+        "adp": "44.0",
+        "value": "0.25"
+    },
+    {
+        "player": "Jonathan Taylor",
+        "adp": "40.0",
+        "value": "0.23"
+    },
+    {
+        "player": "Raheem Mostert",
+        "adp": "60.0",
+        "value": "0.21"
+    },
+    {
+        "player": "Mark Ingram",
+        "adp": "46.0",
+        "value": "0.19"
+    },
+    {
+        "player": "Antonio Gibson",
+        "adp": "165.0",
+        "value": "0.17"
+    },
+    {
+        "player": "Cam Akers",
+        "adp": "66.0",
+        "value": "0.16"
+    },
+    {
+        "player": "Devin Singletary",
+        "adp": "61.0",
+        "value": "0.14"
+    },
+    {
+        "player": "Kareem Hunt",
+        "adp": "71.0",
+        "value": "0.12"
+    },
+    {
+        "player": "DAndre Swift",
+        "adp": "65.0",
+        "value": "0.11"
+    },
+    {
+        "player": "David Montgomery",
+        "adp": "64.0",
+        "value": "0.1"
+    },
+    {
+        "player": "Leonard Fournette",
+        "adp": "38.0",
+        "value": "0.08"
+    },
+    {
+        "player": "James White",
+        "adp": "94.0",
+        "value": "0.07"
+    },
+    {
+        "player": "Tarik Cohen",
+        "adp": "108.0",
+        "value": "0.07"
+    },
+    {
+        "player": "Jordan Howard",
+        "adp": "88.0",
+        "value": "0.06"
+    },
+    {
+        "player": "Kerryon Johnson",
+        "adp": "107.0",
+        "value": "0.05"
+    },
+    {
+        "player": "Phillip Lindsay",
+        "adp": "93.0",
+        "value": "0.04"
+    },
+    {
+        "player": "JK Dobbins",
+        "adp": "92.0",
+        "value": "0.03"
+    },
+    {
+        "player": "Ronald Jones",
+        "adp": "86.0",
+        "value": "0.03"
+    },
+    {
+        "player": "Matt Breida",
+        "adp": "91.0",
+        "value": "0.02"
+    },
+    {
+        "player": "Zack Moss",
+        "adp": "123.0",
+        "value": "0.02"
+    },
+    {
+        "player": "Latavius Murray",
+        "adp": "120.0",
+        "value": "0.01"
+    },
+    {
+        "player": "Marlon Mack",
+        "adp": "100.0",
+        "value": "0.01"
+    },
+    {
+        "player": "Tevin Coleman",
+        "adp": "112.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Duke Johnson",
+        "adp": "152.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Sony Michel",
+        "adp": "87.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Boston Scott",
+        "adp": "174.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Chris Thompson",
+        "adp": "199.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Alexander Mattison",
+        "adp": "126.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Nyheim Hines",
+        "adp": "189.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Ryquell Armstead",
+        "adp": "182.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Darrell Henderson",
+        "adp": "119.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Tony Pollard",
+        "adp": "144.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Justin Jackson",
+        "adp": "192.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Chase Edmonds",
+        "adp": "166.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Devine Ozigbo",
+        "adp": "364.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Damien Harris",
+        "adp": "183.0",
+        "value": "0.0"
+    },
+    {
+        "player": "AJ Dillon",
+        "adp": "184.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Bryce Love",
+        "adp": "319.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Joshua Kelley",
+        "adp": "247.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Jamaal Williams",
+        "adp": "197.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Jerick McKinnon",
+        "adp": "209.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Jalen Richard",
+        "adp": "265.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Darrel Williams",
+        "adp": "193.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Darrynton Evans",
+        "adp": "229.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Frank Gore",
+        "adp": "263.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Giovani Bernard",
+        "adp": "242.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Benny Snell",
+        "adp": "267.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Ito Smith",
+        "adp": "285.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Rex Burkhead",
+        "adp": "298.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Malcolm Brown",
+        "adp": "234.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Devonta Freeman",
+        "adp": "211.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Carlos Hyde",
+        "adp": "207.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Lynn Bowden",
+        "adp": "237.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Peyton Barber",
+        "adp": "308.0",
+        "value": "0.0"
+    },
+    {
+        "player": "JD McKissic",
+        "adp": "360.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Rashaad Penny",
+        "adp": "202.0",
+        "value": "0.0"
+    },
+    {
+        "player": "LeSean McCoy",
+        "adp": "181.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Brian Hill",
+        "adp": "257.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Anthony McFarland",
+        "adp": "239.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Jaylen Samuels",
+        "adp": "272.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Dion Lewis",
+        "adp": "275.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Royce Freeman",
+        "adp": "248.0",
+        "value": "0.0"
+    },
+    {
+        "player": "KeShawn Vaughn",
+        "adp": "102.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Lamar Miller",
+        "adp": "210.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Patrick Laird",
+        "adp": "324.0",
+        "value": "0.0"
+    },
+    {
+        "player": "DeAndre Washington",
+        "adp": "290.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Gus Edwards",
+        "adp": "269.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Michael Davis",
+        "adp": "376.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Lamical Perine",
+        "adp": "282.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Ryan Nall",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Cordarrelle Patterson",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Darwin Thompson",
+        "adp": "304.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Myles Gaskin",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "DeeJay Dallas",
+        "adp": "377.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Travis Homer",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Eno Ben",
+        "adp": "300.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Elijhaa Penny",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Justice Hill",
+        "adp": "227.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Michael Boone",
+        "adp": "332.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Alec Ingold",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Jeff Wilson",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Trayveon Williams",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Kalen Ballage",
+        "adp": "362.0",
+        "value": "0.0"
+    },
+    {
+        "player": "TJ Yeldon",
+        "adp": "359.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Qadree Ollison",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Ty Johnson",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Jordan Wilkins",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Reggie Bonnafon",
+        "adp": "340.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Buddy Howell",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Josh Adams",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Kerrith Whyte",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Wayne Gallman",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Jason Huntley",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Travis Kelce",
+        "adp": "16.0",
+        "value": "0.81"
+    },
+    {
+        "player": "George Kittle",
+        "adp": "20.0",
+        "value": "0.64"
+    },
+    {
+        "player": "Mark Andrews",
+        "adp": "36.0",
+        "value": "0.52"
+    },
+    {
+        "player": "Zach Ertz",
+        "adp": "41.0",
+        "value": "0.41"
+    },
+    {
+        "player": "Darren Waller",
+        "adp": "56.0",
+        "value": "0.32"
+    },
+    {
+        "player": "Evan Engram",
+        "adp": "78.0",
+        "value": "0.27"
+    },
+    {
+        "player": "Hunter Henry",
+        "adp": "68.0",
+        "value": "0.22"
+    },
+    {
+        "player": "Jared Cook",
+        "adp": "79.0",
+        "value": "0.18"
+    },
+    {
+        "player": "Tyler Higbee",
+        "adp": "67.0",
+        "value": "0.14"
+    },
+    {
+        "player": "Michael Gesicki",
+        "adp": "125.0",
+        "value": "0.11"
+    },
+    {
+        "player": "Hayden Hurst",
+        "adp": "113.0",
+        "value": "0.09"
+    },
+    {
+        "player": "Rob Gronkowski",
+        "adp": "81.0",
+        "value": "0.07"
+    },
+    {
+        "player": "Austin Hooper",
+        "adp": "98.0",
+        "value": "0.05"
+    },
+    {
+        "player": "Noah Fant",
+        "adp": "111.0",
+        "value": "0.03"
+    },
+    {
+        "player": "TJ Hockenson",
+        "adp": "136.0",
+        "value": "0.01"
+    },
+    {
+        "player": "Dallas Goedert",
+        "adp": "158.0",
+        "value": "0.01"
+    },
+    {
+        "player": "Jonnu Smith",
+        "adp": "153.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Chris Herndon",
+        "adp": "204.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Blake Jarwin",
+        "adp": "172.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Jack Doyle",
+        "adp": "180.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Eric Ebron",
+        "adp": "168.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Irv Smith",
+        "adp": "217.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Ian Thomas",
+        "adp": "191.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Greg Olsen",
+        "adp": "178.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Kyle Rudolph",
+        "adp": "169.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Tyler Eifert",
+        "adp": "203.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Dawson Knox",
+        "adp": "243.0",
+        "value": "0.0"
+    },
+    {
+        "player": "OJ Howard",
+        "adp": "188.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Gerald Everett",
+        "adp": "288.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Jimmy Graham",
+        "adp": "175.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Will Dissly",
+        "adp": "190.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Darren Fells",
+        "adp": "328.0",
+        "value": "0.0"
+    },
+    {
+        "player": "CJ Uzomah",
+        "adp": "252.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Jace Sternberger",
+        "adp": "262.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Dan Arnold",
+        "adp": "349.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Nick Boyle",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Jordan Akins",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Vance McDonald",
+        "adp": "297.0",
+        "value": "0.0"
+    },
+    {
+        "player": "David Njoku",
+        "adp": "266.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Devin Asiasi",
+        "adp": "271.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Logan Thomas",
+        "adp": "322.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Trey Burton",
+        "adp": "335.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Jason Witten",
+        "adp": "368.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Cameron Brate",
+        "adp": "317.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Anthony Firkser",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Robert Tonyan",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Ryan Griffin",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Cole Kmet",
+        "adp": "296.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Jordan Reed",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Jeremy Sprinkle",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Harrison Bryant",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Dalton Keene",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "James OShaughnessy",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Dalton Schultz",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Kaden Smith",
+        "adp": "342.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Maxx Williams",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Delanie Walker",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Mo Alie-Cox",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Foster Moreau",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Jesse James",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Josh Hill",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Ricky Seals-Jones",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Drew Sample",
+        "adp": "356.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Demetrius Harris",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Jaeden Graham",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Josiah Deguara",
+        "adp": "361.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Albert Okwuegbunam",
+        "adp": "383.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Virgil Green",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Levine Toilolo",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "MyCole Pruitt",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Jacob Hollister",
+        "adp": "321.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Jeff Heuerman",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Cethan Carter",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Adam Shaheen",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Nick Vannett",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Tyler Kroft",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Adam Trautman",
+        "adp": "371.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Jordan Thomas",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Marcedes Lewis",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Blake Bell",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Tyler Conklin",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Chris Manhertz",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Durham Smythe",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Khari Lee",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Luke Willson",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Jesper Horsted",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Ryan Izzo",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Jason Croom",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Colby Parkinson",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "JP Holtz",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Ross Dwelley",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Derek Carrier",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Brycen Hopkins",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Michael Thomas",
+        "adp": "4.0",
+        "value": "0.95"
+    },
+    {
+        "player": "Davante Adams",
+        "adp": "8.0",
+        "value": "0.9"
+    },
+    {
+        "player": "Julio Jones",
+        "adp": "11.0",
+        "value": "0.86"
+    },
+    {
+        "player": "Tyreek Hill",
+        "adp": "10.0",
+        "value": "0.82"
+    },
+    {
+        "player": "DeAndre Hopkins",
+        "adp": "13.0",
+        "value": "0.79"
+    },
+    {
+        "player": "Chris Godwin",
+        "adp": "19.0",
+        "value": "0.76"
+    },
+    {
+        "player": "Kenny Golladay",
+        "adp": "25.0",
+        "value": "0.72"
+    },
+    {
+        "player": "Michael Evans",
+        "adp": "26.0",
+        "value": "0.69"
+    },
+    {
+        "player": "Allen Robinson",
+        "adp": "27.0",
+        "value": "0.67"
+    },
+    {
+        "player": "DJ Moore",
+        "adp": "34.0",
+        "value": "0.64"
+    },
+    {
+        "player": "Amari Cooper",
+        "adp": "31.0",
+        "value": "0.61"
+    },
+    {
+        "player": "AJ Brown",
+        "adp": "35.0",
+        "value": "0.58"
+    },
+    {
+        "player": "Adam Thielen",
+        "adp": "32.0",
+        "value": "0.56"
+    },
+    {
+        "player": "Calvin Ridley",
+        "adp": "43.0",
+        "value": "0.53"
+    },
+    {
+        "player": "Cooper Kupp",
+        "adp": "39.0",
+        "value": "0.5"
+    },
+    {
+        "player": "Odell Beckham",
+        "adp": "28.0",
+        "value": "0.48"
+    },
+    {
+        "player": "Robert Woods",
+        "adp": "57.0",
+        "value": "0.45"
+    },
+    {
+        "player": "JuJu Smith-Schuster",
+        "adp": "29.0",
+        "value": "0.43"
+    },
+    {
+        "player": "Courtland Sutton",
+        "adp": "45.0",
+        "value": "0.4"
+    },
+    {
+        "player": "Terry McLaurin",
+        "adp": "54.0",
+        "value": "0.38"
+    },
+    {
+        "player": "DeVante Parker",
+        "adp": "55.0",
+        "value": "0.36"
+    },
+    {
+        "player": "Tyler Lockett",
+        "adp": "48.0",
+        "value": "0.34"
+    },
+    {
+        "player": "DJ Chark",
+        "adp": "51.0",
+        "value": "0.31"
+    },
+    {
+        "player": "Keenan Allen",
+        "adp": "49.0",
+        "value": "0.29"
+    },
+    {
+        "player": "DK Metcalf",
+        "adp": "53.0",
+        "value": "0.27"
+    },
+    {
+        "player": "TY Hilton",
+        "adp": "62.0",
+        "value": "0.25"
+    },
+    {
+        "player": "Stefon Diggs",
+        "adp": "63.0",
+        "value": "0.23"
+    },
+    {
+        "player": "Michael Gallup",
+        "adp": "72.0",
+        "value": "0.21"
+    },
+    {
+        "player": "Marquise Brown",
+        "adp": "77.0",
+        "value": "0.2"
+    },
+    {
+        "player": "Jarvis Landry",
+        "adp": "74.0",
+        "value": "0.18"
+    },
+    {
+        "player": "AJ Green",
+        "adp": "70.0",
+        "value": "0.16"
+    },
+    {
+        "player": "Julian Edelman",
+        "adp": "82.0",
+        "value": "0.15"
+    },
+    {
+        "player": "Tyler Boyd",
+        "adp": "75.0",
+        "value": "0.13"
+    },
+    {
+        "player": "Marvin Jones",
+        "adp": "90.0",
+        "value": "0.12"
+    },
+    {
+        "player": "Will Fuller",
+        "adp": "84.0",
+        "value": "0.11"
+    },
+    {
+        "player": "Jamison Crowder",
+        "adp": "118.0",
+        "value": "0.1"
+    },
+    {
+        "player": "Brandin Cooks",
+        "adp": "95.0",
+        "value": "0.09"
+    },
+    {
+        "player": "Sterling Shepard",
+        "adp": "122.0",
+        "value": "0.08"
+    },
+    {
+        "player": "Diontae Johnson",
+        "adp": "105.0",
+        "value": "0.07"
+    },
+    {
+        "player": "Darius Slayton",
+        "adp": "106.0",
+        "value": "0.06"
+    },
+    {
+        "player": "CeeDee Lamb",
+        "adp": "103.0",
+        "value": "0.05"
+    },
+    {
+        "player": "Deebo Samuel",
+        "adp": "80.0",
+        "value": "0.05"
+    },
+    {
+        "player": "Christian Kirk",
+        "adp": "121.0",
+        "value": "0.04"
+    },
+    {
+        "player": "John Brown",
+        "adp": "97.0",
+        "value": "0.03"
+    },
+    {
+        "player": "Preston Williams",
+        "adp": "148.0",
+        "value": "0.03"
+    },
+    {
+        "player": "Anthony Miller",
+        "adp": "156.0",
+        "value": "0.02"
+    },
+    {
+        "player": "Golden Tate",
+        "adp": "151.0",
+        "value": "0.02"
+    },
+    {
+        "player": "Emmanuel Sanders",
+        "adp": "110.0",
+        "value": "0.01"
+    },
+    {
+        "player": "Jerry Jeudy",
+        "adp": "109.0",
+        "value": "0.01"
+    },
+    {
+        "player": "Henry Ruggs",
+        "adp": "129.0",
+        "value": "0.01"
+    },
+    {
+        "player": "Michael Williams",
+        "adp": "130.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Breshad Perriman",
+        "adp": "179.0",
+        "value": "0.0"
+    },
+    {
+        "player": "DeSean Jackson",
+        "adp": "164.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Robby Anderson",
+        "adp": "157.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Curtis Samuel",
+        "adp": "176.0",
+        "value": "0.0"
+    },
+    {
+        "player": "NKeal Harry",
+        "adp": "187.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Allen Lazard",
+        "adp": "194.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Mecole Hardman",
+        "adp": "139.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Sammy Watkins",
+        "adp": "145.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Justin Jefferson",
+        "adp": "132.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Larry Fitzgerald",
+        "adp": "171.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Corey Davis",
+        "adp": "208.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Michael Pittman",
+        "adp": "186.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Bryan Edwards",
+        "adp": "223.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Brandon Aiyuk",
+        "adp": "213.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Cole Beasley",
+        "adp": "238.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Hunter Renfrow",
+        "adp": "177.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Steven Sims",
+        "adp": "314.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Jalen Reagor",
+        "adp": "140.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Parris Campbell",
+        "adp": "214.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Dede Westbrook",
+        "adp": "198.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Randall Cobb",
+        "adp": "231.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Laviska Shenault",
+        "adp": "240.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Danny Amendola",
+        "adp": "279.0",
+        "value": "0.0"
+    },
+    {
+        "player": "James Washington",
+        "adp": "220.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Russell Gage",
+        "adp": "320.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Adam Humphries",
+        "adp": "316.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Chris Conley",
+        "adp": "291.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Alshon Jeffery",
+        "adp": "162.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Denzel Mims",
+        "adp": "200.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Tee Higgins",
+        "adp": "212.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Josh Reynolds",
+        "adp": "268.0",
+        "value": "0.0"
+    },
+    {
+        "player": "John Ross",
+        "adp": "206.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Kenny Stills",
+        "adp": "225.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Miles Boykin",
+        "adp": "301.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Kendrick Bourne",
+        "adp": "270.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Marquez Valdes-Scantling",
+        "adp": "318.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Chase Claypool",
+        "adp": "261.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Olabisi Johnson",
+        "adp": "355.0",
+        "value": "0.0"
+    },
+    {
+        "player": "TreQuan Smith",
+        "adp": "281.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Van Jefferson",
+        "adp": "337.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Willie Snead",
+        "adp": "235.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Jakeem Grant",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Zach Pascal",
+        "adp": "307.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Antonio Gandy-Golden",
+        "adp": "344.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Isaiah Ford",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "KJ Hamler",
+        "adp": "292.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Jakobi Meyers",
+        "adp": "341.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Dontrelle Inman",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Andy Isabella",
+        "adp": "264.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Damiere Byrd",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Demarcus Robinson",
+        "adp": "326.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Scott Miller",
+        "adp": "358.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Auden Tate",
+        "adp": "305.0",
+        "value": "0.0"
+    },
+    {
+        "player": "JJ Arcega-Whiteside",
+        "adp": "330.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Phillip Dorsett",
+        "adp": "315.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Gunner Olszewski",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Gary Jennings",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Devin Duvernay",
+        "adp": "233.0",
+        "value": "0.0"
+    },
+    {
+        "player": "David Moore",
+        "adp": "333.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Quincy Enunwa",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Joe Reed",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Nelson Agholor",
+        "adp": "311.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Tim Patrick",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Keke Coutee",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Keelan Cole",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Greg Ward",
+        "adp": "348.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Trey Quinn",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Justin Watson",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Kalif Raymond",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "John Hightower",
+        "adp": "385.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Dante Pettis",
+        "adp": "367.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Darnell Mooney",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Isaiah McKenzie",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Tajae Sharpe",
+        "adp": "336.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Jake Kumerow",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Rashard Higgins",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Cedrick Wilson",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Christian Blake",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Duke Williams",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Javon Wims",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "DaeSean Hamilton",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Marcus Johnson",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Cody Hollister",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Riley Ridley",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Chris Moore",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Tyler Johnson",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Quintez Cephus",
+        "adp": "375.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Seth Roberts",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Vyncint Smith",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Deonte Harris",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Corey Coleman",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "KeeSean Johnson",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Freddie Swain",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Gabriel Davis",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Laquon Treadwell",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Braxton Berrios",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Marvin Hall",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Alex Erickson",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "KJ Hill",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Isaiah Coulter",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Andre Patton",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Robert Foster",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Pharoh Cooper",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Hakeem Butler",
+        "adp": "374.0",
+        "value": "0.0"
+    },
+    {
+        "player": "Darius Jennings",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Noah Brown",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Ryan Switzer",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Olamide Zaccheaus",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Keelan Doss",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Zay Jones",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Donovan Peoples-Jones",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Damion Ratley",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "James Proche",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Mack Hollins",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Ventell Bryant",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "John Ursua",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "DeAndre Carter",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Trent Sherfield",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Richie James",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Isaiah Hodgins",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Byron Pringle",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "KJ Osborn",
+        "adp": "",
+        "value": "0.0"
+    },
+    {
+        "player": "Cam Sims",
+        "adp": "",
+        "value": "0.0"
+    }
+]
